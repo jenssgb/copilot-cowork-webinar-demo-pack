@@ -1,0 +1,6 @@
+Open product_margin_raw.xlsx. Build a Product Margin Intelligence workbook:
+1. MARGIN HEALTH DASHBOARD: overall margin %, total revenue, total profit, negative-margin count, average margin by Category, a RAG traffic-light (Green >=25%, Amber 10-24%, Red <10%), and a donut chart of revenue by Category.
+2. MARGIN KILLERS SHEET: every product with Margin % < 10%, sorted by total profit impact (worst first), with a Recommended Action column.
+3. CHANNEL PROFITABILITY PIVOT: average margin % and total profit per Sales Channel, with a bar chart.
+4. EXECUTIVE SUMMARY: company-wide margin %, plus the top 3 recommendations.
+(Compute unit margin from List Price, COGS, Channel Fee, Ads/Unit and Discount %.)

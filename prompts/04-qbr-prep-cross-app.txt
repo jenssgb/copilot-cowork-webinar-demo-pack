@@ -1,0 +1,6 @@
+Using c21_qbr_prep_cross_app.xlsx, build a complete Q3 QBR prep pack for Apex Financial Services (health score 61, NPS 6.1, 14 open support tickets, $80K expansion opportunity — a RED account).
+1. EXCEL — Summarize Apex's key metrics, risks, and expansion potential.
+2. POWERPOINT — Generate a 12-slide QBR deck with RAG indicators.
+3. WORD — Create a formal 60-minute QBR agenda with a timing breakdown.
+4. OUTLOOK — Draft the pre-read email to the champion (CC: exec sponsor). Keep it as a draft for my approval.
+5. CALENDAR — Find a 60-minute slot next week and create the QBR invite. Show it to me for approval before creating it.

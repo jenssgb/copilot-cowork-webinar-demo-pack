@@ -1,0 +1,6 @@
+Using c30_executive_week_ahead.xlsx, prep my week ahead.
+1. From the "Calendar Next Week" sheet, pick the 5 most important external meetings by Priority.
+2. For each, research the company and the attendee's role (use the Context column plus enterprise search) and write a 1-page briefing in Word: who is in the room, why it matters, 3 talking points, and 1 risk.
+3. From the "Pending Emails" sheet, list the emails that need a decision from me, each with a recommended next step.
+4. Draft short pre-meeting emails for the top 3 meetings. Keep them as drafts for my approval — do not send.
+Save all briefings to OneDrive as "Week-Ahead Briefings.docx".
