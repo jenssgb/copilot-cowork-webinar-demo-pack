@@ -1,91 +1,1501 @@
-RespondentID,Department,Tenure,Q1_I_feel_valued_at_work,Q2_My_manager_supports_my,Q3_Workload_is_sustainabl,Q4_I_have_the_tools_I_nee,Q5_I_understand_company_s,Q6_I_would_recommend_us_a,What_is_working,What_to_improve
-R001,Marketing,3-5y,3,4,4,5,4,4,Great teammates and mission.,On-call load is heavy this quarter.
-R002,Sales,3-5y,3,4,4,4,1,3,I learn something new every week.,Compensation lags the market.
-R003,Customer Success,<1y,4,3,2,4,2,4,Flexible hours help a lot.,Cross-team handoffs are slow.
-R004,Engineering,1-3y,4,3,4,3,4,4,Leadership is transparent in town halls.,Cross-team handoffs are slow.
-R005,Engineering,5y+,5,5,5,3,4,3,Leadership is transparent in town halls.,Career paths are unclear.
-R006,Operations,<1y,4,4,4,1,3,5,I learn something new every week.,Career paths are unclear.
-R007,Operations,5y+,2,2,4,4,4,3,Leadership is transparent in town halls.,Cross-team handoffs are slow.
-R008,Sales,1-3y,4,3,4,2,4,4,Flexible hours help a lot.,On-call load is heavy this quarter.
-R009,Operations,1-3y,2,3,3,2,3,4,Flexible hours help a lot.,Career paths are unclear.
-R010,Operations,1-3y,4,2,3,3,4,4,Great teammates and mission.,Career paths are unclear.
-R011,Marketing,5y+,4,3,4,4,4,5,Great teammates and mission.,Cross-team handoffs are slow.
-R012,Finance,3-5y,3,5,3,3,4,4,I learn something new every week.,"Too many meetings, not enough focus time."
-R013,Engineering,1-3y,4,3,4,5,4,3,I learn something new every week.,Cross-team handoffs are slow.
-R014,Operations,1-3y,5,3,3,3,5,5,I learn something new every week.,Compensation lags the market.
-R015,Sales,1-3y,3,4,4,2,2,4,Great teammates and mission.,Tooling is fragmented.
-R016,Customer Success,<1y,4,3,5,3,4,3,Leadership is transparent in town halls.,Tooling is fragmented.
-R017,Customer Success,<1y,2,5,2,5,2,5,Great teammates and mission.,On-call load is heavy this quarter.
-R018,Engineering,<1y,5,3,3,3,4,2,Great teammates and mission.,Career paths are unclear.
-R019,Customer Success,1-3y,4,4,4,4,3,5,I learn something new every week.,Compensation lags the market.
-R020,Finance,1-3y,4,5,5,4,4,3,Leadership is transparent in town halls.,Career paths are unclear.
-R021,Engineering,1-3y,4,4,2,3,3,3,I learn something new every week.,Career paths are unclear.
-R022,Marketing,3-5y,5,4,5,4,3,5,Leadership is transparent in town halls.,"Too many meetings, not enough focus time."
-R023,Engineering,5y+,3,3,2,4,4,3,Great teammates and mission.,"Too many meetings, not enough focus time."
-R024,Customer Success,<1y,5,5,4,4,3,4,Leadership is transparent in town halls.,Career paths are unclear.
-R025,Finance,3-5y,4,5,4,4,3,5,Great teammates and mission.,Compensation lags the market.
-R026,Finance,<1y,4,5,4,4,4,4,Flexible hours help a lot.,Cross-team handoffs are slow.
-R027,Finance,5y+,3,4,5,5,3,4,Flexible hours help a lot.,Tooling is fragmented.
-R028,Operations,3-5y,3,3,3,4,3,4,Leadership is transparent in town halls.,Tooling is fragmented.
-R029,Sales,<1y,3,3,3,3,3,4,I learn something new every week.,Compensation lags the market.
-R030,Marketing,3-5y,4,5,3,4,2,3,Flexible hours help a lot.,Career paths are unclear.
-R031,Engineering,1-3y,3,4,3,4,4,2,I learn something new every week.,Career paths are unclear.
-R032,Marketing,3-5y,5,3,3,3,3,4,Flexible hours help a lot.,Tooling is fragmented.
-R033,Customer Success,<1y,4,4,4,4,3,3,Flexible hours help a lot.,Career paths are unclear.
-R034,Marketing,<1y,5,5,3,3,3,5,"Good customers, meaningful work.",Cross-team handoffs are slow.
-R035,Finance,3-5y,4,5,3,4,4,5,"Good customers, meaningful work.",Cross-team handoffs are slow.
-R036,Engineering,3-5y,3,4,5,2,3,5,Leadership is transparent in town halls.,"Too many meetings, not enough focus time."
-R037,Operations,3-5y,5,4,3,4,2,3,Flexible hours help a lot.,Compensation lags the market.
-R038,Marketing,3-5y,5,4,3,4,4,4,Leadership is transparent in town halls.,On-call load is heavy this quarter.
-R039,Sales,<1y,3,4,2,2,3,3,Leadership is transparent in town halls.,Cross-team handoffs are slow.
-R040,Sales,5y+,3,3,3,3,3,4,Leadership is transparent in town halls.,Tooling is fragmented.
-R041,Marketing,3-5y,5,3,1,3,3,4,Great teammates and mission.,On-call load is heavy this quarter.
-R042,Engineering,1-3y,3,4,3,4,4,2,I learn something new every week.,"Too many meetings, not enough focus time."
-R043,Customer Success,3-5y,4,3,3,2,4,4,"Good customers, meaningful work.",Cross-team handoffs are slow.
-R044,Sales,5y+,3,3,2,2,3,3,Leadership is transparent in town halls.,Career paths are unclear.
-R045,Finance,<1y,5,4,4,3,5,5,"Good customers, meaningful work.",Cross-team handoffs are slow.
-R046,Finance,<1y,4,3,4,4,5,3,Great teammates and mission.,Tooling is fragmented.
-R047,Engineering,5y+,4,3,4,4,4,4,I learn something new every week.,Tooling is fragmented.
-R048,Engineering,3-5y,3,3,2,4,3,3,Leadership is transparent in town halls.,Compensation lags the market.
-R049,Sales,5y+,3,3,2,4,2,3,Leadership is transparent in town halls.,Cross-team handoffs are slow.
-R050,Operations,<1y,3,3,3,4,4,4,Leadership is transparent in town halls.,Compensation lags the market.
-R051,Operations,5y+,5,3,3,3,3,4,Flexible hours help a lot.,Cross-team handoffs are slow.
-R052,Finance,5y+,5,3,5,3,3,3,Leadership is transparent in town halls.,"Too many meetings, not enough focus time."
-R053,Engineering,1-3y,3,4,4,3,5,3,"Good customers, meaningful work.",On-call load is heavy this quarter.
-R054,Engineering,<1y,4,4,3,4,3,5,Great teammates and mission.,Tooling is fragmented.
-R055,Operations,1-3y,3,4,2,3,3,4,I learn something new every week.,Tooling is fragmented.
-R056,Sales,3-5y,3,5,3,4,4,4,Leadership is transparent in town halls.,Tooling is fragmented.
-R057,Finance,<1y,4,5,1,4,4,3,I learn something new every week.,Cross-team handoffs are slow.
-R058,Marketing,3-5y,3,4,4,2,2,4,Great teammates and mission.,Tooling is fragmented.
-R059,Marketing,3-5y,5,2,4,4,3,4,Flexible hours help a lot.,Tooling is fragmented.
-R060,Finance,<1y,4,5,5,3,4,5,Great teammates and mission.,On-call load is heavy this quarter.
-R061,Sales,1-3y,5,3,3,3,4,3,I learn something new every week.,On-call load is heavy this quarter.
-R062,Operations,1-3y,4,3,3,3,4,4,I learn something new every week.,Cross-team handoffs are slow.
-R063,Operations,1-3y,4,2,4,5,2,3,Flexible hours help a lot.,Compensation lags the market.
-R064,Operations,<1y,3,3,4,2,3,2,Flexible hours help a lot.,Tooling is fragmented.
-R065,Customer Success,5y+,4,3,4,5,2,2,I learn something new every week.,On-call load is heavy this quarter.
-R066,Finance,5y+,5,4,3,5,4,4,I learn something new every week.,Cross-team handoffs are slow.
-R067,Engineering,1-3y,3,5,4,3,2,4,Flexible hours help a lot.,"Too many meetings, not enough focus time."
-R068,Finance,5y+,3,4,3,2,5,3,"Good customers, meaningful work.",On-call load is heavy this quarter.
-R069,Sales,3-5y,4,4,2,5,4,5,"Good customers, meaningful work.",Compensation lags the market.
-R070,Engineering,5y+,3,3,2,4,3,3,Leadership is transparent in town halls.,On-call load is heavy this quarter.
-R071,Operations,3-5y,3,4,1,5,2,5,Great teammates and mission.,Compensation lags the market.
-R072,Marketing,5y+,5,3,3,4,2,3,Great teammates and mission.,Compensation lags the market.
-R073,Engineering,1-3y,5,4,2,5,4,4,I learn something new every week.,Tooling is fragmented.
-R074,Marketing,<1y,3,4,4,4,3,4,I learn something new every week.,Tooling is fragmented.
-R075,Finance,1-3y,4,5,3,4,4,3,Great teammates and mission.,Career paths are unclear.
-R076,Operations,3-5y,3,4,4,3,4,2,"Good customers, meaningful work.",On-call load is heavy this quarter.
-R077,Marketing,5y+,4,3,4,4,2,3,Great teammates and mission.,Compensation lags the market.
-R078,Marketing,1-3y,3,3,4,4,4,4,Great teammates and mission.,"Too many meetings, not enough focus time."
-R079,Marketing,1-3y,4,3,4,4,5,4,"Good customers, meaningful work.",Compensation lags the market.
-R080,Operations,5y+,3,3,4,4,3,4,I learn something new every week.,"Too many meetings, not enough focus time."
-R081,Marketing,5y+,3,3,3,3,3,3,I learn something new every week.,Compensation lags the market.
-R082,Engineering,1-3y,4,5,4,3,3,3,I learn something new every week.,Career paths are unclear.
-R083,Marketing,5y+,4,4,3,3,4,4,Great teammates and mission.,Tooling is fragmented.
-R084,Sales,<1y,3,3,5,5,1,3,I learn something new every week.,Career paths are unclear.
-R085,Operations,1-3y,4,5,2,3,5,2,"Good customers, meaningful work.",Compensation lags the market.
-R086,Engineering,5y+,4,3,4,4,3,4,Leadership is transparent in town halls.,Career paths are unclear.
-R087,Marketing,1-3y,5,5,4,4,4,4,Leadership is transparent in town halls.,Tooling is fragmented.
-R088,Customer Success,1-3y,3,3,4,4,4,4,I learn something new every week.,Cross-team handoffs are slow.
-R089,Sales,5y+,5,1,4,4,4,3,"Good customers, meaningful work.",Compensation lags the market.
-R090,Sales,1-3y,4,2,3,2,3,3,"Good customers, meaningful work.","Too many meetings, not enough focus time."
+RespondentID,Department,Region,Tenure,Q1. I feel valued at work,Q2. My manager supports my growth,Q3. Workload is sustainable,Q4. I have the tools I need,Q5. I understand company strategy,Q6. I can be my authentic self,Q7. I would recommend us as a place to work,Q8. I see a path to grow here,What_is_working,What_to_improve
+R0001,Engineering,APAC,5y+,2,4,3,3,4,3,4,3,"Good customers, meaningful work.",Not enough headcount for the roadmap.
+R0002,People,APAC,<1y,4,5,4,4,5,3,4,4,I learn something new every week.,Compensation lags the market.
+R0003,People,NA,3-5y,5,4,5,3,3,3,5,4,Managers actually listen.,On-call load is heavy this quarter.
+R0004,Sales,APAC,<1y,5,3,4,2,3,3,2,4,Flexible hours help a lot.,Promotion process feels opaque.
+R0005,Finance,APAC,<1y,5,5,3,4,3,2,3,4,Flexible hours help a lot.,On-call load is heavy this quarter.
+R0006,Sales,APAC,<1y,3,3,3,3,3,5,4,3,Great teammates and a real mission.,Career paths are unclear.
+R0007,Engineering,EMEA,5y+,4,3,4,4,3,5,4,4,Flexible hours help a lot.,Not enough headcount for the roadmap.
+R0008,Product,EMEA,3-5y,3,3,2,2,4,2,3,4,Great teammates and a real mission.,Tooling is fragmented.
+R0009,Engineering,APAC,5y+,5,5,3,4,4,3,3,4,I learn something new every week.,Not enough headcount for the roadmap.
+R0010,Sales,LATAM,5y+,4,2,2,3,4,4,5,5,Great teammates and a real mission.,Not enough headcount for the roadmap.
+R0011,Finance,NA,<1y,4,3,4,4,5,5,3,3,Strong onboarding buddy program.,Compensation lags the market.
+R0012,Operations,EMEA,5y+,3,3,2,4,4,5,5,3,Flexible hours help a lot.,Promotion process feels opaque.
+R0013,Customer Success,LATAM,5y+,4,4,5,4,4,4,5,4,Flexible hours help a lot.,Tooling is fragmented.
+R0014,Marketing,LATAM,3-5y,3,4,4,4,2,3,4,3,"Good customers, meaningful work.",Promotion process feels opaque.
+R0015,Engineering,APAC,<1y,5,4,5,4,3,4,4,4,I learn something new every week.,On-call load is heavy this quarter.
+R0016,Engineering,NA,5y+,1,5,2,3,3,4,3,5,Managers actually listen.,Tooling is fragmented.
+R0017,Customer Success,NA,3-5y,3,5,4,4,3,5,3,4,Great teammates and a real mission.,Tooling is fragmented.
+R0018,Sales,APAC,5y+,3,2,3,4,3,4,5,2,Interesting technical challenges.,Not enough headcount for the roadmap.
+R0019,Product,APAC,5y+,3,3,2,4,5,3,2,3,I learn something new every week.,Not enough headcount for the roadmap.
+R0020,Operations,NA,3-5y,3,5,3,2,3,4,2,3,Interesting technical challenges.,Cross-team handoffs are slow.
+R0021,Engineering,EMEA,3-5y,5,4,3,5,5,3,3,5,Interesting technical challenges.,Compensation lags the market.
+R0022,Operations,NA,5y+,2,3,2,4,3,3,4,4,I learn something new every week.,Not enough headcount for the roadmap.
+R0023,People,LATAM,3-5y,4,5,5,4,3,3,4,4,Managers actually listen.,On-call load is heavy this quarter.
+R0024,Customer Success,APAC,5y+,3,3,5,4,3,3,5,4,Flexible hours help a lot.,"Too many meetings, not enough focus time."
+R0025,Operations,APAC,5y+,4,3,1,3,3,5,3,3,I learn something new every week.,On-call load is heavy this quarter.
+R0026,Marketing,LATAM,3-5y,4,4,2,2,4,3,3,4,Strong onboarding buddy program.,Compensation lags the market.
+R0027,Engineering,EMEA,1-3y,4,4,3,4,4,4,3,3,Flexible hours help a lot.,Not enough headcount for the roadmap.
+R0028,Marketing,NA,<1y,4,5,3,4,3,5,3,3,Interesting technical challenges.,On-call load is heavy this quarter.
+R0029,Finance,LATAM,3-5y,4,3,5,4,5,4,4,3,Great teammates and a real mission.,On-call load is heavy this quarter.
+R0030,Engineering,APAC,5y+,2,2,3,3,5,4,3,2,"Good customers, meaningful work.",On-call load is heavy this quarter.
+R0031,Finance,EMEA,3-5y,3,3,4,3,5,5,5,3,Managers actually listen.,Cross-team handoffs are slow.
+R0032,Operations,NA,5y+,4,5,4,1,2,3,2,4,Great teammates and a real mission.,"Too many meetings, not enough focus time."
+R0033,People,EMEA,<1y,5,4,3,5,4,4,5,3,Great teammates and a real mission.,Not enough headcount for the roadmap.
+R0034,Finance,NA,5y+,4,3,4,5,4,4,5,5,Interesting technical challenges.,Not enough headcount for the roadmap.
+R0035,Engineering,APAC,<1y,4,4,4,3,3,5,5,3,I learn something new every week.,Career paths are unclear.
+R0036,Engineering,APAC,<1y,4,3,5,5,5,5,2,2,Managers actually listen.,Career paths are unclear.
+R0037,Engineering,APAC,5y+,4,4,2,4,3,4,4,3,Leadership is transparent in town halls.,Promotion process feels opaque.
+R0038,Engineering,APAC,<1y,4,5,4,3,2,3,3,3,Flexible hours help a lot.,Cross-team handoffs are slow.
+R0039,Engineering,APAC,<1y,3,4,3,3,5,3,4,5,"Good customers, meaningful work.",Promotion process feels opaque.
+R0040,Marketing,EMEA,5y+,4,5,3,3,3,4,4,2,Leadership is transparent in town halls.,Compensation lags the market.
+R0041,People,EMEA,1-3y,3,4,4,5,4,4,5,5,Managers actually listen.,Compensation lags the market.
+R0042,People,NA,3-5y,5,4,5,4,3,4,5,4,Managers actually listen.,On-call load is heavy this quarter.
+R0043,Product,NA,5y+,3,3,4,3,4,3,4,3,Strong onboarding buddy program.,"Too many meetings, not enough focus time."
+R0044,Sales,NA,3-5y,1,4,4,3,3,4,1,3,"Good customers, meaningful work.",Cross-team handoffs are slow.
+R0045,Finance,NA,5y+,4,4,3,4,3,3,3,3,Leadership is transparent in town halls.,"Too many meetings, not enough focus time."
+R0046,Operations,EMEA,3-5y,3,2,4,2,3,3,2,3,Great teammates and a real mission.,Not enough headcount for the roadmap.
+R0047,Customer Success,APAC,<1y,3,4,3,4,4,4,5,3,I learn something new every week.,On-call load is heavy this quarter.
+R0048,People,APAC,<1y,3,3,5,4,5,4,4,4,Leadership is transparent in town halls.,Cross-team handoffs are slow.
+R0049,Engineering,APAC,3-5y,4,2,3,4,4,3,4,3,Interesting technical challenges.,On-call load is heavy this quarter.
+R0050,People,EMEA,5y+,4,4,4,4,4,4,4,5,Flexible hours help a lot.,"Too many meetings, not enough focus time."
+R0051,Sales,APAC,5y+,3,4,3,3,4,3,4,4,Flexible hours help a lot.,Not enough headcount for the roadmap.
+R0052,Engineering,EMEA,1-3y,3,2,3,2,4,4,4,2,Strong onboarding buddy program.,On-call load is heavy this quarter.
+R0053,Marketing,NA,3-5y,4,4,5,4,3,3,5,3,Interesting technical challenges.,"Too many meetings, not enough focus time."
+R0054,Product,LATAM,3-5y,4,3,4,4,4,2,3,2,Leadership is transparent in town halls.,Career paths are unclear.
+R0055,Product,NA,<1y,3,4,5,3,3,5,4,3,Leadership is transparent in town halls.,Not enough headcount for the roadmap.
+R0056,Customer Success,LATAM,3-5y,4,3,3,4,4,2,4,5,Interesting technical challenges.,On-call load is heavy this quarter.
+R0057,Operations,EMEA,3-5y,4,3,2,4,2,2,3,2,Interesting technical challenges.,On-call load is heavy this quarter.
+R0058,Finance,LATAM,5y+,5,5,5,5,5,3,3,3,I learn something new every week.,Compensation lags the market.
+R0059,Sales,APAC,5y+,4,4,3,2,1,2,2,4,Leadership is transparent in town halls.,"Too many meetings, not enough focus time."
+R0060,Sales,EMEA,1-3y,3,4,2,3,3,2,4,4,Managers actually listen.,Career paths are unclear.
+R0061,Customer Success,NA,5y+,3,5,4,3,3,5,3,3,Strong onboarding buddy program.,Career paths are unclear.
+R0062,Sales,APAC,5y+,3,3,3,3,2,3,4,2,Strong onboarding buddy program.,Cross-team handoffs are slow.
+R0063,Sales,APAC,1-3y,4,4,2,3,3,4,4,3,"Good customers, meaningful work.",Not enough headcount for the roadmap.
+R0064,Customer Success,APAC,3-5y,5,4,5,5,5,4,5,5,Great teammates and a real mission.,Promotion process feels opaque.
+R0065,Marketing,NA,5y+,5,3,3,3,3,3,4,4,Strong onboarding buddy program.,Promotion process feels opaque.
+R0066,Engineering,LATAM,5y+,2,4,2,5,3,3,3,4,Managers actually listen.,Not enough headcount for the roadmap.
+R0067,Engineering,EMEA,<1y,5,3,2,5,3,3,1,3,Strong onboarding buddy program.,Promotion process feels opaque.
+R0068,Sales,NA,<1y,2,4,5,3,4,3,2,4,Interesting technical challenges.,Career paths are unclear.
+R0069,Sales,NA,5y+,5,2,2,4,2,4,5,2,Flexible hours help a lot.,Promotion process feels opaque.
+R0070,Customer Success,LATAM,<1y,5,5,3,5,3,3,4,3,Strong onboarding buddy program.,Cross-team handoffs are slow.
+R0071,Operations,APAC,3-5y,3,4,4,4,4,3,3,3,Strong onboarding buddy program.,Compensation lags the market.
+R0072,Finance,LATAM,<1y,3,5,5,5,4,5,3,5,Interesting technical challenges.,"Too many meetings, not enough focus time."
+R0073,Sales,APAC,3-5y,3,4,2,4,2,3,3,4,Flexible hours help a lot.,Promotion process feels opaque.
+R0074,Finance,LATAM,<1y,5,2,2,3,3,4,4,4,I learn something new every week.,Cross-team handoffs are slow.
+R0075,Product,LATAM,5y+,3,3,5,2,4,3,4,5,Great teammates and a real mission.,Not enough headcount for the roadmap.
+R0076,Operations,LATAM,<1y,3,4,3,3,2,2,3,4,Leadership is transparent in town halls.,On-call load is heavy this quarter.
+R0077,People,LATAM,5y+,5,5,3,3,4,4,3,5,"Good customers, meaningful work.","Too many meetings, not enough focus time."
+R0078,Customer Success,LATAM,5y+,5,5,3,4,2,4,5,3,Leadership is transparent in town halls.,Not enough headcount for the roadmap.
+R0079,Sales,LATAM,1-3y,4,4,4,4,2,4,3,4,Leadership is transparent in town halls.,Tooling is fragmented.
+R0080,People,APAC,<1y,5,5,3,4,3,3,5,2,Great teammates and a real mission.,Promotion process feels opaque.
+R0081,Marketing,LATAM,5y+,2,3,4,4,5,3,2,4,Strong onboarding buddy program.,Career paths are unclear.
+R0082,Customer Success,LATAM,<1y,3,3,4,5,4,3,3,4,"Good customers, meaningful work.",Career paths are unclear.
+R0083,Finance,APAC,5y+,4,3,4,4,3,4,4,3,Interesting technical challenges.,"Too many meetings, not enough focus time."
+R0084,Finance,EMEA,3-5y,3,4,3,3,5,5,4,3,I learn something new every week.,Promotion process feels opaque.
+R0085,Finance,EMEA,5y+,4,5,4,4,4,3,3,3,Flexible hours help a lot.,On-call load is heavy this quarter.
+R0086,Operations,LATAM,3-5y,4,3,4,5,3,4,3,1,Managers actually listen.,Career paths are unclear.
+R0087,Finance,APAC,5y+,3,4,4,2,5,5,3,3,Flexible hours help a lot.,Not enough headcount for the roadmap.
+R0088,Engineering,NA,3-5y,3,2,2,5,4,4,4,3,Flexible hours help a lot.,Compensation lags the market.
+R0089,Engineering,NA,1-3y,4,4,4,3,5,3,5,4,Flexible hours help a lot.,Cross-team handoffs are slow.
+R0090,Engineering,APAC,1-3y,4,3,4,4,4,3,3,4,Strong onboarding buddy program.,Not enough headcount for the roadmap.
+R0091,Sales,LATAM,<1y,2,2,2,3,4,5,3,5,Interesting technical challenges.,On-call load is heavy this quarter.
+R0092,Operations,LATAM,3-5y,3,5,5,4,5,5,4,4,Managers actually listen.,Cross-team handoffs are slow.
+R0093,Sales,EMEA,<1y,2,5,2,3,3,2,5,3,Managers actually listen.,On-call load is heavy this quarter.
+R0094,Finance,APAC,3-5y,4,4,3,4,3,2,5,3,"Good customers, meaningful work.",Tooling is fragmented.
+R0095,Operations,APAC,5y+,5,4,4,4,3,4,4,2,Flexible hours help a lot.,Cross-team handoffs are slow.
+R0096,Operations,APAC,3-5y,4,3,4,4,5,4,5,4,Managers actually listen.,Career paths are unclear.
+R0097,Product,NA,1-3y,3,4,5,5,4,2,3,2,Interesting technical challenges.,"Too many meetings, not enough focus time."
+R0098,Customer Success,NA,1-3y,4,4,4,4,5,5,3,5,I learn something new every week.,"Too many meetings, not enough focus time."
+R0099,Finance,EMEA,<1y,3,4,2,5,5,5,3,3,I learn something new every week.,On-call load is heavy this quarter.
+R0100,Finance,NA,1-3y,4,3,4,5,3,3,4,3,Strong onboarding buddy program.,"Too many meetings, not enough focus time."
+R0101,Product,LATAM,<1y,3,3,5,3,4,3,4,3,"Good customers, meaningful work.",Cross-team handoffs are slow.
+R0102,People,NA,1-3y,4,4,4,5,5,4,4,3,Interesting technical challenges.,Promotion process feels opaque.
+R0103,Finance,EMEA,1-3y,3,4,3,5,3,2,3,4,I learn something new every week.,Not enough headcount for the roadmap.
+R0104,Product,NA,<1y,3,2,5,3,3,3,4,4,"Good customers, meaningful work.",Career paths are unclear.
+R0105,Product,LATAM,3-5y,3,2,4,3,3,3,4,3,Great teammates and a real mission.,"Too many meetings, not enough focus time."
+R0106,Product,NA,5y+,4,3,4,3,2,4,4,3,Managers actually listen.,Cross-team handoffs are slow.
+R0107,Sales,LATAM,5y+,3,5,3,3,4,2,4,2,Interesting technical challenges.,Not enough headcount for the roadmap.
+R0108,Customer Success,LATAM,<1y,5,3,5,4,5,4,3,3,Great teammates and a real mission.,Promotion process feels opaque.
+R0109,Operations,LATAM,3-5y,3,3,5,5,4,3,1,5,Great teammates and a real mission.,Career paths are unclear.
+R0110,Operations,APAC,5y+,2,3,3,4,3,3,4,4,Flexible hours help a lot.,Not enough headcount for the roadmap.
+R0111,Finance,LATAM,3-5y,5,3,4,4,3,2,3,4,"Good customers, meaningful work.",Tooling is fragmented.
+R0112,Customer Success,APAC,5y+,4,3,3,5,4,5,3,3,Leadership is transparent in town halls.,Tooling is fragmented.
+R0113,People,LATAM,<1y,3,4,4,5,4,3,4,4,Leadership is transparent in town halls.,Tooling is fragmented.
+R0114,Engineering,NA,5y+,4,3,3,2,3,4,3,3,Flexible hours help a lot.,Not enough headcount for the roadmap.
+R0115,Operations,LATAM,1-3y,4,2,2,4,3,5,4,5,"Good customers, meaningful work.",Not enough headcount for the roadmap.
+R0116,Product,EMEA,3-5y,3,4,4,3,4,3,5,4,Strong onboarding buddy program.,Promotion process feels opaque.
+R0117,Finance,NA,5y+,5,4,5,3,3,4,4,3,"Good customers, meaningful work.",On-call load is heavy this quarter.
+R0118,People,EMEA,3-5y,5,3,5,3,4,3,4,5,Strong onboarding buddy program.,Promotion process feels opaque.
+R0119,Finance,NA,<1y,3,4,4,3,5,3,4,3,Interesting technical challenges.,Cross-team handoffs are slow.
+R0120,People,LATAM,1-3y,3,4,5,4,5,4,4,4,Great teammates and a real mission.,Tooling is fragmented.
+R0121,Finance,APAC,3-5y,3,5,4,4,2,3,4,5,Great teammates and a real mission.,Compensation lags the market.
+R0122,Product,APAC,1-3y,3,4,4,4,3,4,4,3,Flexible hours help a lot.,Promotion process feels opaque.
+R0123,People,APAC,<1y,2,4,3,4,4,5,5,4,Great teammates and a real mission.,Compensation lags the market.
+R0124,Product,APAC,5y+,5,3,3,4,4,4,3,3,Flexible hours help a lot.,Tooling is fragmented.
+R0125,Finance,APAC,<1y,3,4,3,3,3,3,4,5,"Good customers, meaningful work.",On-call load is heavy this quarter.
+R0126,Marketing,EMEA,<1y,2,4,3,4,3,2,4,5,Leadership is transparent in town halls.,Career paths are unclear.
+R0127,Customer Success,APAC,3-5y,3,4,2,5,5,4,2,5,Interesting technical challenges.,Not enough headcount for the roadmap.
+R0128,People,LATAM,<1y,5,3,4,4,4,5,4,5,Flexible hours help a lot.,Cross-team handoffs are slow.
+R0129,Finance,APAC,3-5y,4,3,3,3,3,5,5,5,Flexible hours help a lot.,Not enough headcount for the roadmap.
+R0130,Customer Success,EMEA,3-5y,5,5,3,4,4,3,5,5,Interesting technical challenges.,Not enough headcount for the roadmap.
+R0131,Engineering,LATAM,1-3y,2,4,2,5,4,3,4,4,Interesting technical challenges.,Compensation lags the market.
+R0132,Product,NA,1-3y,4,3,3,2,5,4,4,5,Great teammates and a real mission.,Not enough headcount for the roadmap.
+R0133,People,APAC,1-3y,3,4,3,5,3,5,5,4,"Good customers, meaningful work.",Not enough headcount for the roadmap.
+R0134,Product,APAC,<1y,3,2,3,2,5,3,3,3,Leadership is transparent in town halls.,Cross-team handoffs are slow.
+R0135,Sales,APAC,5y+,3,2,3,4,4,3,3,3,Leadership is transparent in town halls.,Cross-team handoffs are slow.
+R0136,Product,LATAM,5y+,4,4,3,5,2,3,3,4,Managers actually listen.,Compensation lags the market.
+R0137,People,EMEA,5y+,4,4,4,3,4,3,3,5,"Good customers, meaningful work.",Promotion process feels opaque.
+R0138,Operations,NA,<1y,3,4,3,5,3,5,4,3,Leadership is transparent in town halls.,Tooling is fragmented.
+R0139,Operations,APAC,<1y,3,1,5,2,4,2,5,3,I learn something new every week.,Compensation lags the market.
+R0140,Engineering,LATAM,1-3y,3,4,3,4,1,2,3,4,Strong onboarding buddy program.,Compensation lags the market.
+R0141,Engineering,LATAM,3-5y,4,3,2,3,4,5,3,3,"Good customers, meaningful work.",Promotion process feels opaque.
+R0142,People,LATAM,5y+,3,4,5,3,5,4,2,4,Flexible hours help a lot.,Not enough headcount for the roadmap.
+R0143,Finance,EMEA,3-5y,4,4,5,3,5,5,4,2,Leadership is transparent in town halls.,Promotion process feels opaque.
+R0144,Customer Success,APAC,<1y,3,4,5,4,5,4,4,4,Great teammates and a real mission.,Career paths are unclear.
+R0145,Sales,APAC,1-3y,3,2,4,3,4,4,3,3,Great teammates and a real mission.,Promotion process feels opaque.
+R0146,Finance,APAC,5y+,2,5,5,4,5,4,4,4,Leadership is transparent in town halls.,Career paths are unclear.
+R0147,People,APAC,<1y,5,4,3,4,5,3,4,5,Flexible hours help a lot.,Career paths are unclear.
+R0148,People,EMEA,5y+,5,5,3,4,5,5,4,5,Interesting technical challenges.,Cross-team handoffs are slow.
+R0149,Finance,LATAM,<1y,4,4,3,5,4,4,5,4,Leadership is transparent in town halls.,Cross-team handoffs are slow.
+R0150,Marketing,LATAM,5y+,4,4,3,3,4,5,3,4,Leadership is transparent in town halls.,On-call load is heavy this quarter.
+R0151,Engineering,APAC,5y+,4,5,4,4,3,3,3,4,Great teammates and a real mission.,"Too many meetings, not enough focus time."
+R0152,Operations,LATAM,5y+,3,2,4,4,2,3,4,4,Leadership is transparent in town halls.,"Too many meetings, not enough focus time."
+R0153,People,LATAM,1-3y,4,3,3,5,3,3,4,4,I learn something new every week.,"Too many meetings, not enough focus time."
+R0154,Product,APAC,<1y,3,3,3,3,3,3,2,3,Managers actually listen.,Not enough headcount for the roadmap.
+R0155,Customer Success,APAC,1-3y,5,3,2,4,5,3,3,5,Leadership is transparent in town halls.,Cross-team handoffs are slow.
+R0156,Operations,LATAM,1-3y,4,4,4,3,3,4,1,2,Managers actually listen.,Not enough headcount for the roadmap.
+R0157,Finance,APAC,1-3y,2,3,3,4,3,3,4,3,I learn something new every week.,Cross-team handoffs are slow.
+R0158,Operations,APAC,5y+,4,3,3,2,3,1,3,3,Strong onboarding buddy program.,"Too many meetings, not enough focus time."
+R0159,People,EMEA,<1y,4,2,5,4,4,4,5,3,I learn something new every week.,Not enough headcount for the roadmap.
+R0160,People,NA,3-5y,4,4,5,3,3,5,5,5,Flexible hours help a lot.,Cross-team handoffs are slow.
+R0161,Finance,APAC,<1y,4,5,3,3,3,2,3,3,I learn something new every week.,Not enough headcount for the roadmap.
+R0162,Marketing,EMEA,1-3y,5,3,4,3,5,3,4,3,I learn something new every week.,Promotion process feels opaque.
+R0163,Engineering,NA,3-5y,3,3,4,3,3,3,3,4,Interesting technical challenges.,Tooling is fragmented.
+R0164,Marketing,APAC,5y+,4,5,3,4,3,3,4,4,Interesting technical challenges.,On-call load is heavy this quarter.
+R0165,Finance,APAC,3-5y,3,3,4,4,3,4,2,5,"Good customers, meaningful work.",Career paths are unclear.
+R0166,Marketing,APAC,<1y,3,3,2,3,3,5,3,4,Strong onboarding buddy program.,"Too many meetings, not enough focus time."
+R0167,Finance,APAC,3-5y,4,3,4,3,3,5,5,3,I learn something new every week.,"Too many meetings, not enough focus time."
+R0168,People,EMEA,1-3y,2,4,3,3,5,3,4,2,Interesting technical challenges.,Cross-team handoffs are slow.
+R0169,People,EMEA,<1y,5,4,3,4,3,4,4,4,Great teammates and a real mission.,Cross-team handoffs are slow.
+R0170,Customer Success,NA,<1y,3,3,3,3,4,4,3,3,"Good customers, meaningful work.",Compensation lags the market.
+R0171,Operations,EMEA,<1y,4,3,3,5,3,2,2,3,Managers actually listen.,Promotion process feels opaque.
+R0172,People,NA,1-3y,5,4,4,4,4,5,5,4,Flexible hours help a lot.,Promotion process feels opaque.
+R0173,Marketing,APAC,3-5y,4,3,2,4,4,5,5,4,Flexible hours help a lot.,Tooling is fragmented.
+R0174,Customer Success,EMEA,3-5y,4,4,4,4,4,3,3,3,Strong onboarding buddy program.,Career paths are unclear.
+R0175,Engineering,LATAM,3-5y,4,4,3,3,2,3,5,4,Interesting technical challenges.,Career paths are unclear.
+R0176,People,NA,3-5y,3,4,5,3,5,4,3,5,Flexible hours help a lot.,"Too many meetings, not enough focus time."
+R0177,Engineering,LATAM,3-5y,4,5,3,5,2,4,5,1,Flexible hours help a lot.,Compensation lags the market.
+R0178,People,NA,<1y,4,4,4,4,3,3,5,4,I learn something new every week.,"Too many meetings, not enough focus time."
+R0179,Sales,NA,1-3y,5,3,3,3,3,4,4,4,Strong onboarding buddy program.,Career paths are unclear.
+R0180,Finance,NA,3-5y,4,5,3,2,3,5,2,1,"Good customers, meaningful work.",Cross-team handoffs are slow.
+R0181,Engineering,APAC,<1y,4,3,4,3,4,3,4,4,Strong onboarding buddy program.,Tooling is fragmented.
+R0182,People,APAC,3-5y,5,4,4,3,4,3,2,4,Leadership is transparent in town halls.,Compensation lags the market.
+R0183,Product,NA,1-3y,3,4,4,3,3,3,4,3,Strong onboarding buddy program.,Cross-team handoffs are slow.
+R0184,Customer Success,NA,5y+,3,3,4,4,4,5,3,3,Flexible hours help a lot.,Career paths are unclear.
+R0185,Finance,EMEA,1-3y,5,5,2,3,4,5,4,4,Flexible hours help a lot.,Compensation lags the market.
+R0186,People,EMEA,3-5y,3,4,4,4,5,3,3,4,Great teammates and a real mission.,Cross-team handoffs are slow.
+R0187,Marketing,APAC,3-5y,3,3,4,3,4,3,4,5,Managers actually listen.,Cross-team handoffs are slow.
+R0188,Engineering,EMEA,5y+,3,3,3,4,3,4,3,3,Managers actually listen.,On-call load is heavy this quarter.
+R0189,Finance,APAC,<1y,3,4,4,1,5,3,3,4,I learn something new every week.,Career paths are unclear.
+R0190,Engineering,NA,3-5y,5,3,5,4,4,4,3,3,I learn something new every week.,Tooling is fragmented.
+R0191,Finance,EMEA,1-3y,4,4,4,3,3,5,2,4,"Good customers, meaningful work.",Promotion process feels opaque.
+R0192,Marketing,NA,3-5y,3,5,4,4,3,3,3,4,Interesting technical challenges.,Cross-team handoffs are slow.
+R0193,Product,EMEA,3-5y,4,2,3,4,3,3,2,4,"Good customers, meaningful work.",Not enough headcount for the roadmap.
+R0194,Customer Success,LATAM,5y+,5,4,4,4,4,3,3,3,Great teammates and a real mission.,"Too many meetings, not enough focus time."
+R0195,Sales,APAC,<1y,3,4,3,3,2,3,4,3,Managers actually listen.,Not enough headcount for the roadmap.
+R0196,Engineering,APAC,3-5y,5,3,3,4,2,3,4,4,Great teammates and a real mission.,On-call load is heavy this quarter.
+R0197,Marketing,EMEA,3-5y,4,3,4,4,4,4,3,3,Great teammates and a real mission.,Cross-team handoffs are slow.
+R0198,Finance,APAC,1-3y,4,3,3,4,2,3,4,3,Great teammates and a real mission.,Cross-team handoffs are slow.
+R0199,Marketing,NA,5y+,3,2,4,4,4,3,3,2,Managers actually listen.,Promotion process feels opaque.
+R0200,Product,EMEA,5y+,2,2,4,3,4,3,4,5,Strong onboarding buddy program.,Not enough headcount for the roadmap.
+R0201,Operations,LATAM,5y+,5,4,4,4,5,3,2,3,Strong onboarding buddy program.,Promotion process feels opaque.
+R0202,Operations,NA,5y+,2,4,4,3,4,4,3,3,Great teammates and a real mission.,Tooling is fragmented.
+R0203,Sales,APAC,5y+,3,4,5,5,5,3,2,4,Interesting technical challenges.,Not enough headcount for the roadmap.
+R0204,Finance,EMEA,5y+,5,4,1,4,3,3,5,2,Great teammates and a real mission.,"Too many meetings, not enough focus time."
+R0205,Operations,EMEA,5y+,4,4,5,2,2,2,4,3,Interesting technical challenges.,Compensation lags the market.
+R0206,Customer Success,LATAM,3-5y,4,5,4,4,5,4,3,3,Managers actually listen.,Cross-team handoffs are slow.
+R0207,Finance,LATAM,1-3y,4,5,5,5,4,4,5,3,Leadership is transparent in town halls.,Cross-team handoffs are slow.
+R0208,Operations,EMEA,5y+,4,3,4,4,4,4,4,2,I learn something new every week.,Tooling is fragmented.
+R0209,Operations,APAC,<1y,4,4,3,5,4,4,3,2,Managers actually listen.,"Too many meetings, not enough focus time."
+R0210,Sales,NA,1-3y,3,4,4,2,4,3,4,3,Strong onboarding buddy program.,Promotion process feels opaque.
+R0211,Engineering,EMEA,5y+,4,4,3,4,3,5,5,4,Great teammates and a real mission.,"Too many meetings, not enough focus time."
+R0212,Operations,APAC,<1y,3,4,4,3,5,2,4,3,Strong onboarding buddy program.,On-call load is heavy this quarter.
+R0213,People,EMEA,3-5y,3,2,3,5,5,4,4,5,Flexible hours help a lot.,"Too many meetings, not enough focus time."
+R0214,People,NA,1-3y,5,4,2,4,4,4,3,4,Interesting technical challenges.,Career paths are unclear.
+R0215,Operations,APAC,5y+,3,5,3,2,3,4,3,3,Flexible hours help a lot.,Compensation lags the market.
+R0216,Operations,NA,5y+,5,4,4,3,5,4,4,3,Flexible hours help a lot.,Tooling is fragmented.
+R0217,Marketing,APAC,3-5y,4,4,3,4,4,5,3,4,Flexible hours help a lot.,Promotion process feels opaque.
+R0218,Sales,APAC,3-5y,5,3,4,4,4,4,3,3,Flexible hours help a lot.,Promotion process feels opaque.
+R0219,Finance,LATAM,5y+,3,4,5,5,2,4,5,4,Great teammates and a real mission.,Promotion process feels opaque.
+R0220,Operations,LATAM,<1y,4,2,4,5,4,5,4,3,Interesting technical challenges.,Promotion process feels opaque.
+R0221,Product,APAC,1-3y,4,4,5,5,4,4,2,3,Interesting technical challenges.,Compensation lags the market.
+R0222,Sales,NA,<1y,2,3,2,3,4,2,3,3,Flexible hours help a lot.,Promotion process feels opaque.
+R0223,Finance,NA,3-5y,3,3,4,4,3,3,4,4,Strong onboarding buddy program.,Cross-team handoffs are slow.
+R0224,Marketing,LATAM,3-5y,5,4,3,4,4,4,4,4,Interesting technical challenges.,"Too many meetings, not enough focus time."
+R0225,Marketing,NA,3-5y,4,5,5,4,3,3,2,3,Great teammates and a real mission.,Career paths are unclear.
+R0226,Sales,EMEA,1-3y,5,2,4,3,2,1,4,3,Leadership is transparent in town halls.,"Too many meetings, not enough focus time."
+R0227,Engineering,EMEA,5y+,4,3,5,4,5,3,3,4,Flexible hours help a lot.,Career paths are unclear.
+R0228,People,EMEA,1-3y,3,4,5,5,2,4,3,5,"Good customers, meaningful work.","Too many meetings, not enough focus time."
+R0229,Operations,NA,1-3y,3,1,4,4,4,4,3,4,Great teammates and a real mission.,Not enough headcount for the roadmap.
+R0230,Marketing,APAC,<1y,5,3,3,4,4,3,4,4,Strong onboarding buddy program.,Compensation lags the market.
+R0231,Sales,EMEA,5y+,3,3,3,2,4,3,2,4,Managers actually listen.,Career paths are unclear.
+R0232,Operations,EMEA,3-5y,3,4,2,2,5,3,4,5,Interesting technical challenges.,Tooling is fragmented.
+R0233,Operations,LATAM,3-5y,3,2,4,3,3,3,5,3,"Good customers, meaningful work.",Compensation lags the market.
+R0234,Engineering,LATAM,5y+,1,4,4,4,3,3,5,4,Strong onboarding buddy program.,Cross-team handoffs are slow.
+R0235,Marketing,EMEA,5y+,3,3,4,4,4,3,4,4,Leadership is transparent in town halls.,Cross-team handoffs are slow.
+R0236,Customer Success,APAC,3-5y,4,3,4,4,5,5,3,3,Strong onboarding buddy program.,Not enough headcount for the roadmap.
+R0237,Product,EMEA,<1y,3,2,4,3,5,5,4,1,I learn something new every week.,Career paths are unclear.
+R0238,Sales,NA,5y+,4,3,4,5,3,5,5,3,I learn something new every week.,Cross-team handoffs are slow.
+R0239,People,EMEA,5y+,5,5,5,4,4,3,4,3,Managers actually listen.,Promotion process feels opaque.
+R0240,Customer Success,NA,<1y,5,3,4,3,4,4,3,2,Managers actually listen.,Tooling is fragmented.
+R0241,Customer Success,NA,5y+,5,4,2,3,2,4,4,3,"Good customers, meaningful work.",Not enough headcount for the roadmap.
+R0242,Engineering,EMEA,3-5y,5,4,2,3,3,5,3,4,Great teammates and a real mission.,"Too many meetings, not enough focus time."
+R0243,Marketing,NA,1-3y,4,4,4,3,4,4,5,4,Great teammates and a real mission.,Tooling is fragmented.
+R0244,Engineering,LATAM,3-5y,3,3,4,3,4,5,4,3,"Good customers, meaningful work.",Not enough headcount for the roadmap.
+R0245,Marketing,APAC,5y+,3,4,4,2,5,4,4,4,Strong onboarding buddy program.,Tooling is fragmented.
+R0246,Sales,APAC,<1y,3,1,5,3,4,3,3,2,Managers actually listen.,"Too many meetings, not enough focus time."
+R0247,Finance,APAC,1-3y,3,4,3,4,1,4,4,3,I learn something new every week.,Cross-team handoffs are slow.
+R0248,Product,APAC,5y+,4,2,4,4,3,3,5,5,Interesting technical challenges.,Not enough headcount for the roadmap.
+R0249,Finance,APAC,<1y,4,4,5,4,3,4,1,5,Great teammates and a real mission.,Tooling is fragmented.
+R0250,Marketing,LATAM,5y+,4,4,4,3,5,5,5,2,Interesting technical challenges.,Tooling is fragmented.
+R0251,Operations,NA,5y+,3,4,3,4,2,3,4,3,I learn something new every week.,On-call load is heavy this quarter.
+R0252,People,NA,<1y,4,4,5,4,4,4,4,3,"Good customers, meaningful work.",Career paths are unclear.
+R0253,Finance,LATAM,5y+,5,4,3,2,2,4,3,3,Interesting technical challenges.,Promotion process feels opaque.
+R0254,Operations,APAC,5y+,3,3,3,4,3,3,4,3,Great teammates and a real mission.,Not enough headcount for the roadmap.
+R0255,Operations,APAC,1-3y,4,3,3,3,3,4,2,4,Flexible hours help a lot.,"Too many meetings, not enough focus time."
+R0256,Product,EMEA,1-3y,4,3,3,3,2,2,4,5,Flexible hours help a lot.,Cross-team handoffs are slow.
+R0257,Finance,NA,5y+,4,3,3,4,4,2,2,3,I learn something new every week.,Career paths are unclear.
+R0258,People,APAC,3-5y,5,5,4,3,4,4,4,3,I learn something new every week.,Tooling is fragmented.
+R0259,Finance,EMEA,1-3y,3,4,4,5,3,5,2,3,Flexible hours help a lot.,Cross-team handoffs are slow.
+R0260,Operations,EMEA,<1y,4,4,2,3,1,4,3,3,Leadership is transparent in town halls.,Cross-team handoffs are slow.
+R0261,Customer Success,EMEA,1-3y,4,5,4,3,4,4,5,4,Interesting technical challenges.,Career paths are unclear.
+R0262,Sales,EMEA,1-3y,3,3,3,3,3,5,3,1,Great teammates and a real mission.,Career paths are unclear.
+R0263,Engineering,APAC,5y+,3,2,3,4,5,2,4,4,"Good customers, meaningful work.",Not enough headcount for the roadmap.
+R0264,Engineering,LATAM,5y+,4,5,4,5,3,2,4,1,Great teammates and a real mission.,"Too many meetings, not enough focus time."
+R0265,Customer Success,EMEA,5y+,4,3,5,4,5,3,4,3,Great teammates and a real mission.,Tooling is fragmented.
+R0266,People,LATAM,1-3y,4,5,3,4,4,4,5,2,Flexible hours help a lot.,Cross-team handoffs are slow.
+R0267,Engineering,NA,1-3y,4,4,3,4,2,3,4,4,Flexible hours help a lot.,Cross-team handoffs are slow.
+R0268,Product,LATAM,<1y,4,5,3,4,4,3,4,4,I learn something new every week.,On-call load is heavy this quarter.
+R0269,Operations,APAC,1-3y,1,4,3,3,4,3,2,3,Strong onboarding buddy program.,Compensation lags the market.
+R0270,Marketing,LATAM,5y+,3,5,3,4,4,3,3,4,Interesting technical challenges.,Career paths are unclear.
+R0271,Engineering,NA,3-5y,3,3,3,3,3,3,3,3,Interesting technical challenges.,Career paths are unclear.
+R0272,Customer Success,LATAM,3-5y,4,3,5,5,5,3,4,4,Great teammates and a real mission.,Career paths are unclear.
+R0273,Finance,NA,<1y,4,5,3,5,3,3,3,3,Leadership is transparent in town halls.,"Too many meetings, not enough focus time."
+R0274,Engineering,LATAM,1-3y,3,2,5,5,5,5,4,4,Managers actually listen.,Promotion process feels opaque.
+R0275,Engineering,NA,3-5y,3,3,5,2,3,3,2,4,Leadership is transparent in town halls.,Not enough headcount for the roadmap.
+R0276,Finance,NA,1-3y,4,4,5,5,2,3,4,4,Flexible hours help a lot.,Cross-team handoffs are slow.
+R0277,People,APAC,<1y,4,4,3,5,3,5,5,4,Interesting technical challenges.,Compensation lags the market.
+R0278,Marketing,APAC,1-3y,4,4,5,4,4,3,2,4,Flexible hours help a lot.,Compensation lags the market.
+R0279,Sales,LATAM,1-3y,4,3,2,3,4,2,3,3,Great teammates and a real mission.,Not enough headcount for the roadmap.
+R0280,Finance,NA,<1y,5,4,4,2,5,3,4,5,"Good customers, meaningful work.",Compensation lags the market.
+R0281,Operations,LATAM,<1y,2,4,4,3,2,4,4,3,Leadership is transparent in town halls.,Career paths are unclear.
+R0282,Operations,LATAM,<1y,4,3,4,4,4,4,4,5,Managers actually listen.,"Too many meetings, not enough focus time."
+R0283,Product,APAC,5y+,5,3,4,3,3,4,2,3,Managers actually listen.,Compensation lags the market.
+R0284,People,LATAM,<1y,5,3,3,5,4,5,4,3,Flexible hours help a lot.,"Too many meetings, not enough focus time."
+R0285,Operations,EMEA,5y+,2,5,2,4,4,4,2,2,Leadership is transparent in town halls.,On-call load is heavy this quarter.
+R0286,Engineering,NA,3-5y,4,4,2,4,4,3,3,5,Leadership is transparent in town halls.,On-call load is heavy this quarter.
+R0287,People,APAC,1-3y,5,3,5,3,5,3,5,3,I learn something new every week.,Not enough headcount for the roadmap.
+R0288,Operations,APAC,1-3y,3,3,5,3,4,4,3,4,Managers actually listen.,Career paths are unclear.
+R0289,Sales,EMEA,5y+,4,2,5,2,3,3,3,4,Flexible hours help a lot.,Career paths are unclear.
+R0290,Marketing,NA,3-5y,5,4,4,3,3,3,5,2,I learn something new every week.,"Too many meetings, not enough focus time."
+R0291,Finance,EMEA,<1y,3,5,3,4,4,5,4,4,Great teammates and a real mission.,"Too many meetings, not enough focus time."
+R0292,Customer Success,EMEA,<1y,4,4,5,3,4,4,4,3,Great teammates and a real mission.,Not enough headcount for the roadmap.
+R0293,Operations,LATAM,1-3y,3,5,3,4,3,3,3,4,"Good customers, meaningful work.","Too many meetings, not enough focus time."
+R0294,Engineering,EMEA,1-3y,3,4,4,3,4,3,4,3,"Good customers, meaningful work.",On-call load is heavy this quarter.
+R0295,Finance,NA,1-3y,2,3,3,5,4,4,3,2,Flexible hours help a lot.,"Too many meetings, not enough focus time."
+R0296,Finance,NA,5y+,4,4,4,2,3,3,5,2,Interesting technical challenges.,Not enough headcount for the roadmap.
+R0297,Customer Success,EMEA,<1y,5,4,5,3,4,4,4,4,I learn something new every week.,Not enough headcount for the roadmap.
+R0298,Customer Success,EMEA,1-3y,4,3,3,4,4,4,4,5,Leadership is transparent in town halls.,Career paths are unclear.
+R0299,People,LATAM,3-5y,4,4,3,3,4,5,4,3,"Good customers, meaningful work.",On-call load is heavy this quarter.
+R0300,Customer Success,EMEA,<1y,5,3,3,3,5,4,4,4,Interesting technical challenges.,Tooling is fragmented.
+R0301,Product,APAC,3-5y,4,4,4,4,4,4,5,5,"Good customers, meaningful work.",Not enough headcount for the roadmap.
+R0302,Operations,NA,3-5y,3,3,2,3,2,3,3,3,Managers actually listen.,"Too many meetings, not enough focus time."
+R0303,People,LATAM,1-3y,5,5,4,4,3,5,4,4,Interesting technical challenges.,Cross-team handoffs are slow.
+R0304,People,NA,5y+,3,5,3,4,3,3,4,5,"Good customers, meaningful work.",Compensation lags the market.
+R0305,Marketing,LATAM,<1y,4,3,5,2,4,3,2,5,"Good customers, meaningful work.",Not enough headcount for the roadmap.
+R0306,Engineering,EMEA,1-3y,3,2,4,2,5,2,2,4,Great teammates and a real mission.,Cross-team handoffs are slow.
+R0307,Sales,LATAM,<1y,3,3,4,2,3,4,2,4,Strong onboarding buddy program.,On-call load is heavy this quarter.
+R0308,Sales,EMEA,1-3y,2,4,5,4,4,3,4,4,Leadership is transparent in town halls.,"Too many meetings, not enough focus time."
+R0309,Finance,EMEA,3-5y,3,3,3,5,4,4,4,3,Interesting technical challenges.,On-call load is heavy this quarter.
+R0310,Engineering,LATAM,1-3y,3,4,2,3,5,3,4,3,"Good customers, meaningful work.",Not enough headcount for the roadmap.
+R0311,Customer Success,APAC,<1y,4,4,1,3,4,5,4,4,Managers actually listen.,Cross-team handoffs are slow.
+R0312,Finance,EMEA,1-3y,4,3,3,4,4,3,3,3,Leadership is transparent in town halls.,Compensation lags the market.
+R0313,Finance,NA,5y+,4,3,3,3,4,3,2,5,Great teammates and a real mission.,Not enough headcount for the roadmap.
+R0314,Finance,EMEA,5y+,3,4,4,3,3,5,5,5,Managers actually listen.,Cross-team handoffs are slow.
+R0315,Sales,LATAM,5y+,2,3,3,2,2,4,2,3,Strong onboarding buddy program.,Cross-team handoffs are slow.
+R0316,Product,APAC,3-5y,2,4,3,2,4,4,3,4,"Good customers, meaningful work.",Career paths are unclear.
+R0317,People,LATAM,1-3y,4,5,3,4,5,5,4,3,Managers actually listen.,Not enough headcount for the roadmap.
+R0318,Marketing,LATAM,3-5y,5,4,5,5,3,4,4,3,Leadership is transparent in town halls.,Compensation lags the market.
+R0319,Operations,NA,5y+,3,5,4,4,4,4,3,2,Great teammates and a real mission.,Tooling is fragmented.
+R0320,Sales,EMEA,5y+,4,4,5,4,3,4,2,3,I learn something new every week.,On-call load is heavy this quarter.
+R0321,Customer Success,EMEA,1-3y,3,3,5,5,5,3,4,4,I learn something new every week.,Promotion process feels opaque.
+R0322,Marketing,NA,1-3y,5,4,3,3,2,4,2,4,Great teammates and a real mission.,On-call load is heavy this quarter.
+R0323,Engineering,LATAM,3-5y,3,4,3,4,3,4,4,3,Flexible hours help a lot.,Promotion process feels opaque.
+R0324,Product,EMEA,5y+,4,5,3,4,4,4,4,3,Strong onboarding buddy program.,Compensation lags the market.
+R0325,People,LATAM,<1y,4,5,2,3,2,4,4,4,Interesting technical challenges.,Tooling is fragmented.
+R0326,Marketing,NA,1-3y,5,5,5,3,2,3,4,4,Flexible hours help a lot.,On-call load is heavy this quarter.
+R0327,Finance,NA,5y+,5,5,3,3,4,5,3,4,Strong onboarding buddy program.,Compensation lags the market.
+R0328,Sales,NA,5y+,4,2,4,3,2,4,3,4,Great teammates and a real mission.,"Too many meetings, not enough focus time."
+R0329,Marketing,APAC,5y+,4,4,4,3,3,4,3,3,Strong onboarding buddy program.,"Too many meetings, not enough focus time."
+R0330,Customer Success,LATAM,<1y,3,4,3,4,4,5,5,4,Strong onboarding buddy program.,Cross-team handoffs are slow.
+R0331,Marketing,LATAM,1-3y,5,4,4,2,2,4,3,2,Flexible hours help a lot.,Career paths are unclear.
+R0332,Product,LATAM,5y+,2,4,3,2,4,4,4,3,Flexible hours help a lot.,Compensation lags the market.
+R0333,Operations,NA,5y+,3,2,3,4,4,4,4,3,Flexible hours help a lot.,Promotion process feels opaque.
+R0334,Operations,EMEA,5y+,1,4,4,2,3,3,5,3,Strong onboarding buddy program.,Career paths are unclear.
+R0335,Sales,EMEA,<1y,3,2,3,3,4,3,2,3,Strong onboarding buddy program.,"Too many meetings, not enough focus time."
+R0336,Marketing,APAC,3-5y,4,4,4,4,4,4,4,4,Leadership is transparent in town halls.,Not enough headcount for the roadmap.
+R0337,Finance,NA,<1y,4,4,5,4,4,3,4,4,Flexible hours help a lot.,Not enough headcount for the roadmap.
+R0338,People,APAC,<1y,3,3,4,4,4,4,4,5,Strong onboarding buddy program.,"Too many meetings, not enough focus time."
+R0339,Customer Success,APAC,<1y,2,4,5,3,4,5,4,5,"Good customers, meaningful work.",Compensation lags the market.
+R0340,Marketing,NA,5y+,3,3,3,3,3,3,3,4,"Good customers, meaningful work.",Compensation lags the market.
+R0341,People,LATAM,1-3y,3,4,2,5,5,5,5,3,Flexible hours help a lot.,Tooling is fragmented.
+R0342,Customer Success,LATAM,5y+,5,4,5,3,2,4,3,5,Leadership is transparent in town halls.,"Too many meetings, not enough focus time."
+R0343,Customer Success,EMEA,<1y,3,3,4,3,3,4,2,4,Strong onboarding buddy program.,Career paths are unclear.
+R0344,Customer Success,APAC,1-3y,4,4,3,3,4,3,4,3,Great teammates and a real mission.,"Too many meetings, not enough focus time."
+R0345,Customer Success,LATAM,5y+,4,3,5,3,4,5,3,4,I learn something new every week.,Tooling is fragmented.
+R0346,People,LATAM,1-3y,5,5,3,4,3,4,3,3,Leadership is transparent in town halls.,Promotion process feels opaque.
+R0347,Customer Success,APAC,5y+,4,3,3,5,2,4,4,3,Strong onboarding buddy program.,"Too many meetings, not enough focus time."
+R0348,Marketing,NA,5y+,4,4,5,3,2,3,4,4,Managers actually listen.,Career paths are unclear.
+R0349,Sales,EMEA,3-5y,4,3,4,4,5,4,4,3,"Good customers, meaningful work.",Promotion process feels opaque.
+R0350,Finance,LATAM,1-3y,4,4,4,5,4,5,2,5,Interesting technical challenges.,Compensation lags the market.
+R0351,Product,NA,5y+,4,3,3,4,5,3,4,5,I learn something new every week.,"Too many meetings, not enough focus time."
+R0352,Finance,LATAM,3-5y,4,5,4,3,3,4,3,4,Interesting technical challenges.,Not enough headcount for the roadmap.
+R0353,Finance,NA,3-5y,5,4,2,4,5,2,4,4,Great teammates and a real mission.,On-call load is heavy this quarter.
+R0354,Finance,APAC,<1y,4,3,2,4,3,3,4,5,Flexible hours help a lot.,Not enough headcount for the roadmap.
+R0355,Customer Success,NA,5y+,4,5,3,4,3,3,4,5,Strong onboarding buddy program.,Cross-team handoffs are slow.
+R0356,Product,NA,5y+,3,5,5,3,4,3,3,3,Leadership is transparent in town halls.,Career paths are unclear.
+R0357,Engineering,LATAM,1-3y,3,3,4,4,4,3,3,3,Flexible hours help a lot.,Compensation lags the market.
+R0358,Operations,NA,<1y,4,4,3,4,4,3,3,4,I learn something new every week.,Promotion process feels opaque.
+R0359,Customer Success,EMEA,3-5y,3,3,5,3,4,3,5,5,Managers actually listen.,Career paths are unclear.
+R0360,Operations,APAC,3-5y,4,3,4,3,3,3,4,3,Flexible hours help a lot.,"Too many meetings, not enough focus time."
+R0361,Customer Success,EMEA,5y+,3,4,4,3,4,4,3,5,Flexible hours help a lot.,On-call load is heavy this quarter.
+R0362,Sales,LATAM,3-5y,3,3,3,3,3,3,4,5,I learn something new every week.,Promotion process feels opaque.
+R0363,Customer Success,LATAM,1-3y,4,4,4,4,4,4,4,5,Managers actually listen.,Cross-team handoffs are slow.
+R0364,Marketing,APAC,5y+,4,3,3,4,4,5,5,5,Managers actually listen.,Career paths are unclear.
+R0365,Operations,NA,1-3y,3,4,4,2,3,4,4,3,Leadership is transparent in town halls.,Career paths are unclear.
+R0366,Product,EMEA,5y+,5,4,4,2,3,4,5,2,"Good customers, meaningful work.",Not enough headcount for the roadmap.
+R0367,Marketing,EMEA,1-3y,4,4,5,3,4,3,3,4,Great teammates and a real mission.,"Too many meetings, not enough focus time."
+R0368,Sales,EMEA,<1y,4,3,3,3,3,3,4,3,Flexible hours help a lot.,Career paths are unclear.
+R0369,Sales,EMEA,1-3y,3,4,3,3,4,2,2,3,Managers actually listen.,Career paths are unclear.
+R0370,Product,LATAM,5y+,3,3,3,4,3,2,3,4,"Good customers, meaningful work.","Too many meetings, not enough focus time."
+R0371,Marketing,NA,<1y,4,4,5,4,2,4,5,3,Interesting technical challenges.,Career paths are unclear.
+R0372,Sales,NA,5y+,2,4,3,3,2,3,4,2,I learn something new every week.,Career paths are unclear.
+R0373,Product,APAC,5y+,2,2,4,4,3,3,2,5,Leadership is transparent in town halls.,Promotion process feels opaque.
+R0374,Customer Success,EMEA,1-3y,4,5,3,3,4,3,4,3,Managers actually listen.,On-call load is heavy this quarter.
+R0375,Operations,APAC,<1y,3,2,4,3,2,4,4,2,Strong onboarding buddy program.,On-call load is heavy this quarter.
+R0376,Operations,APAC,1-3y,3,2,3,4,4,4,3,3,Strong onboarding buddy program.,Cross-team handoffs are slow.
+R0377,Marketing,EMEA,3-5y,4,3,2,2,4,3,4,3,Managers actually listen.,On-call load is heavy this quarter.
+R0378,Customer Success,NA,1-3y,4,3,3,4,5,3,5,2,Interesting technical challenges.,Promotion process feels opaque.
+R0379,Sales,EMEA,3-5y,3,5,3,3,2,3,5,2,Great teammates and a real mission.,Career paths are unclear.
+R0380,Engineering,LATAM,5y+,5,3,5,5,1,5,4,2,Great teammates and a real mission.,"Too many meetings, not enough focus time."
+R0381,Operations,EMEA,<1y,3,5,3,4,3,4,4,1,Managers actually listen.,Tooling is fragmented.
+R0382,Customer Success,NA,<1y,5,3,4,4,3,3,5,3,"Good customers, meaningful work.",Tooling is fragmented.
+R0383,People,LATAM,<1y,4,3,4,3,4,3,4,4,"Good customers, meaningful work.",Not enough headcount for the roadmap.
+R0384,Finance,EMEA,1-3y,3,3,4,4,3,5,4,3,I learn something new every week.,"Too many meetings, not enough focus time."
+R0385,Operations,NA,1-3y,3,4,3,2,3,3,4,1,Flexible hours help a lot.,Career paths are unclear.
+R0386,Product,APAC,<1y,5,4,3,4,2,4,3,5,I learn something new every week.,"Too many meetings, not enough focus time."
+R0387,Sales,EMEA,3-5y,4,3,3,4,3,3,3,2,Managers actually listen.,On-call load is heavy this quarter.
+R0388,Marketing,EMEA,<1y,5,4,2,4,3,4,5,4,Leadership is transparent in town halls.,Promotion process feels opaque.
+R0389,Marketing,LATAM,<1y,3,3,4,3,3,3,5,3,Flexible hours help a lot.,Cross-team handoffs are slow.
+R0390,Customer Success,APAC,5y+,3,4,4,3,4,4,5,4,"Good customers, meaningful work.",Not enough headcount for the roadmap.
+R0391,Marketing,NA,3-5y,3,3,3,3,3,5,5,3,Great teammates and a real mission.,Career paths are unclear.
+R0392,Finance,APAC,3-5y,3,4,5,5,3,4,5,4,Strong onboarding buddy program.,Promotion process feels opaque.
+R0393,Marketing,NA,<1y,5,2,3,5,4,3,3,5,Managers actually listen.,Tooling is fragmented.
+R0394,Finance,EMEA,1-3y,5,5,5,4,3,3,5,5,Great teammates and a real mission.,Cross-team handoffs are slow.
+R0395,Finance,LATAM,3-5y,4,5,1,4,3,4,3,4,"Good customers, meaningful work.","Too many meetings, not enough focus time."
+R0396,Finance,APAC,3-5y,4,5,3,4,4,5,4,5,Interesting technical challenges.,Compensation lags the market.
+R0397,Operations,EMEA,1-3y,4,5,4,3,4,4,4,4,Interesting technical challenges.,On-call load is heavy this quarter.
+R0398,People,NA,5y+,5,4,5,5,5,2,3,3,Great teammates and a real mission.,Compensation lags the market.
+R0399,Marketing,EMEA,<1y,3,4,4,4,5,3,4,3,Leadership is transparent in town halls.,Not enough headcount for the roadmap.
+R0400,Customer Success,APAC,<1y,5,4,5,2,2,4,4,5,"Good customers, meaningful work.",Promotion process feels opaque.
+R0401,Finance,LATAM,3-5y,3,2,4,4,4,3,3,5,"Good customers, meaningful work.",Tooling is fragmented.
+R0402,Operations,NA,1-3y,3,3,4,2,3,4,2,4,Leadership is transparent in town halls.,Tooling is fragmented.
+R0403,Product,EMEA,5y+,5,3,3,4,4,4,2,3,"Good customers, meaningful work.","Too many meetings, not enough focus time."
+R0404,Finance,LATAM,3-5y,4,4,4,3,2,3,4,3,Interesting technical challenges.,On-call load is heavy this quarter.
+R0405,Engineering,EMEA,3-5y,2,3,4,4,5,4,3,2,Managers actually listen.,"Too many meetings, not enough focus time."
+R0406,Engineering,EMEA,5y+,2,4,5,1,3,4,4,3,Managers actually listen.,On-call load is heavy this quarter.
+R0407,Engineering,EMEA,5y+,4,5,5,3,3,4,4,3,Leadership is transparent in town halls.,Tooling is fragmented.
+R0408,Finance,EMEA,<1y,5,4,3,4,4,3,5,5,Leadership is transparent in town halls.,"Too many meetings, not enough focus time."
+R0409,People,APAC,5y+,4,4,5,4,5,4,2,4,Flexible hours help a lot.,Compensation lags the market.
+R0410,People,APAC,3-5y,3,3,4,4,5,4,4,4,Interesting technical challenges.,"Too many meetings, not enough focus time."
+R0411,Marketing,LATAM,1-3y,4,4,4,5,5,2,4,2,Flexible hours help a lot.,Promotion process feels opaque.
+R0412,Finance,EMEA,5y+,5,3,3,5,4,4,2,3,Flexible hours help a lot.,On-call load is heavy this quarter.
+R0413,People,NA,5y+,4,3,5,4,3,5,5,2,Managers actually listen.,Cross-team handoffs are slow.
+R0414,Engineering,NA,3-5y,3,2,4,3,3,2,3,5,Flexible hours help a lot.,Tooling is fragmented.
+R0415,Product,APAC,1-3y,5,4,5,3,4,3,4,3,Leadership is transparent in town halls.,"Too many meetings, not enough focus time."
+R0416,Marketing,APAC,<1y,4,5,5,5,3,3,5,3,Great teammates and a real mission.,"Too many meetings, not enough focus time."
+R0417,Marketing,LATAM,5y+,2,3,3,4,5,2,2,3,Interesting technical challenges.,"Too many meetings, not enough focus time."
+R0418,Engineering,EMEA,1-3y,2,4,4,5,4,3,3,3,I learn something new every week.,Cross-team handoffs are slow.
+R0419,Customer Success,EMEA,<1y,2,5,5,4,5,4,5,4,"Good customers, meaningful work.",Compensation lags the market.
+R0420,Product,APAC,1-3y,2,3,3,4,3,4,3,3,Flexible hours help a lot.,Not enough headcount for the roadmap.
+R0421,Finance,APAC,3-5y,4,3,2,4,2,4,3,3,Managers actually listen.,Promotion process feels opaque.
+R0422,Product,LATAM,3-5y,5,3,5,2,2,3,3,3,Great teammates and a real mission.,Tooling is fragmented.
+R0423,People,LATAM,<1y,4,4,5,4,4,5,4,3,Interesting technical challenges.,Not enough headcount for the roadmap.
+R0424,Marketing,EMEA,1-3y,4,5,4,3,5,3,4,5,Managers actually listen.,Tooling is fragmented.
+R0425,Sales,APAC,5y+,4,5,2,3,2,3,3,3,Leadership is transparent in town halls.,Compensation lags the market.
+R0426,People,LATAM,5y+,2,4,4,4,5,4,5,2,Managers actually listen.,Not enough headcount for the roadmap.
+R0427,Finance,NA,1-3y,2,3,5,3,3,5,5,3,Strong onboarding buddy program.,Tooling is fragmented.
+R0428,Product,LATAM,<1y,2,3,3,3,3,5,4,5,Flexible hours help a lot.,Compensation lags the market.
+R0429,Customer Success,LATAM,<1y,4,4,4,4,4,5,4,4,Leadership is transparent in town halls.,Tooling is fragmented.
+R0430,Sales,EMEA,<1y,3,3,1,3,2,3,3,4,Great teammates and a real mission.,Tooling is fragmented.
+R0431,Operations,APAC,<1y,4,4,5,3,5,4,3,4,Leadership is transparent in town halls.,"Too many meetings, not enough focus time."
+R0432,Marketing,APAC,3-5y,5,5,3,3,5,4,3,5,Strong onboarding buddy program.,Cross-team handoffs are slow.
+R0433,Customer Success,NA,1-3y,4,4,5,5,3,5,4,5,"Good customers, meaningful work.","Too many meetings, not enough focus time."
+R0434,Finance,LATAM,5y+,5,4,5,4,3,4,3,4,I learn something new every week.,Not enough headcount for the roadmap.
+R0435,People,LATAM,5y+,4,4,3,4,4,5,4,4,Interesting technical challenges.,Not enough headcount for the roadmap.
+R0436,Customer Success,LATAM,1-3y,2,5,4,5,5,4,5,3,I learn something new every week.,On-call load is heavy this quarter.
+R0437,Product,EMEA,1-3y,3,4,2,4,3,4,4,4,Flexible hours help a lot.,"Too many meetings, not enough focus time."
+R0438,Finance,NA,<1y,5,3,3,4,3,3,2,5,Strong onboarding buddy program.,Cross-team handoffs are slow.
+R0439,Product,APAC,1-3y,3,4,4,5,4,3,4,3,Flexible hours help a lot.,Tooling is fragmented.
+R0440,Finance,NA,3-5y,4,4,4,3,5,5,4,5,Flexible hours help a lot.,Cross-team handoffs are slow.
+R0441,Product,APAC,3-5y,3,5,4,3,4,2,3,3,Great teammates and a real mission.,"Too many meetings, not enough focus time."
+R0442,Marketing,NA,<1y,4,5,4,4,3,5,4,4,Interesting technical challenges.,Tooling is fragmented.
+R0443,Finance,APAC,1-3y,4,3,4,4,4,4,3,5,"Good customers, meaningful work.",Not enough headcount for the roadmap.
+R0444,Finance,LATAM,1-3y,3,2,3,4,3,4,4,2,Great teammates and a real mission.,Compensation lags the market.
+R0445,Finance,LATAM,3-5y,5,5,5,2,2,4,3,4,I learn something new every week.,Tooling is fragmented.
+R0446,Engineering,EMEA,<1y,4,3,3,3,4,3,3,3,"Good customers, meaningful work.",Not enough headcount for the roadmap.
+R0447,Marketing,EMEA,1-3y,4,4,5,3,3,4,5,3,Strong onboarding buddy program.,Career paths are unclear.
+R0448,Sales,APAC,<1y,4,3,2,2,2,4,4,3,Interesting technical challenges.,Not enough headcount for the roadmap.
+R0449,People,APAC,<1y,4,4,3,5,4,3,5,3,I learn something new every week.,On-call load is heavy this quarter.
+R0450,People,LATAM,1-3y,3,4,5,3,2,4,5,4,Managers actually listen.,Tooling is fragmented.
+R0451,Sales,NA,3-5y,2,5,2,4,4,3,4,3,Leadership is transparent in town halls.,Promotion process feels opaque.
+R0452,Marketing,EMEA,5y+,2,5,4,2,4,4,4,3,Strong onboarding buddy program.,Career paths are unclear.
+R0453,Sales,EMEA,1-3y,5,1,3,2,2,4,4,3,Interesting technical challenges.,Career paths are unclear.
+R0454,Marketing,EMEA,5y+,5,5,4,5,2,2,4,4,Flexible hours help a lot.,Not enough headcount for the roadmap.
+R0455,Operations,APAC,1-3y,3,3,5,1,2,3,4,3,Flexible hours help a lot.,Career paths are unclear.
+R0456,Engineering,APAC,1-3y,4,3,5,3,2,4,3,3,I learn something new every week.,Career paths are unclear.
+R0457,Operations,LATAM,3-5y,3,2,3,3,3,4,3,5,Interesting technical challenges.,Tooling is fragmented.
+R0458,Customer Success,APAC,3-5y,4,3,4,4,5,4,4,4,Managers actually listen.,Cross-team handoffs are slow.
+R0459,Customer Success,EMEA,5y+,2,4,4,4,4,4,4,4,Great teammates and a real mission.,Career paths are unclear.
+R0460,Marketing,APAC,<1y,4,2,4,4,4,2,3,2,I learn something new every week.,"Too many meetings, not enough focus time."
+R0461,Engineering,LATAM,5y+,3,3,5,5,4,5,5,5,Leadership is transparent in town halls.,Tooling is fragmented.
+R0462,Sales,NA,<1y,2,1,3,4,3,3,3,5,I learn something new every week.,Compensation lags the market.
+R0463,Sales,NA,<1y,4,2,3,4,3,5,3,2,Great teammates and a real mission.,Tooling is fragmented.
+R0464,People,EMEA,<1y,4,4,3,4,4,5,3,4,Interesting technical challenges.,"Too many meetings, not enough focus time."
+R0465,People,APAC,3-5y,3,5,3,3,4,5,5,4,Great teammates and a real mission.,Tooling is fragmented.
+R0466,Customer Success,EMEA,5y+,3,4,5,3,5,4,5,4,Leadership is transparent in town halls.,Compensation lags the market.
+R0467,Product,EMEA,3-5y,4,3,3,3,4,4,4,5,Great teammates and a real mission.,Not enough headcount for the roadmap.
+R0468,Engineering,EMEA,5y+,4,4,3,3,5,4,4,4,Leadership is transparent in town halls.,Cross-team handoffs are slow.
+R0469,Finance,NA,<1y,3,4,4,4,5,2,3,3,"Good customers, meaningful work.","Too many meetings, not enough focus time."
+R0470,Customer Success,NA,3-5y,5,5,3,4,4,3,4,4,Strong onboarding buddy program.,Compensation lags the market.
+R0471,Engineering,LATAM,1-3y,2,4,4,3,5,4,3,4,Strong onboarding buddy program.,"Too many meetings, not enough focus time."
+R0472,Finance,LATAM,<1y,4,4,3,3,4,3,3,3,Strong onboarding buddy program.,Compensation lags the market.
+R0473,Sales,EMEA,<1y,3,5,3,3,3,4,3,3,Managers actually listen.,Compensation lags the market.
+R0474,Product,NA,<1y,5,4,3,3,4,5,4,3,Flexible hours help a lot.,Compensation lags the market.
+R0475,Engineering,EMEA,1-3y,5,3,3,4,3,5,5,2,Great teammates and a real mission.,Not enough headcount for the roadmap.
+R0476,Customer Success,EMEA,1-3y,5,5,4,5,4,3,5,5,"Good customers, meaningful work.",Cross-team handoffs are slow.
+R0477,Customer Success,NA,1-3y,5,3,4,4,4,5,3,3,"Good customers, meaningful work.",On-call load is heavy this quarter.
+R0478,Operations,NA,3-5y,4,4,5,4,3,3,3,3,"Good customers, meaningful work.",On-call load is heavy this quarter.
+R0479,Sales,APAC,3-5y,3,2,4,2,4,3,2,2,Flexible hours help a lot.,"Too many meetings, not enough focus time."
+R0480,Marketing,EMEA,1-3y,4,2,3,2,5,3,4,5,Flexible hours help a lot.,On-call load is heavy this quarter.
+R0481,Engineering,NA,3-5y,3,4,4,2,3,3,3,2,Flexible hours help a lot.,Compensation lags the market.
+R0482,Sales,NA,<1y,2,4,3,2,1,3,3,2,Interesting technical challenges.,Compensation lags the market.
+R0483,Marketing,EMEA,1-3y,5,4,2,3,5,5,3,5,I learn something new every week.,Cross-team handoffs are slow.
+R0484,Sales,EMEA,3-5y,3,3,3,5,4,2,2,4,"Good customers, meaningful work.","Too many meetings, not enough focus time."
+R0485,Product,LATAM,5y+,5,5,3,5,3,4,4,3,Interesting technical challenges.,Compensation lags the market.
+R0486,Finance,LATAM,1-3y,4,4,4,4,4,4,5,3,"Good customers, meaningful work.","Too many meetings, not enough focus time."
+R0487,Engineering,LATAM,3-5y,4,3,4,2,3,3,4,3,Leadership is transparent in town halls.,On-call load is heavy this quarter.
+R0488,People,LATAM,<1y,5,3,3,4,3,4,4,4,Flexible hours help a lot.,Career paths are unclear.
+R0489,Customer Success,LATAM,1-3y,5,4,4,4,5,4,4,4,Managers actually listen.,Promotion process feels opaque.
+R0490,Sales,EMEA,1-3y,4,5,4,3,3,5,2,3,Flexible hours help a lot.,Promotion process feels opaque.
+R0491,Operations,LATAM,1-3y,3,3,3,3,4,3,4,4,I learn something new every week.,Career paths are unclear.
+R0492,Product,EMEA,1-3y,4,4,3,4,4,3,3,3,Strong onboarding buddy program.,"Too many meetings, not enough focus time."
+R0493,Customer Success,LATAM,3-5y,3,3,4,4,5,4,3,4,Leadership is transparent in town halls.,Not enough headcount for the roadmap.
+R0494,Customer Success,LATAM,3-5y,3,4,4,3,4,2,5,4,Flexible hours help a lot.,Tooling is fragmented.
+R0495,Customer Success,NA,<1y,4,4,4,4,4,3,5,3,Strong onboarding buddy program.,Cross-team handoffs are slow.
+R0496,Sales,LATAM,3-5y,3,4,4,2,4,3,4,3,Interesting technical challenges.,Compensation lags the market.
+R0497,Marketing,EMEA,3-5y,5,5,3,4,4,4,3,4,Leadership is transparent in town halls.,Tooling is fragmented.
+R0498,Marketing,LATAM,1-3y,4,3,4,2,5,4,3,5,Strong onboarding buddy program.,Tooling is fragmented.
+R0499,People,NA,1-3y,4,4,3,3,3,5,4,4,Great teammates and a real mission.,Not enough headcount for the roadmap.
+R0500,Finance,LATAM,<1y,4,3,5,2,4,5,4,4,Strong onboarding buddy program.,Promotion process feels opaque.
+R0501,Product,LATAM,1-3y,4,5,4,4,4,3,3,3,Strong onboarding buddy program.,Career paths are unclear.
+R0502,Customer Success,EMEA,1-3y,4,4,3,3,5,5,4,4,"Good customers, meaningful work.",Career paths are unclear.
+R0503,Customer Success,EMEA,1-3y,3,4,5,3,4,3,3,3,"Good customers, meaningful work.",Cross-team handoffs are slow.
+R0504,Finance,NA,3-5y,5,4,3,4,2,3,4,3,Managers actually listen.,Tooling is fragmented.
+R0505,Marketing,LATAM,5y+,4,4,4,5,4,2,4,4,Flexible hours help a lot.,Career paths are unclear.
+R0506,Marketing,APAC,3-5y,4,4,3,5,3,4,3,5,Leadership is transparent in town halls.,"Too many meetings, not enough focus time."
+R0507,People,NA,3-5y,5,5,4,4,5,5,4,4,Flexible hours help a lot.,Cross-team handoffs are slow.
+R0508,People,LATAM,5y+,4,4,4,5,3,4,5,4,Great teammates and a real mission.,Tooling is fragmented.
+R0509,Finance,NA,<1y,4,2,3,4,5,3,4,4,Interesting technical challenges.,Compensation lags the market.
+R0510,Engineering,APAC,<1y,4,3,4,3,3,3,4,3,Flexible hours help a lot.,Tooling is fragmented.
+R0511,Engineering,LATAM,<1y,3,4,2,2,4,4,2,3,Leadership is transparent in town halls.,Not enough headcount for the roadmap.
+R0512,Product,NA,3-5y,4,5,4,3,5,5,3,4,Flexible hours help a lot.,Tooling is fragmented.
+R0513,Finance,EMEA,5y+,4,3,3,5,4,3,3,2,I learn something new every week.,Career paths are unclear.
+R0514,Operations,APAC,<1y,2,2,2,3,5,3,2,3,I learn something new every week.,Compensation lags the market.
+R0515,Operations,NA,3-5y,4,5,3,3,3,2,4,3,Flexible hours help a lot.,Promotion process feels opaque.
+R0516,Product,NA,<1y,3,3,4,4,3,3,3,5,Flexible hours help a lot.,Not enough headcount for the roadmap.
+R0517,Marketing,APAC,3-5y,3,4,3,3,2,5,3,3,"Good customers, meaningful work.",Promotion process feels opaque.
+R0518,People,APAC,5y+,4,3,3,3,2,5,5,3,"Good customers, meaningful work.",Career paths are unclear.
+R0519,Sales,LATAM,1-3y,1,4,3,2,3,3,4,5,Interesting technical challenges.,"Too many meetings, not enough focus time."
+R0520,People,EMEA,1-3y,4,4,4,4,4,4,3,5,Leadership is transparent in town halls.,Compensation lags the market.
+R0521,Finance,LATAM,3-5y,4,4,4,5,4,4,4,3,Strong onboarding buddy program.,On-call load is heavy this quarter.
+R0522,Engineering,LATAM,<1y,4,5,3,4,4,3,3,5,I learn something new every week.,Career paths are unclear.
+R0523,Finance,LATAM,3-5y,2,3,5,1,5,2,4,5,Leadership is transparent in town halls.,Not enough headcount for the roadmap.
+R0524,Engineering,EMEA,1-3y,3,3,5,3,3,3,5,4,Great teammates and a real mission.,On-call load is heavy this quarter.
+R0525,People,NA,5y+,5,2,3,5,4,5,3,3,I learn something new every week.,On-call load is heavy this quarter.
+R0526,Operations,LATAM,3-5y,2,4,4,1,4,3,4,4,Strong onboarding buddy program.,"Too many meetings, not enough focus time."
+R0527,Finance,EMEA,1-3y,5,4,4,3,3,2,4,5,Interesting technical challenges.,On-call load is heavy this quarter.
+R0528,Customer Success,APAC,5y+,4,5,4,4,3,5,3,3,"Good customers, meaningful work.","Too many meetings, not enough focus time."
+R0529,Product,APAC,3-5y,4,4,3,3,3,4,3,2,Leadership is transparent in town halls.,Not enough headcount for the roadmap.
+R0530,Finance,APAC,1-3y,2,5,4,4,5,3,5,4,Great teammates and a real mission.,Not enough headcount for the roadmap.
+R0531,Engineering,LATAM,<1y,4,3,5,4,5,3,4,4,Flexible hours help a lot.,Promotion process feels opaque.
+R0532,Product,NA,<1y,4,3,5,3,4,4,3,3,Great teammates and a real mission.,Compensation lags the market.
+R0533,Operations,LATAM,3-5y,1,2,3,4,3,2,4,1,I learn something new every week.,Promotion process feels opaque.
+R0534,Engineering,APAC,3-5y,2,3,3,4,3,4,4,3,Leadership is transparent in town halls.,Compensation lags the market.
+R0535,People,NA,3-5y,5,4,3,5,5,4,4,4,Flexible hours help a lot.,Promotion process feels opaque.
+R0536,Operations,APAC,3-5y,3,3,3,4,3,3,2,2,"Good customers, meaningful work.",Compensation lags the market.
+R0537,Sales,EMEA,<1y,4,3,3,4,1,4,3,2,Flexible hours help a lot.,Cross-team handoffs are slow.
+R0538,Engineering,LATAM,1-3y,5,3,2,2,5,3,4,3,Managers actually listen.,Promotion process feels opaque.
+R0539,Product,APAC,<1y,5,3,5,3,4,2,3,4,I learn something new every week.,Not enough headcount for the roadmap.
+R0540,Sales,NA,<1y,5,4,3,5,2,5,2,3,Strong onboarding buddy program.,Cross-team handoffs are slow.
+R0541,Marketing,EMEA,5y+,3,3,4,4,2,4,5,3,Managers actually listen.,Cross-team handoffs are slow.
+R0542,Engineering,EMEA,<1y,4,4,3,4,3,3,3,3,Great teammates and a real mission.,Promotion process feels opaque.
+R0543,Finance,NA,1-3y,3,4,3,5,4,4,2,2,Great teammates and a real mission.,Cross-team handoffs are slow.
+R0544,People,EMEA,5y+,3,3,4,4,4,4,3,4,I learn something new every week.,Promotion process feels opaque.
+R0545,Sales,APAC,3-5y,4,3,3,4,4,2,3,3,Flexible hours help a lot.,Cross-team handoffs are slow.
+R0546,Finance,APAC,<1y,5,4,5,4,5,4,4,2,Flexible hours help a lot.,Career paths are unclear.
+R0547,Sales,NA,<1y,4,4,4,4,3,4,3,4,Strong onboarding buddy program.,Cross-team handoffs are slow.
+R0548,Sales,APAC,5y+,2,2,4,3,2,5,2,2,Managers actually listen.,"Too many meetings, not enough focus time."
+R0549,People,NA,5y+,3,3,4,4,5,3,4,4,Interesting technical challenges.,"Too many meetings, not enough focus time."
+R0550,Sales,NA,3-5y,3,4,3,3,3,3,4,3,"Good customers, meaningful work.",Cross-team handoffs are slow.
+R0551,Marketing,LATAM,<1y,4,4,2,4,3,3,3,3,Flexible hours help a lot.,Promotion process feels opaque.
+R0552,Product,LATAM,1-3y,3,3,2,3,5,4,3,4,Strong onboarding buddy program.,On-call load is heavy this quarter.
+R0553,Product,NA,3-5y,3,3,3,4,5,3,5,2,Flexible hours help a lot.,Not enough headcount for the roadmap.
+R0554,People,NA,<1y,4,4,4,3,3,4,3,5,Great teammates and a real mission.,Cross-team handoffs are slow.
+R0555,Product,APAC,1-3y,2,5,4,4,3,3,3,4,Strong onboarding buddy program.,"Too many meetings, not enough focus time."
+R0556,Sales,LATAM,5y+,3,3,3,5,3,3,4,3,Interesting technical challenges.,Cross-team handoffs are slow.
+R0557,Operations,LATAM,3-5y,4,3,3,4,3,4,4,3,Flexible hours help a lot.,On-call load is heavy this quarter.
+R0558,Operations,NA,3-5y,3,3,1,4,3,5,2,3,I learn something new every week.,"Too many meetings, not enough focus time."
+R0559,Sales,LATAM,5y+,3,4,5,3,4,2,3,3,"Good customers, meaningful work.",On-call load is heavy this quarter.
+R0560,Sales,APAC,5y+,4,3,4,3,2,4,3,3,Leadership is transparent in town halls.,Cross-team handoffs are slow.
+R0561,Product,APAC,1-3y,4,2,3,5,5,4,2,3,Flexible hours help a lot.,Not enough headcount for the roadmap.
+R0562,Sales,LATAM,5y+,4,4,3,2,4,3,2,3,I learn something new every week.,Tooling is fragmented.
+R0563,People,APAC,3-5y,4,4,5,4,4,4,4,4,Great teammates and a real mission.,Promotion process feels opaque.
+R0564,Finance,LATAM,<1y,5,3,2,2,4,5,4,4,"Good customers, meaningful work.",Not enough headcount for the roadmap.
+R0565,Finance,LATAM,1-3y,3,3,4,3,2,3,4,4,Managers actually listen.,Tooling is fragmented.
+R0566,Product,LATAM,3-5y,4,4,2,3,2,3,3,4,Interesting technical challenges.,Not enough headcount for the roadmap.
+R0567,Marketing,EMEA,5y+,5,4,3,5,4,5,3,4,"Good customers, meaningful work.",Tooling is fragmented.
+R0568,Finance,NA,1-3y,2,3,4,2,4,4,5,5,Great teammates and a real mission.,Cross-team handoffs are slow.
+R0569,People,LATAM,5y+,3,3,5,4,5,4,2,5,Strong onboarding buddy program.,Tooling is fragmented.
+R0570,People,APAC,5y+,4,4,4,3,3,3,3,5,Strong onboarding buddy program.,Tooling is fragmented.
+R0571,Product,APAC,<1y,3,3,4,3,3,4,5,4,Leadership is transparent in town halls.,Cross-team handoffs are slow.
+R0572,Operations,EMEA,1-3y,4,3,4,5,4,4,2,2,Interesting technical challenges.,Not enough headcount for the roadmap.
+R0573,People,APAC,<1y,4,5,4,1,3,4,4,2,Leadership is transparent in town halls.,On-call load is heavy this quarter.
+R0574,Customer Success,EMEA,<1y,4,5,3,4,4,3,3,4,Great teammates and a real mission.,Tooling is fragmented.
+R0575,Product,NA,3-5y,2,3,4,3,3,4,3,4,"Good customers, meaningful work.",Not enough headcount for the roadmap.
+R0576,Marketing,EMEA,5y+,4,5,4,5,3,3,2,3,Managers actually listen.,Cross-team handoffs are slow.
+R0577,Customer Success,EMEA,5y+,4,3,5,3,5,5,4,4,Leadership is transparent in town halls.,On-call load is heavy this quarter.
+R0578,Product,APAC,3-5y,4,3,4,2,3,5,3,4,Great teammates and a real mission.,Tooling is fragmented.
+R0579,Product,NA,1-3y,5,4,5,4,3,3,5,4,Strong onboarding buddy program.,Tooling is fragmented.
+R0580,People,APAC,5y+,3,5,4,3,4,5,5,4,Leadership is transparent in town halls.,Promotion process feels opaque.
+R0581,Marketing,APAC,1-3y,3,4,4,4,4,5,4,5,"Good customers, meaningful work.",Career paths are unclear.
+R0582,Finance,APAC,1-3y,2,5,5,4,4,3,4,4,Strong onboarding buddy program.,On-call load is heavy this quarter.
+R0583,Operations,NA,5y+,2,2,4,4,4,2,4,5,Great teammates and a real mission.,Career paths are unclear.
+R0584,Marketing,EMEA,5y+,3,5,3,4,5,5,4,5,"Good customers, meaningful work.",On-call load is heavy this quarter.
+R0585,Customer Success,APAC,5y+,4,3,4,5,3,4,5,3,Great teammates and a real mission.,Cross-team handoffs are slow.
+R0586,Operations,NA,3-5y,1,3,3,3,4,2,3,4,I learn something new every week.,Tooling is fragmented.
+R0587,Customer Success,EMEA,<1y,5,3,5,4,4,4,4,3,"Good customers, meaningful work.",Not enough headcount for the roadmap.
+R0588,People,NA,<1y,5,4,4,4,5,4,4,4,Leadership is transparent in town halls.,Tooling is fragmented.
+R0589,Finance,NA,1-3y,3,4,3,2,4,1,3,3,"Good customers, meaningful work.",Tooling is fragmented.
+R0590,Product,APAC,<1y,4,3,4,3,2,3,4,3,Interesting technical challenges.,Career paths are unclear.
+R0591,People,APAC,5y+,4,3,2,5,3,4,3,3,Great teammates and a real mission.,"Too many meetings, not enough focus time."
+R0592,Customer Success,NA,<1y,5,4,5,4,4,3,3,5,Leadership is transparent in town halls.,Career paths are unclear.
+R0593,Customer Success,NA,1-3y,4,4,3,5,4,4,5,3,Flexible hours help a lot.,Promotion process feels opaque.
+R0594,Sales,EMEA,<1y,4,3,3,4,4,5,2,4,Flexible hours help a lot.,Not enough headcount for the roadmap.
+R0595,People,APAC,3-5y,3,4,5,4,4,5,5,4,Interesting technical challenges.,Cross-team handoffs are slow.
+R0596,People,EMEA,3-5y,3,4,3,4,4,5,2,4,Interesting technical challenges.,Tooling is fragmented.
+R0597,Product,EMEA,1-3y,2,4,4,2,3,3,3,3,Flexible hours help a lot.,"Too many meetings, not enough focus time."
+R0598,Product,APAC,<1y,3,4,3,3,2,3,5,4,Interesting technical challenges.,Compensation lags the market.
+R0599,Marketing,NA,1-3y,4,4,3,3,5,4,4,4,Leadership is transparent in town halls.,Career paths are unclear.
+R0600,Finance,LATAM,3-5y,3,5,5,4,4,4,4,2,I learn something new every week.,Not enough headcount for the roadmap.
+R0601,People,LATAM,1-3y,5,4,4,3,5,3,3,3,I learn something new every week.,Promotion process feels opaque.
+R0602,Operations,NA,5y+,2,5,3,3,4,3,4,2,I learn something new every week.,"Too many meetings, not enough focus time."
+R0603,Sales,LATAM,3-5y,4,3,2,4,4,2,2,3,Strong onboarding buddy program.,Tooling is fragmented.
+R0604,Marketing,APAC,3-5y,3,4,3,4,3,2,2,4,Leadership is transparent in town halls.,On-call load is heavy this quarter.
+R0605,Marketing,APAC,5y+,1,3,4,5,3,4,4,4,Leadership is transparent in town halls.,"Too many meetings, not enough focus time."
+R0606,People,NA,1-3y,5,3,4,5,4,4,3,5,Great teammates and a real mission.,Promotion process feels opaque.
+R0607,Sales,NA,5y+,4,4,3,3,3,4,5,4,Strong onboarding buddy program.,Promotion process feels opaque.
+R0608,Customer Success,EMEA,<1y,5,2,3,4,3,5,3,4,Interesting technical challenges.,Cross-team handoffs are slow.
+R0609,Customer Success,NA,<1y,4,4,5,4,4,5,4,4,Flexible hours help a lot.,Not enough headcount for the roadmap.
+R0610,Sales,EMEA,1-3y,2,4,4,2,4,3,3,4,"Good customers, meaningful work.",Career paths are unclear.
+R0611,People,EMEA,5y+,4,3,5,4,3,5,5,4,Strong onboarding buddy program.,Tooling is fragmented.
+R0612,Marketing,LATAM,<1y,5,4,3,5,4,3,4,4,Strong onboarding buddy program.,"Too many meetings, not enough focus time."
+R0613,Product,NA,3-5y,2,3,2,4,3,3,1,4,Leadership is transparent in town halls.,Promotion process feels opaque.
+R0614,Product,NA,<1y,3,3,3,3,2,4,2,4,Strong onboarding buddy program.,Cross-team handoffs are slow.
+R0615,Sales,APAC,1-3y,3,3,2,2,3,4,1,2,Flexible hours help a lot.,Tooling is fragmented.
+R0616,Engineering,EMEA,5y+,4,4,5,4,3,5,3,3,Managers actually listen.,"Too many meetings, not enough focus time."
+R0617,People,EMEA,3-5y,2,3,5,4,5,4,5,4,Interesting technical challenges.,Compensation lags the market.
+R0618,Sales,APAC,1-3y,2,1,3,5,3,3,5,3,Flexible hours help a lot.,Promotion process feels opaque.
+R0619,Marketing,LATAM,<1y,3,4,5,3,3,5,5,4,"Good customers, meaningful work.",Compensation lags the market.
+R0620,People,LATAM,5y+,2,4,3,4,4,4,5,3,"Good customers, meaningful work.",Not enough headcount for the roadmap.
+R0621,Sales,NA,5y+,3,3,5,1,4,3,3,4,"Good customers, meaningful work.",Tooling is fragmented.
+R0622,Customer Success,LATAM,5y+,3,4,4,5,5,2,4,2,Leadership is transparent in town halls.,Career paths are unclear.
+R0623,Product,EMEA,1-3y,3,2,2,4,3,4,1,4,"Good customers, meaningful work.",Not enough headcount for the roadmap.
+R0624,Sales,APAC,3-5y,4,3,2,2,4,4,2,5,I learn something new every week.,Not enough headcount for the roadmap.
+R0625,Marketing,LATAM,3-5y,4,4,3,2,3,4,4,4,Interesting technical challenges.,Tooling is fragmented.
+R0626,Marketing,APAC,3-5y,5,3,2,3,4,2,3,5,Great teammates and a real mission.,Cross-team handoffs are slow.
+R0627,Customer Success,APAC,5y+,3,5,4,3,5,3,3,3,Great teammates and a real mission.,"Too many meetings, not enough focus time."
+R0628,Product,EMEA,5y+,5,4,4,4,4,4,3,2,I learn something new every week.,Career paths are unclear.
+R0629,Customer Success,LATAM,1-3y,2,4,4,4,3,3,5,5,I learn something new every week.,Tooling is fragmented.
+R0630,Marketing,NA,5y+,5,4,4,3,5,2,3,5,Great teammates and a real mission.,Compensation lags the market.
+R0631,Customer Success,APAC,<1y,5,5,5,5,5,5,3,5,Strong onboarding buddy program.,Tooling is fragmented.
+R0632,People,APAC,<1y,3,3,3,3,5,3,5,5,I learn something new every week.,Cross-team handoffs are slow.
+R0633,Marketing,EMEA,1-3y,3,3,5,4,3,3,2,2,Flexible hours help a lot.,Not enough headcount for the roadmap.
+R0634,Engineering,NA,1-3y,4,4,2,4,4,4,2,3,"Good customers, meaningful work.",Promotion process feels opaque.
+R0635,Sales,NA,3-5y,4,3,3,2,4,3,5,5,Leadership is transparent in town halls.,Promotion process feels opaque.
+R0636,Marketing,APAC,3-5y,3,3,1,3,3,4,3,4,Strong onboarding buddy program.,"Too many meetings, not enough focus time."
+R0637,Customer Success,LATAM,5y+,5,4,1,4,4,4,4,2,I learn something new every week.,On-call load is heavy this quarter.
+R0638,Marketing,EMEA,3-5y,4,1,4,2,4,2,3,3,Flexible hours help a lot.,Not enough headcount for the roadmap.
+R0639,Engineering,LATAM,1-3y,3,2,3,3,4,4,3,3,Great teammates and a real mission.,Career paths are unclear.
+R0640,Marketing,APAC,3-5y,3,2,4,4,5,3,5,4,Great teammates and a real mission.,On-call load is heavy this quarter.
+R0641,People,NA,<1y,2,4,4,3,3,5,5,2,Leadership is transparent in town halls.,"Too many meetings, not enough focus time."
+R0642,Customer Success,EMEA,1-3y,3,5,4,2,4,5,4,4,I learn something new every week.,"Too many meetings, not enough focus time."
+R0643,Operations,EMEA,5y+,2,4,3,3,3,3,3,4,I learn something new every week.,Promotion process feels opaque.
+R0644,Customer Success,NA,3-5y,5,4,3,4,4,3,3,4,Managers actually listen.,Career paths are unclear.
+R0645,Sales,EMEA,5y+,3,2,4,3,4,3,3,2,Managers actually listen.,Promotion process feels opaque.
+R0646,People,EMEA,5y+,3,3,4,4,3,4,5,5,Great teammates and a real mission.,Promotion process feels opaque.
+R0647,Marketing,NA,5y+,4,4,4,3,5,4,3,4,Great teammates and a real mission.,Compensation lags the market.
+R0648,Sales,EMEA,<1y,3,4,5,3,3,4,3,3,I learn something new every week.,Career paths are unclear.
+R0649,Customer Success,LATAM,5y+,3,4,4,3,4,2,3,4,Strong onboarding buddy program.,"Too many meetings, not enough focus time."
+R0650,Customer Success,EMEA,3-5y,3,4,4,2,5,4,5,5,I learn something new every week.,Career paths are unclear.
+R0651,Customer Success,NA,<1y,4,4,3,5,4,5,2,5,Great teammates and a real mission.,Promotion process feels opaque.
+R0652,People,LATAM,<1y,3,3,4,3,4,5,4,4,"Good customers, meaningful work.",Cross-team handoffs are slow.
+R0653,Sales,EMEA,<1y,5,3,4,1,2,2,4,3,Managers actually listen.,Compensation lags the market.
+R0654,Customer Success,LATAM,<1y,2,3,3,3,3,4,3,3,"Good customers, meaningful work.",Cross-team handoffs are slow.
+R0655,People,EMEA,<1y,5,4,5,4,4,2,4,5,"Good customers, meaningful work.",Compensation lags the market.
+R0656,Operations,APAC,<1y,3,4,2,2,4,2,4,4,Interesting technical challenges.,Promotion process feels opaque.
+R0657,Engineering,APAC,5y+,4,3,5,5,5,4,5,4,Interesting technical challenges.,Career paths are unclear.
+R0658,Marketing,LATAM,<1y,3,4,4,5,2,3,2,3,Strong onboarding buddy program.,Career paths are unclear.
+R0659,Engineering,LATAM,1-3y,3,4,3,5,4,4,4,4,Managers actually listen.,Promotion process feels opaque.
+R0660,People,EMEA,3-5y,4,5,5,5,5,4,4,3,Interesting technical challenges.,Cross-team handoffs are slow.
+R0661,Engineering,LATAM,3-5y,5,4,2,3,4,4,4,4,Leadership is transparent in town halls.,"Too many meetings, not enough focus time."
+R0662,Product,EMEA,3-5y,4,3,3,3,5,3,2,4,I learn something new every week.,Tooling is fragmented.
+R0663,People,EMEA,1-3y,3,5,4,2,4,3,5,4,Strong onboarding buddy program.,Career paths are unclear.
+R0664,Finance,EMEA,<1y,4,5,4,4,4,3,2,3,I learn something new every week.,Not enough headcount for the roadmap.
+R0665,People,LATAM,<1y,2,5,4,5,4,4,5,4,Flexible hours help a lot.,Compensation lags the market.
+R0666,Operations,LATAM,1-3y,2,3,3,3,3,3,3,4,Interesting technical challenges.,Tooling is fragmented.
+R0667,Product,NA,<1y,4,4,5,2,3,2,4,3,Flexible hours help a lot.,"Too many meetings, not enough focus time."
+R0668,Sales,NA,<1y,3,3,3,4,2,3,4,3,Flexible hours help a lot.,Promotion process feels opaque.
+R0669,Engineering,NA,3-5y,2,5,4,4,3,4,5,4,I learn something new every week.,Tooling is fragmented.
+R0670,Marketing,NA,1-3y,2,4,2,4,4,4,3,5,"Good customers, meaningful work.",Promotion process feels opaque.
+R0671,Finance,LATAM,3-5y,5,4,3,5,4,5,4,5,Interesting technical challenges.,Compensation lags the market.
+R0672,Sales,EMEA,1-3y,2,3,3,2,3,4,2,2,I learn something new every week.,Compensation lags the market.
+R0673,Finance,NA,1-3y,3,4,4,4,4,3,4,4,Leadership is transparent in town halls.,Not enough headcount for the roadmap.
+R0674,Sales,LATAM,5y+,4,5,4,4,3,3,5,4,Flexible hours help a lot.,Promotion process feels opaque.
+R0675,Operations,NA,5y+,3,3,3,2,3,1,3,3,Leadership is transparent in town halls.,Compensation lags the market.
+R0676,Customer Success,EMEA,5y+,3,5,5,3,5,4,4,4,Flexible hours help a lot.,Compensation lags the market.
+R0677,Operations,APAC,<1y,3,4,4,2,3,3,4,3,Interesting technical challenges.,Tooling is fragmented.
+R0678,People,LATAM,<1y,2,5,4,3,5,4,4,5,Flexible hours help a lot.,Career paths are unclear.
+R0679,Product,LATAM,3-5y,3,3,4,3,4,4,4,2,Strong onboarding buddy program.,On-call load is heavy this quarter.
+R0680,Marketing,LATAM,3-5y,4,5,3,3,3,3,3,4,"Good customers, meaningful work.",Promotion process feels opaque.
+R0681,Product,LATAM,5y+,3,3,4,4,3,4,5,5,"Good customers, meaningful work.","Too many meetings, not enough focus time."
+R0682,Marketing,NA,<1y,2,4,4,4,2,4,3,4,Great teammates and a real mission.,Tooling is fragmented.
+R0683,Marketing,NA,3-5y,3,5,4,3,4,5,3,4,Great teammates and a real mission.,Tooling is fragmented.
+R0684,Engineering,LATAM,<1y,3,3,5,4,4,5,4,4,Strong onboarding buddy program.,Cross-team handoffs are slow.
+R0685,Finance,APAC,<1y,3,4,2,3,3,4,4,3,Managers actually listen.,"Too many meetings, not enough focus time."
+R0686,Customer Success,NA,1-3y,3,4,4,4,4,2,3,5,I learn something new every week.,Compensation lags the market.
+R0687,People,LATAM,<1y,4,4,5,4,4,3,5,3,Managers actually listen.,"Too many meetings, not enough focus time."
+R0688,Product,LATAM,3-5y,4,4,2,3,5,3,4,3,Interesting technical challenges.,Cross-team handoffs are slow.
+R0689,Operations,EMEA,3-5y,3,3,2,3,4,3,2,4,I learn something new every week.,Tooling is fragmented.
+R0690,Customer Success,APAC,5y+,3,4,4,4,5,4,4,3,"Good customers, meaningful work.",Tooling is fragmented.
+R0691,Customer Success,EMEA,<1y,4,4,5,4,5,5,4,4,"Good customers, meaningful work.",Not enough headcount for the roadmap.
+R0692,Engineering,LATAM,3-5y,4,3,4,5,5,3,4,3,Flexible hours help a lot.,Tooling is fragmented.
+R0693,Customer Success,APAC,<1y,4,4,5,4,4,4,5,4,Managers actually listen.,Career paths are unclear.
+R0694,Product,APAC,<1y,5,5,4,4,5,4,4,3,I learn something new every week.,Tooling is fragmented.
+R0695,Sales,EMEA,3-5y,4,2,2,2,2,3,4,2,Strong onboarding buddy program.,Promotion process feels opaque.
+R0696,Operations,NA,5y+,4,4,4,3,4,4,4,2,I learn something new every week.,Cross-team handoffs are slow.
+R0697,People,LATAM,1-3y,3,5,4,3,4,5,4,3,Great teammates and a real mission.,Cross-team handoffs are slow.
+R0698,Sales,EMEA,<1y,2,3,4,2,4,2,3,3,"Good customers, meaningful work.",On-call load is heavy this quarter.
+R0699,Customer Success,APAC,1-3y,5,3,3,4,2,1,4,3,Flexible hours help a lot.,Compensation lags the market.
+R0700,Operations,LATAM,5y+,1,4,3,5,4,4,2,4,Great teammates and a real mission.,Career paths are unclear.
+R0701,Product,APAC,3-5y,1,4,3,4,3,4,5,4,Interesting technical challenges.,Tooling is fragmented.
+R0702,Engineering,APAC,3-5y,5,4,3,3,5,4,3,4,Strong onboarding buddy program.,Tooling is fragmented.
+R0703,Sales,EMEA,3-5y,4,2,4,3,3,2,4,3,I learn something new every week.,Tooling is fragmented.
+R0704,Sales,NA,3-5y,2,4,4,3,2,4,2,4,Flexible hours help a lot.,Cross-team handoffs are slow.
+R0705,Sales,NA,<1y,4,4,3,4,5,4,2,3,Flexible hours help a lot.,Cross-team handoffs are slow.
+R0706,Customer Success,NA,3-5y,3,4,4,4,4,4,4,2,Managers actually listen.,Promotion process feels opaque.
+R0707,Product,LATAM,5y+,3,4,2,3,3,3,4,4,"Good customers, meaningful work.",On-call load is heavy this quarter.
+R0708,People,LATAM,5y+,4,5,4,4,5,3,4,4,Interesting technical challenges.,Compensation lags the market.
+R0709,Operations,LATAM,1-3y,1,3,5,3,5,2,4,4,Flexible hours help a lot.,Cross-team handoffs are slow.
+R0710,Customer Success,APAC,5y+,3,3,5,4,4,4,5,3,Strong onboarding buddy program.,Cross-team handoffs are slow.
+R0711,Finance,APAC,5y+,3,4,4,4,4,4,3,3,Great teammates and a real mission.,Not enough headcount for the roadmap.
+R0712,Sales,APAC,1-3y,5,2,3,4,4,3,3,2,"Good customers, meaningful work.",Promotion process feels opaque.
+R0713,Finance,APAC,3-5y,3,2,4,4,3,4,3,2,Flexible hours help a lot.,"Too many meetings, not enough focus time."
+R0714,Operations,NA,5y+,4,3,4,3,4,2,4,2,Flexible hours help a lot.,Cross-team handoffs are slow.
+R0715,People,APAC,1-3y,4,4,4,5,4,3,2,5,I learn something new every week.,On-call load is heavy this quarter.
+R0716,Operations,APAC,3-5y,2,4,4,3,4,3,3,2,Strong onboarding buddy program.,Compensation lags the market.
+R0717,People,APAC,1-3y,3,3,5,4,3,5,5,4,Strong onboarding buddy program.,"Too many meetings, not enough focus time."
+R0718,Product,LATAM,1-3y,5,3,5,3,4,5,4,2,Strong onboarding buddy program.,Promotion process feels opaque.
+R0719,Finance,APAC,3-5y,4,3,5,5,3,4,5,5,Managers actually listen.,"Too many meetings, not enough focus time."
+R0720,People,EMEA,5y+,5,4,4,4,5,3,5,3,I learn something new every week.,Tooling is fragmented.
+R0721,Finance,EMEA,1-3y,4,2,5,2,5,3,4,2,Great teammates and a real mission.,Career paths are unclear.
+R0722,Customer Success,NA,1-3y,4,3,4,3,5,2,4,2,Flexible hours help a lot.,Tooling is fragmented.
+R0723,Engineering,NA,<1y,3,2,4,2,3,3,4,4,I learn something new every week.,Not enough headcount for the roadmap.
+R0724,Finance,EMEA,3-5y,3,3,4,3,5,2,5,5,Interesting technical challenges.,Cross-team handoffs are slow.
+R0725,Finance,NA,3-5y,4,2,4,3,3,4,5,5,Leadership is transparent in town halls.,"Too many meetings, not enough focus time."
+R0726,Engineering,LATAM,5y+,5,4,5,3,3,3,4,4,Strong onboarding buddy program.,Tooling is fragmented.
+R0727,Engineering,LATAM,3-5y,4,2,2,3,2,3,4,4,I learn something new every week.,Not enough headcount for the roadmap.
+R0728,Operations,EMEA,3-5y,3,3,1,3,3,2,3,3,Interesting technical challenges.,Not enough headcount for the roadmap.
+R0729,Marketing,EMEA,<1y,5,5,4,3,5,4,4,3,"Good customers, meaningful work.",Cross-team handoffs are slow.
+R0730,Engineering,NA,<1y,4,4,4,3,3,4,4,3,Interesting technical challenges.,Career paths are unclear.
+R0731,Engineering,APAC,1-3y,5,2,3,4,3,4,2,3,Flexible hours help a lot.,On-call load is heavy this quarter.
+R0732,Marketing,NA,5y+,4,4,5,4,3,3,3,3,Leadership is transparent in town halls.,Career paths are unclear.
+R0733,Product,APAC,3-5y,3,3,4,5,5,5,4,4,Flexible hours help a lot.,Cross-team handoffs are slow.
+R0734,Operations,APAC,5y+,4,2,2,5,3,4,4,3,Strong onboarding buddy program.,Promotion process feels opaque.
+R0735,Operations,EMEA,3-5y,4,3,4,1,3,5,4,2,Flexible hours help a lot.,On-call load is heavy this quarter.
+R0736,Operations,APAC,5y+,3,3,4,2,3,3,4,4,Great teammates and a real mission.,Cross-team handoffs are slow.
+R0737,Engineering,EMEA,3-5y,4,5,3,3,4,4,3,4,Leadership is transparent in town halls.,On-call load is heavy this quarter.
+R0738,People,NA,3-5y,5,4,4,4,4,3,5,5,Great teammates and a real mission.,Compensation lags the market.
+R0739,People,APAC,3-5y,3,4,5,5,5,5,3,4,Leadership is transparent in town halls.,Tooling is fragmented.
+R0740,Marketing,NA,<1y,4,4,3,2,2,3,4,4,Leadership is transparent in town halls.,Career paths are unclear.
+R0741,Product,EMEA,5y+,3,4,3,5,3,5,3,3,Leadership is transparent in town halls.,Cross-team handoffs are slow.
+R0742,People,APAC,<1y,5,4,4,3,5,4,1,4,Flexible hours help a lot.,Compensation lags the market.
+R0743,Product,EMEA,5y+,3,3,3,5,4,3,3,4,Leadership is transparent in town halls.,"Too many meetings, not enough focus time."
+R0744,Engineering,LATAM,<1y,4,3,4,1,5,4,2,5,Interesting technical challenges.,Career paths are unclear.
+R0745,Customer Success,LATAM,5y+,3,5,4,3,2,3,2,3,I learn something new every week.,Compensation lags the market.
+R0746,Operations,LATAM,5y+,3,3,2,4,3,3,4,3,Managers actually listen.,Career paths are unclear.
+R0747,Operations,LATAM,1-3y,3,3,2,2,3,3,3,4,"Good customers, meaningful work.","Too many meetings, not enough focus time."
+R0748,Operations,APAC,<1y,4,4,3,2,3,3,3,4,I learn something new every week.,Cross-team handoffs are slow.
+R0749,Marketing,EMEA,<1y,3,2,4,4,5,4,2,4,Flexible hours help a lot.,Not enough headcount for the roadmap.
+R0750,Finance,EMEA,5y+,4,5,4,5,4,4,3,4,Strong onboarding buddy program.,On-call load is heavy this quarter.
+R0751,Marketing,LATAM,5y+,2,3,4,5,4,4,4,3,I learn something new every week.,Cross-team handoffs are slow.
+R0752,Finance,EMEA,1-3y,3,4,4,3,5,3,2,3,Managers actually listen.,Career paths are unclear.
+R0753,Engineering,LATAM,3-5y,3,3,4,3,3,3,3,4,I learn something new every week.,Cross-team handoffs are slow.
+R0754,Sales,NA,3-5y,2,5,3,3,4,3,3,4,Leadership is transparent in town halls.,Promotion process feels opaque.
+R0755,People,LATAM,5y+,4,4,4,4,4,4,5,5,"Good customers, meaningful work.",Promotion process feels opaque.
+R0756,Finance,EMEA,1-3y,3,4,4,3,4,4,3,5,Managers actually listen.,"Too many meetings, not enough focus time."
+R0757,Marketing,NA,<1y,3,4,2,3,2,3,4,5,Strong onboarding buddy program.,"Too many meetings, not enough focus time."
+R0758,Product,NA,1-3y,4,3,3,5,3,4,3,3,Great teammates and a real mission.,Career paths are unclear.
+R0759,Product,EMEA,1-3y,4,3,3,4,5,2,3,2,Managers actually listen.,Compensation lags the market.
+R0760,Operations,EMEA,1-3y,2,2,2,4,5,2,2,4,"Good customers, meaningful work.",Cross-team handoffs are slow.
+R0761,Product,NA,5y+,5,2,3,4,5,5,4,3,Strong onboarding buddy program.,On-call load is heavy this quarter.
+R0762,People,APAC,1-3y,3,3,4,4,3,5,3,3,Leadership is transparent in town halls.,"Too many meetings, not enough focus time."
+R0763,Product,LATAM,5y+,2,2,3,4,3,4,2,3,Leadership is transparent in town halls.,Tooling is fragmented.
+R0764,Finance,NA,1-3y,3,5,3,4,4,3,3,2,Leadership is transparent in town halls.,Cross-team handoffs are slow.
+R0765,Operations,EMEA,<1y,4,4,4,3,4,3,4,2,Interesting technical challenges.,Tooling is fragmented.
+R0766,Product,LATAM,1-3y,3,5,4,4,5,5,3,4,Flexible hours help a lot.,On-call load is heavy this quarter.
+R0767,Finance,NA,1-3y,4,3,5,3,3,5,3,5,Great teammates and a real mission.,Not enough headcount for the roadmap.
+R0768,Customer Success,EMEA,5y+,4,4,5,4,3,4,4,3,Managers actually listen.,Promotion process feels opaque.
+R0769,Engineering,LATAM,1-3y,4,2,2,3,4,4,3,4,Strong onboarding buddy program.,Tooling is fragmented.
+R0770,Marketing,APAC,<1y,4,3,5,4,4,3,3,4,"Good customers, meaningful work.",Tooling is fragmented.
+R0771,Customer Success,APAC,<1y,5,3,4,4,4,5,4,5,Flexible hours help a lot.,"Too many meetings, not enough focus time."
+R0772,Engineering,LATAM,5y+,3,5,4,2,4,3,3,4,Leadership is transparent in town halls.,Not enough headcount for the roadmap.
+R0773,Customer Success,NA,1-3y,3,3,2,5,4,4,3,4,Strong onboarding buddy program.,Compensation lags the market.
+R0774,Finance,APAC,5y+,4,3,4,3,4,4,4,5,I learn something new every week.,"Too many meetings, not enough focus time."
+R0775,Finance,LATAM,<1y,4,4,4,4,3,4,3,4,Strong onboarding buddy program.,On-call load is heavy this quarter.
+R0776,Operations,LATAM,5y+,4,4,5,2,2,3,4,3,I learn something new every week.,Career paths are unclear.
+R0777,Finance,NA,3-5y,4,4,4,4,3,2,4,5,Leadership is transparent in town halls.,Not enough headcount for the roadmap.
+R0778,Engineering,LATAM,1-3y,3,2,4,4,5,3,3,3,Flexible hours help a lot.,Not enough headcount for the roadmap.
+R0779,Operations,EMEA,<1y,4,3,4,4,3,3,3,5,Interesting technical challenges.,"Too many meetings, not enough focus time."
+R0780,People,LATAM,<1y,4,3,5,5,2,5,3,5,Interesting technical challenges.,"Too many meetings, not enough focus time."
+R0781,Operations,EMEA,<1y,3,2,3,4,3,1,5,2,Leadership is transparent in town halls.,On-call load is heavy this quarter.
+R0782,Product,LATAM,<1y,3,5,4,4,2,3,3,4,Great teammates and a real mission.,Career paths are unclear.
+R0783,Sales,APAC,<1y,2,3,3,2,3,3,5,3,I learn something new every week.,On-call load is heavy this quarter.
+R0784,Engineering,EMEA,1-3y,3,4,4,3,1,5,5,3,Managers actually listen.,Promotion process feels opaque.
+R0785,Finance,APAC,1-3y,2,3,3,5,3,3,4,4,Great teammates and a real mission.,"Too many meetings, not enough focus time."
+R0786,People,APAC,5y+,5,2,2,5,4,5,5,4,I learn something new every week.,Career paths are unclear.
+R0787,Engineering,NA,5y+,4,5,3,2,3,3,2,4,Flexible hours help a lot.,Promotion process feels opaque.
+R0788,Operations,APAC,<1y,2,4,3,3,2,4,4,2,Interesting technical challenges.,Tooling is fragmented.
+R0789,Product,LATAM,3-5y,2,4,4,2,3,4,3,2,Managers actually listen.,Career paths are unclear.
+R0790,Marketing,NA,1-3y,4,5,3,4,3,2,2,4,Managers actually listen.,"Too many meetings, not enough focus time."
+R0791,Finance,APAC,<1y,5,4,3,3,3,5,4,2,Great teammates and a real mission.,Compensation lags the market.
+R0792,People,APAC,1-3y,2,5,4,4,5,3,5,4,Flexible hours help a lot.,Compensation lags the market.
+R0793,Product,LATAM,3-5y,4,2,3,2,4,3,3,3,I learn something new every week.,Tooling is fragmented.
+R0794,Engineering,APAC,<1y,3,4,4,5,3,4,5,4,I learn something new every week.,Promotion process feels opaque.
+R0795,Engineering,NA,1-3y,2,4,4,4,4,2,5,4,I learn something new every week.,Tooling is fragmented.
+R0796,Operations,NA,3-5y,2,3,3,3,4,4,2,3,"Good customers, meaningful work.","Too many meetings, not enough focus time."
+R0797,Operations,EMEA,<1y,2,4,1,3,3,2,3,4,Interesting technical challenges.,On-call load is heavy this quarter.
+R0798,Operations,APAC,5y+,4,1,4,2,3,4,3,4,"Good customers, meaningful work.",On-call load is heavy this quarter.
+R0799,People,EMEA,1-3y,4,4,4,5,3,5,5,3,Strong onboarding buddy program.,Promotion process feels opaque.
+R0800,Marketing,APAC,3-5y,1,3,3,4,5,3,2,4,I learn something new every week.,Cross-team handoffs are slow.
+R0801,Product,NA,<1y,3,3,4,4,3,2,3,3,Flexible hours help a lot.,Compensation lags the market.
+R0802,People,NA,<1y,3,3,4,4,3,1,4,1,Managers actually listen.,On-call load is heavy this quarter.
+R0803,Finance,NA,1-3y,3,4,2,5,4,4,2,3,Interesting technical challenges.,Not enough headcount for the roadmap.
+R0804,Marketing,EMEA,<1y,5,3,5,4,4,4,5,4,Great teammates and a real mission.,Career paths are unclear.
+R0805,Sales,NA,3-5y,2,2,4,3,3,5,4,2,Flexible hours help a lot.,Career paths are unclear.
+R0806,Operations,APAC,<1y,3,5,3,4,3,2,2,4,Great teammates and a real mission.,Cross-team handoffs are slow.
+R0807,Customer Success,APAC,<1y,5,2,5,5,3,3,4,4,Leadership is transparent in town halls.,"Too many meetings, not enough focus time."
+R0808,Operations,LATAM,1-3y,4,4,5,3,4,4,3,2,I learn something new every week.,Cross-team handoffs are slow.
+R0809,Customer Success,EMEA,3-5y,4,5,4,3,5,4,4,3,"Good customers, meaningful work.",On-call load is heavy this quarter.
+R0810,Operations,NA,3-5y,4,2,2,2,4,5,5,5,I learn something new every week.,Compensation lags the market.
+R0811,Operations,APAC,3-5y,4,2,4,4,3,3,4,3,Interesting technical challenges.,Tooling is fragmented.
+R0812,Engineering,LATAM,1-3y,4,5,4,4,3,4,2,4,Managers actually listen.,Tooling is fragmented.
+R0813,Engineering,EMEA,5y+,3,4,3,5,5,3,5,2,Flexible hours help a lot.,Cross-team handoffs are slow.
+R0814,Operations,APAC,5y+,4,3,3,2,2,3,4,4,Managers actually listen.,Career paths are unclear.
+R0815,Marketing,NA,1-3y,4,4,4,3,3,4,3,4,Managers actually listen.,"Too many meetings, not enough focus time."
+R0816,Sales,LATAM,<1y,5,3,2,3,4,4,1,3,Managers actually listen.,"Too many meetings, not enough focus time."
+R0817,Operations,LATAM,3-5y,3,3,3,4,4,4,5,3,Leadership is transparent in town halls.,On-call load is heavy this quarter.
+R0818,Sales,LATAM,1-3y,4,2,3,2,4,5,4,4,Great teammates and a real mission.,Not enough headcount for the roadmap.
+R0819,Product,APAC,<1y,3,3,5,4,4,4,4,3,Strong onboarding buddy program.,Career paths are unclear.
+R0820,Customer Success,LATAM,1-3y,4,4,4,3,2,2,3,3,Managers actually listen.,Compensation lags the market.
+R0821,People,EMEA,1-3y,3,3,4,4,5,5,5,4,I learn something new every week.,Not enough headcount for the roadmap.
+R0822,Operations,LATAM,<1y,2,5,4,4,2,4,3,4,Managers actually listen.,Career paths are unclear.
+R0823,Product,NA,1-3y,3,4,5,4,3,4,3,4,Managers actually listen.,Tooling is fragmented.
+R0824,Sales,APAC,3-5y,3,2,4,5,2,3,2,2,Flexible hours help a lot.,"Too many meetings, not enough focus time."
+R0825,Finance,EMEA,<1y,3,5,4,5,4,4,5,3,Leadership is transparent in town halls.,Cross-team handoffs are slow.
+R0826,Customer Success,EMEA,3-5y,5,4,4,3,4,4,4,4,Leadership is transparent in town halls.,Tooling is fragmented.
+R0827,Engineering,APAC,<1y,3,4,5,4,3,4,2,2,Flexible hours help a lot.,On-call load is heavy this quarter.
+R0828,Engineering,LATAM,3-5y,4,5,3,5,3,5,4,4,Flexible hours help a lot.,Career paths are unclear.
+R0829,Product,EMEA,5y+,5,3,3,4,3,2,5,2,Strong onboarding buddy program.,Promotion process feels opaque.
+R0830,Finance,APAC,5y+,3,5,3,4,4,4,4,3,Flexible hours help a lot.,Compensation lags the market.
+R0831,Finance,EMEA,3-5y,4,2,5,3,3,5,5,4,Great teammates and a real mission.,Promotion process feels opaque.
+R0832,Product,EMEA,3-5y,3,4,3,5,3,3,2,3,Flexible hours help a lot.,"Too many meetings, not enough focus time."
+R0833,Engineering,NA,3-5y,3,3,5,4,5,3,3,5,I learn something new every week.,Compensation lags the market.
+R0834,People,APAC,1-3y,4,5,4,4,5,4,4,4,Strong onboarding buddy program.,Promotion process feels opaque.
+R0835,Product,APAC,1-3y,3,3,3,3,4,3,4,3,Managers actually listen.,Promotion process feels opaque.
+R0836,Operations,EMEA,1-3y,4,3,2,3,4,3,4,1,I learn something new every week.,Promotion process feels opaque.
+R0837,People,EMEA,3-5y,3,5,5,4,5,4,4,4,Great teammates and a real mission.,On-call load is heavy this quarter.
+R0838,Sales,APAC,5y+,5,2,4,1,4,2,3,4,Strong onboarding buddy program.,Tooling is fragmented.
+R0839,Engineering,APAC,<1y,5,3,4,3,4,2,5,4,Flexible hours help a lot.,Career paths are unclear.
+R0840,Sales,NA,3-5y,3,3,2,4,3,4,5,5,I learn something new every week.,On-call load is heavy this quarter.
+R0841,Engineering,APAC,3-5y,4,4,3,4,4,3,3,2,Flexible hours help a lot.,Promotion process feels opaque.
+R0842,Marketing,EMEA,<1y,4,3,4,3,4,3,5,4,Managers actually listen.,Tooling is fragmented.
+R0843,People,EMEA,5y+,4,5,5,4,4,4,4,2,Interesting technical challenges.,Not enough headcount for the roadmap.
+R0844,Sales,EMEA,<1y,3,4,2,4,4,4,3,3,I learn something new every week.,Promotion process feels opaque.
+R0845,Sales,LATAM,3-5y,2,2,3,3,1,4,2,4,Strong onboarding buddy program.,Not enough headcount for the roadmap.
+R0846,Finance,APAC,1-3y,4,5,5,4,5,5,3,4,Great teammates and a real mission.,Cross-team handoffs are slow.
+R0847,Operations,NA,<1y,4,2,2,3,4,1,3,4,Flexible hours help a lot.,Cross-team handoffs are slow.
+R0848,Finance,NA,3-5y,5,5,5,4,3,5,3,5,Strong onboarding buddy program.,On-call load is heavy this quarter.
+R0849,Product,EMEA,3-5y,4,4,3,4,2,4,5,2,Flexible hours help a lot.,Promotion process feels opaque.
+R0850,Operations,LATAM,1-3y,3,4,4,4,5,2,3,3,Managers actually listen.,Cross-team handoffs are slow.
+R0851,Sales,APAC,3-5y,2,4,2,1,3,3,3,3,Leadership is transparent in town halls.,Promotion process feels opaque.
+R0852,Sales,LATAM,3-5y,1,4,4,2,2,4,2,4,"Good customers, meaningful work.",Promotion process feels opaque.
+R0853,Marketing,NA,<1y,4,3,3,5,4,4,5,4,Leadership is transparent in town halls.,Compensation lags the market.
+R0854,Product,APAC,3-5y,4,3,2,3,4,4,3,3,Interesting technical challenges.,Not enough headcount for the roadmap.
+R0855,Engineering,EMEA,<1y,4,4,2,4,4,3,4,3,Managers actually listen.,Compensation lags the market.
+R0856,Marketing,LATAM,3-5y,5,5,4,3,1,3,3,3,Interesting technical challenges.,Promotion process feels opaque.
+R0857,Finance,EMEA,3-5y,4,5,4,5,4,4,3,5,Great teammates and a real mission.,Tooling is fragmented.
+R0858,Operations,LATAM,<1y,4,4,4,3,2,4,4,2,Managers actually listen.,Cross-team handoffs are slow.
+R0859,Finance,APAC,1-3y,5,5,5,4,3,2,4,5,Flexible hours help a lot.,Compensation lags the market.
+R0860,Engineering,LATAM,5y+,4,1,3,5,3,5,3,5,I learn something new every week.,Tooling is fragmented.
+R0861,Sales,APAC,3-5y,4,2,4,2,2,3,4,3,Leadership is transparent in town halls.,"Too many meetings, not enough focus time."
+R0862,Sales,LATAM,5y+,3,4,4,4,4,3,4,3,Interesting technical challenges.,Tooling is fragmented.
+R0863,Engineering,LATAM,5y+,4,5,4,3,5,4,4,3,Great teammates and a real mission.,"Too many meetings, not enough focus time."
+R0864,Engineering,APAC,5y+,4,4,3,5,3,5,5,5,Leadership is transparent in town halls.,"Too many meetings, not enough focus time."
+R0865,Customer Success,APAC,5y+,2,5,2,5,4,4,3,3,Leadership is transparent in town halls.,"Too many meetings, not enough focus time."
+R0866,Operations,APAC,3-5y,2,4,2,3,3,3,2,3,Strong onboarding buddy program.,Compensation lags the market.
+R0867,Operations,EMEA,<1y,4,5,4,4,4,4,4,4,Flexible hours help a lot.,On-call load is heavy this quarter.
+R0868,Sales,LATAM,5y+,3,5,2,3,4,2,2,4,Great teammates and a real mission.,Career paths are unclear.
+R0869,Marketing,APAC,<1y,5,2,2,5,4,4,4,3,Flexible hours help a lot.,Promotion process feels opaque.
+R0870,Engineering,NA,3-5y,3,4,5,3,3,3,4,2,I learn something new every week.,"Too many meetings, not enough focus time."
+R0871,Product,APAC,1-3y,4,5,3,3,4,2,4,4,I learn something new every week.,"Too many meetings, not enough focus time."
+R0872,Product,EMEA,3-5y,3,3,2,5,4,5,3,2,Leadership is transparent in town halls.,On-call load is heavy this quarter.
+R0873,Sales,APAC,3-5y,4,4,3,4,3,3,2,3,Managers actually listen.,Compensation lags the market.
+R0874,People,NA,<1y,5,5,5,3,3,4,5,3,Great teammates and a real mission.,Career paths are unclear.
+R0875,People,APAC,3-5y,3,3,4,5,5,4,3,4,Managers actually listen.,Not enough headcount for the roadmap.
+R0876,People,NA,1-3y,5,5,5,4,4,5,2,4,Strong onboarding buddy program.,Cross-team handoffs are slow.
+R0877,Customer Success,EMEA,3-5y,4,5,5,4,4,4,4,3,"Good customers, meaningful work.","Too many meetings, not enough focus time."
+R0878,Operations,EMEA,5y+,5,4,5,2,2,3,4,3,Strong onboarding buddy program.,Not enough headcount for the roadmap.
+R0879,Marketing,APAC,1-3y,4,3,3,2,4,5,4,4,Strong onboarding buddy program.,Promotion process feels opaque.
+R0880,Sales,EMEA,1-3y,2,2,4,3,4,3,2,4,I learn something new every week.,Compensation lags the market.
+R0881,Product,NA,3-5y,2,4,4,4,3,4,4,4,Great teammates and a real mission.,"Too many meetings, not enough focus time."
+R0882,Product,EMEA,<1y,3,3,4,4,2,3,3,3,Managers actually listen.,Cross-team handoffs are slow.
+R0883,Product,LATAM,3-5y,5,4,3,3,4,3,3,3,I learn something new every week.,Promotion process feels opaque.
+R0884,People,LATAM,<1y,3,4,5,5,4,2,5,3,Strong onboarding buddy program.,On-call load is heavy this quarter.
+R0885,Marketing,NA,5y+,4,5,4,4,4,3,5,3,Managers actually listen.,Tooling is fragmented.
+R0886,Product,LATAM,5y+,3,2,4,3,5,5,4,4,Flexible hours help a lot.,On-call load is heavy this quarter.
+R0887,Customer Success,EMEA,1-3y,5,4,3,5,4,4,4,5,Interesting technical challenges.,Promotion process feels opaque.
+R0888,Customer Success,LATAM,5y+,5,4,5,4,3,5,5,2,Interesting technical challenges.,Not enough headcount for the roadmap.
+R0889,Engineering,APAC,<1y,4,5,5,5,2,4,4,3,I learn something new every week.,Promotion process feels opaque.
+R0890,Customer Success,EMEA,3-5y,3,4,4,4,4,5,5,3,"Good customers, meaningful work.",Tooling is fragmented.
+R0891,People,EMEA,5y+,4,4,4,5,4,4,4,4,"Good customers, meaningful work.",Compensation lags the market.
+R0892,Product,NA,3-5y,4,2,4,4,5,2,1,2,Strong onboarding buddy program.,Cross-team handoffs are slow.
+R0893,Operations,LATAM,5y+,3,5,3,4,5,4,4,3,Strong onboarding buddy program.,On-call load is heavy this quarter.
+R0894,Customer Success,APAC,<1y,5,4,3,5,5,5,4,5,I learn something new every week.,Career paths are unclear.
+R0895,Engineering,EMEA,5y+,4,3,3,4,3,4,4,4,Interesting technical challenges.,"Too many meetings, not enough focus time."
+R0896,Customer Success,APAC,5y+,3,3,5,4,3,5,4,5,I learn something new every week.,Career paths are unclear.
+R0897,Engineering,APAC,5y+,2,5,4,3,5,4,4,2,Great teammates and a real mission.,Career paths are unclear.
+R0898,People,NA,5y+,4,4,4,4,4,3,5,3,Great teammates and a real mission.,Career paths are unclear.
+R0899,People,EMEA,1-3y,4,2,4,5,4,4,3,5,Great teammates and a real mission.,Not enough headcount for the roadmap.
+R0900,Marketing,LATAM,<1y,4,5,3,5,4,4,4,4,Managers actually listen.,"Too many meetings, not enough focus time."
+R0901,Marketing,LATAM,3-5y,5,3,2,4,4,5,4,4,Strong onboarding buddy program.,Compensation lags the market.
+R0902,Marketing,APAC,5y+,4,4,2,4,4,4,4,3,Flexible hours help a lot.,Career paths are unclear.
+R0903,Engineering,NA,1-3y,4,3,4,4,4,2,3,4,Leadership is transparent in town halls.,Promotion process feels opaque.
+R0904,Sales,EMEA,1-3y,3,3,3,3,2,5,4,3,Strong onboarding buddy program.,Compensation lags the market.
+R0905,Finance,EMEA,5y+,5,4,3,4,3,3,5,2,Flexible hours help a lot.,Promotion process feels opaque.
+R0906,Operations,EMEA,1-3y,2,2,2,2,3,4,3,4,Great teammates and a real mission.,Not enough headcount for the roadmap.
+R0907,Engineering,LATAM,<1y,3,3,4,4,5,5,5,4,I learn something new every week.,Promotion process feels opaque.
+R0908,Finance,LATAM,3-5y,5,5,4,3,4,4,4,5,Interesting technical challenges.,Cross-team handoffs are slow.
+R0909,Marketing,APAC,3-5y,3,2,4,5,4,5,4,4,Great teammates and a real mission.,On-call load is heavy this quarter.
+R0910,Marketing,EMEA,<1y,5,2,5,5,4,2,4,2,Managers actually listen.,Compensation lags the market.
+R0911,Finance,APAC,3-5y,4,4,4,4,3,4,3,4,I learn something new every week.,Not enough headcount for the roadmap.
+R0912,Customer Success,EMEA,3-5y,3,2,5,5,3,3,5,3,Interesting technical challenges.,Compensation lags the market.
+R0913,Sales,APAC,3-5y,3,3,1,2,2,2,2,3,Flexible hours help a lot.,Not enough headcount for the roadmap.
+R0914,Marketing,LATAM,5y+,5,3,3,4,4,3,4,3,I learn something new every week.,On-call load is heavy this quarter.
+R0915,Marketing,NA,5y+,5,4,3,5,4,3,4,5,Flexible hours help a lot.,Not enough headcount for the roadmap.
+R0916,Marketing,APAC,3-5y,3,3,5,3,4,4,3,3,Great teammates and a real mission.,Compensation lags the market.
+R0917,Operations,LATAM,5y+,4,2,3,4,3,5,3,5,Interesting technical challenges.,Tooling is fragmented.
+R0918,Operations,APAC,1-3y,2,4,5,4,4,2,3,4,"Good customers, meaningful work.",Compensation lags the market.
+R0919,Engineering,EMEA,1-3y,3,2,4,5,3,5,4,5,Leadership is transparent in town halls.,Tooling is fragmented.
+R0920,Marketing,NA,1-3y,4,3,4,5,2,4,3,3,"Good customers, meaningful work.",Not enough headcount for the roadmap.
+R0921,Finance,LATAM,1-3y,4,4,4,3,3,3,3,2,Managers actually listen.,Tooling is fragmented.
+R0922,Sales,APAC,<1y,4,5,4,4,3,4,2,3,Interesting technical challenges.,Cross-team handoffs are slow.
+R0923,Engineering,APAC,5y+,3,3,4,4,4,5,5,3,Interesting technical challenges.,Not enough headcount for the roadmap.
+R0924,Operations,EMEA,3-5y,3,2,4,4,3,2,5,3,Great teammates and a real mission.,Tooling is fragmented.
+R0925,People,APAC,1-3y,5,4,3,4,4,4,4,3,Leadership is transparent in town halls.,Cross-team handoffs are slow.
+R0926,Customer Success,EMEA,5y+,3,5,4,4,4,3,2,3,"Good customers, meaningful work.",Career paths are unclear.
+R0927,Product,APAC,3-5y,4,5,3,4,4,5,4,2,Strong onboarding buddy program.,Cross-team handoffs are slow.
+R0928,Product,EMEA,1-3y,5,2,4,2,3,2,3,4,Strong onboarding buddy program.,Tooling is fragmented.
+R0929,Finance,LATAM,5y+,5,3,3,2,5,4,4,4,"Good customers, meaningful work.",Not enough headcount for the roadmap.
+R0930,Product,NA,3-5y,4,5,2,3,4,4,3,3,Flexible hours help a lot.,Not enough headcount for the roadmap.
+R0931,Finance,EMEA,5y+,5,4,5,3,3,5,3,3,Strong onboarding buddy program.,On-call load is heavy this quarter.
+R0932,Customer Success,EMEA,5y+,4,4,5,5,5,3,5,3,Flexible hours help a lot.,Career paths are unclear.
+R0933,Operations,NA,<1y,3,3,3,3,3,4,5,4,"Good customers, meaningful work.",Promotion process feels opaque.
+R0934,Operations,APAC,5y+,4,4,4,4,5,3,5,3,Strong onboarding buddy program.,Compensation lags the market.
+R0935,Engineering,EMEA,5y+,4,4,4,3,5,3,5,5,Flexible hours help a lot.,"Too many meetings, not enough focus time."
+R0936,Customer Success,LATAM,<1y,2,2,4,4,3,5,3,5,"Good customers, meaningful work.",Cross-team handoffs are slow.
+R0937,Operations,LATAM,5y+,3,3,4,3,4,4,1,4,I learn something new every week.,Not enough headcount for the roadmap.
+R0938,Customer Success,LATAM,1-3y,5,2,4,4,3,2,5,4,Managers actually listen.,On-call load is heavy this quarter.
+R0939,Operations,EMEA,3-5y,3,3,5,4,4,3,4,4,I learn something new every week.,Not enough headcount for the roadmap.
+R0940,Finance,APAC,1-3y,4,4,3,5,5,4,4,3,Strong onboarding buddy program.,Compensation lags the market.
+R0941,Marketing,EMEA,5y+,4,3,3,5,4,4,4,5,Strong onboarding buddy program.,Tooling is fragmented.
+R0942,Customer Success,EMEA,5y+,4,4,4,4,3,3,5,4,"Good customers, meaningful work.","Too many meetings, not enough focus time."
+R0943,Engineering,APAC,3-5y,5,4,4,3,3,4,2,3,Interesting technical challenges.,Cross-team handoffs are slow.
+R0944,People,EMEA,<1y,2,3,4,5,4,4,3,4,I learn something new every week.,Cross-team handoffs are slow.
+R0945,Engineering,NA,5y+,3,5,4,3,4,4,3,4,Strong onboarding buddy program.,"Too many meetings, not enough focus time."
+R0946,Sales,NA,5y+,2,4,3,3,4,2,3,3,Interesting technical challenges.,Promotion process feels opaque.
+R0947,Engineering,LATAM,5y+,3,3,5,4,4,2,4,3,Flexible hours help a lot.,Cross-team handoffs are slow.
+R0948,Engineering,EMEA,5y+,3,3,4,5,3,4,3,4,Great teammates and a real mission.,Tooling is fragmented.
+R0949,Engineering,LATAM,5y+,3,3,5,5,3,2,4,3,Strong onboarding buddy program.,On-call load is heavy this quarter.
+R0950,Customer Success,APAC,5y+,3,4,5,5,3,3,5,3,I learn something new every week.,Promotion process feels opaque.
+R0951,Customer Success,APAC,5y+,5,3,4,5,4,5,2,4,Great teammates and a real mission.,Cross-team handoffs are slow.
+R0952,Finance,APAC,3-5y,4,4,4,4,4,3,4,4,Flexible hours help a lot.,Promotion process feels opaque.
+R0953,Engineering,LATAM,3-5y,3,4,4,3,3,3,4,4,"Good customers, meaningful work.",Not enough headcount for the roadmap.
+R0954,Sales,NA,3-5y,3,3,3,3,3,4,3,4,Strong onboarding buddy program.,Cross-team handoffs are slow.
+R0955,Finance,EMEA,5y+,4,4,3,5,5,5,5,4,I learn something new every week.,Cross-team handoffs are slow.
+R0956,Product,EMEA,5y+,2,4,3,4,4,3,5,4,I learn something new every week.,Cross-team handoffs are slow.
+R0957,Customer Success,EMEA,<1y,5,4,3,4,5,4,4,5,I learn something new every week.,Cross-team handoffs are slow.
+R0958,Engineering,APAC,3-5y,5,3,5,4,5,3,4,2,Managers actually listen.,Cross-team handoffs are slow.
+R0959,Finance,APAC,5y+,4,4,3,2,4,3,5,3,Flexible hours help a lot.,Cross-team handoffs are slow.
+R0960,Marketing,EMEA,1-3y,4,4,4,4,4,4,4,4,Flexible hours help a lot.,On-call load is heavy this quarter.
+R0961,Sales,LATAM,<1y,2,3,3,3,2,1,4,3,Flexible hours help a lot.,Career paths are unclear.
+R0962,Sales,NA,5y+,4,5,4,4,4,3,4,3,Flexible hours help a lot.,Compensation lags the market.
+R0963,Finance,LATAM,<1y,5,3,3,4,4,4,5,4,Managers actually listen.,Not enough headcount for the roadmap.
+R0964,Finance,NA,3-5y,3,4,4,5,4,2,3,3,Flexible hours help a lot.,"Too many meetings, not enough focus time."
+R0965,Product,APAC,3-5y,3,4,4,4,4,3,3,4,Great teammates and a real mission.,Not enough headcount for the roadmap.
+R0966,Marketing,LATAM,1-3y,3,4,5,3,4,4,3,4,Flexible hours help a lot.,Promotion process feels opaque.
+R0967,Customer Success,EMEA,1-3y,2,4,4,5,4,3,4,3,"Good customers, meaningful work.",Compensation lags the market.
+R0968,Sales,APAC,1-3y,2,4,4,2,3,4,4,4,Interesting technical challenges.,On-call load is heavy this quarter.
+R0969,Sales,EMEA,3-5y,2,2,4,4,2,4,4,2,"Good customers, meaningful work.",Career paths are unclear.
+R0970,Customer Success,NA,<1y,4,4,4,4,4,5,2,4,Leadership is transparent in town halls.,Tooling is fragmented.
+R0971,Marketing,EMEA,<1y,4,3,3,4,3,3,4,3,Leadership is transparent in town halls.,Tooling is fragmented.
+R0972,Product,APAC,3-5y,4,3,4,3,3,2,3,4,Strong onboarding buddy program.,"Too many meetings, not enough focus time."
+R0973,Operations,NA,<1y,5,5,3,3,4,3,2,4,Flexible hours help a lot.,Tooling is fragmented.
+R0974,Engineering,NA,<1y,4,3,2,4,4,2,3,3,I learn something new every week.,Tooling is fragmented.
+R0975,Operations,LATAM,<1y,2,4,4,5,4,2,3,1,Flexible hours help a lot.,Career paths are unclear.
+R0976,Operations,EMEA,3-5y,3,3,4,4,5,3,3,3,Interesting technical challenges.,Promotion process feels opaque.
+R0977,Operations,APAC,3-5y,4,2,3,3,3,4,3,5,Great teammates and a real mission.,On-call load is heavy this quarter.
+R0978,Finance,LATAM,5y+,2,4,5,3,4,3,4,4,Strong onboarding buddy program.,"Too many meetings, not enough focus time."
+R0979,Finance,NA,3-5y,5,3,2,3,5,3,2,3,Great teammates and a real mission.,Not enough headcount for the roadmap.
+R0980,Product,NA,3-5y,3,4,4,2,3,5,5,4,"Good customers, meaningful work.",Promotion process feels opaque.
+R0981,Marketing,NA,1-3y,4,5,4,4,4,3,3,2,Great teammates and a real mission.,Promotion process feels opaque.
+R0982,Customer Success,EMEA,3-5y,5,4,4,4,4,4,5,4,Great teammates and a real mission.,Not enough headcount for the roadmap.
+R0983,People,EMEA,5y+,5,3,3,4,3,5,4,5,I learn something new every week.,Tooling is fragmented.
+R0984,Product,LATAM,1-3y,3,2,3,4,4,3,5,4,"Good customers, meaningful work.",On-call load is heavy this quarter.
+R0985,Product,NA,3-5y,1,4,3,4,3,4,3,2,Strong onboarding buddy program.,Not enough headcount for the roadmap.
+R0986,Marketing,NA,3-5y,4,3,4,5,3,3,3,3,Managers actually listen.,"Too many meetings, not enough focus time."
+R0987,Product,LATAM,<1y,1,4,4,3,4,4,3,4,Great teammates and a real mission.,Tooling is fragmented.
+R0988,People,APAC,1-3y,3,5,4,3,4,3,4,5,I learn something new every week.,"Too many meetings, not enough focus time."
+R0989,Finance,NA,1-3y,4,3,4,2,4,4,5,4,Managers actually listen.,Not enough headcount for the roadmap.
+R0990,Customer Success,EMEA,1-3y,5,5,5,4,3,3,3,5,Flexible hours help a lot.,"Too many meetings, not enough focus time."
+R0991,Sales,APAC,3-5y,5,2,4,3,4,4,3,4,"Good customers, meaningful work.",On-call load is heavy this quarter.
+R0992,Product,APAC,5y+,4,4,3,4,3,5,5,3,Leadership is transparent in town halls.,Not enough headcount for the roadmap.
+R0993,Marketing,APAC,3-5y,5,4,4,4,4,4,3,5,Strong onboarding buddy program.,Cross-team handoffs are slow.
+R0994,Customer Success,LATAM,5y+,5,5,4,3,4,3,4,5,Flexible hours help a lot.,Tooling is fragmented.
+R0995,People,LATAM,1-3y,5,3,3,5,3,4,5,4,I learn something new every week.,Compensation lags the market.
+R0996,Finance,LATAM,<1y,5,4,5,5,3,5,4,3,Flexible hours help a lot.,Career paths are unclear.
+R0997,Product,APAC,<1y,4,4,2,4,3,5,5,3,Interesting technical challenges.,Cross-team handoffs are slow.
+R0998,Marketing,APAC,<1y,3,4,5,3,3,4,3,4,Interesting technical challenges.,Tooling is fragmented.
+R0999,Finance,NA,<1y,2,4,5,4,5,3,3,3,Great teammates and a real mission.,On-call load is heavy this quarter.
+R1000,Product,EMEA,5y+,3,5,4,3,2,4,3,4,Interesting technical challenges.,On-call load is heavy this quarter.
+R1001,Customer Success,EMEA,5y+,4,4,4,4,4,4,4,4,Leadership is transparent in town halls.,Compensation lags the market.
+R1002,People,LATAM,3-5y,4,5,4,5,4,5,2,4,Managers actually listen.,Promotion process feels opaque.
+R1003,Sales,EMEA,5y+,2,3,5,3,3,3,1,2,Leadership is transparent in town halls.,Promotion process feels opaque.
+R1004,Customer Success,NA,1-3y,5,3,4,4,4,4,4,4,Flexible hours help a lot.,Not enough headcount for the roadmap.
+R1005,Customer Success,APAC,1-3y,3,5,4,4,3,4,4,5,Flexible hours help a lot.,Not enough headcount for the roadmap.
+R1006,Marketing,APAC,3-5y,4,3,3,4,2,3,4,3,"Good customers, meaningful work.",Cross-team handoffs are slow.
+R1007,Engineering,APAC,3-5y,4,3,3,4,4,5,4,4,Flexible hours help a lot.,On-call load is heavy this quarter.
+R1008,Sales,EMEA,3-5y,2,3,4,4,3,2,3,3,Strong onboarding buddy program.,Cross-team handoffs are slow.
+R1009,Customer Success,LATAM,<1y,3,5,4,4,5,2,3,4,Great teammates and a real mission.,"Too many meetings, not enough focus time."
+R1010,Operations,LATAM,1-3y,3,3,4,2,3,5,2,5,I learn something new every week.,"Too many meetings, not enough focus time."
+R1011,Customer Success,NA,5y+,3,4,5,5,4,2,4,3,Flexible hours help a lot.,Career paths are unclear.
+R1012,People,NA,5y+,3,5,2,4,3,4,5,4,Great teammates and a real mission.,Cross-team handoffs are slow.
+R1013,Marketing,LATAM,3-5y,3,4,4,3,4,5,3,4,Flexible hours help a lot.,Promotion process feels opaque.
+R1014,People,NA,1-3y,5,4,4,3,4,5,5,5,Leadership is transparent in town halls.,Tooling is fragmented.
+R1015,Engineering,APAC,3-5y,3,4,4,5,4,5,3,5,Managers actually listen.,Compensation lags the market.
+R1016,Customer Success,NA,3-5y,3,3,4,4,5,4,4,4,Great teammates and a real mission.,On-call load is heavy this quarter.
+R1017,Product,APAC,1-3y,4,3,3,5,5,4,3,3,Great teammates and a real mission.,Compensation lags the market.
+R1018,Engineering,EMEA,5y+,2,5,5,3,3,3,3,3,Leadership is transparent in town halls.,Compensation lags the market.
+R1019,Customer Success,NA,<1y,4,4,3,3,5,3,4,4,Great teammates and a real mission.,Compensation lags the market.
+R1020,Sales,LATAM,3-5y,5,5,5,4,4,4,3,4,Leadership is transparent in town halls.,Not enough headcount for the roadmap.
+R1021,Finance,APAC,5y+,3,3,2,3,2,5,2,3,"Good customers, meaningful work.",Compensation lags the market.
+R1022,Sales,LATAM,1-3y,1,4,4,2,2,1,4,4,Leadership is transparent in town halls.,"Too many meetings, not enough focus time."
+R1023,Operations,NA,<1y,4,3,4,4,3,4,2,2,Interesting technical challenges.,"Too many meetings, not enough focus time."
+R1024,Customer Success,LATAM,1-3y,2,4,5,3,3,4,3,5,Interesting technical challenges.,On-call load is heavy this quarter.
+R1025,Engineering,LATAM,1-3y,3,2,2,2,3,4,3,3,Flexible hours help a lot.,Career paths are unclear.
+R1026,Marketing,APAC,3-5y,2,4,4,4,5,3,5,1,Interesting technical challenges.,Compensation lags the market.
+R1027,Engineering,EMEA,<1y,3,4,3,4,3,4,2,4,Interesting technical challenges.,On-call load is heavy this quarter.
+R1028,People,LATAM,<1y,4,4,2,5,4,4,4,4,Leadership is transparent in town halls.,Cross-team handoffs are slow.
+R1029,Marketing,LATAM,<1y,3,4,4,5,4,4,3,5,Managers actually listen.,Tooling is fragmented.
+R1030,Operations,NA,3-5y,4,2,4,3,3,2,4,2,Interesting technical challenges.,Career paths are unclear.
+R1031,Product,NA,3-5y,5,3,3,3,3,4,3,2,Great teammates and a real mission.,"Too many meetings, not enough focus time."
+R1032,People,NA,3-5y,5,5,3,3,4,3,4,4,Managers actually listen.,Not enough headcount for the roadmap.
+R1033,Operations,EMEA,1-3y,4,4,3,4,5,4,3,3,Managers actually listen.,On-call load is heavy this quarter.
+R1034,Sales,EMEA,5y+,3,4,2,1,4,3,4,2,Flexible hours help a lot.,On-call load is heavy this quarter.
+R1035,Engineering,APAC,3-5y,3,5,3,3,5,4,4,4,Strong onboarding buddy program.,Not enough headcount for the roadmap.
+R1036,Engineering,LATAM,1-3y,4,3,4,3,3,4,4,3,"Good customers, meaningful work.",Tooling is fragmented.
+R1037,Operations,EMEA,3-5y,4,4,4,4,4,2,3,4,I learn something new every week.,Not enough headcount for the roadmap.
+R1038,Engineering,APAC,<1y,3,4,4,5,4,3,5,4,Managers actually listen.,Career paths are unclear.
+R1039,Customer Success,LATAM,<1y,4,4,3,5,4,4,4,4,Great teammates and a real mission.,Promotion process feels opaque.
+R1040,People,LATAM,1-3y,4,3,4,4,4,5,5,3,Strong onboarding buddy program.,Not enough headcount for the roadmap.
+R1041,Product,LATAM,<1y,2,4,4,3,3,3,5,5,Strong onboarding buddy program.,On-call load is heavy this quarter.
+R1042,Product,NA,5y+,4,4,4,5,5,3,2,4,Managers actually listen.,Cross-team handoffs are slow.
+R1043,Engineering,LATAM,3-5y,3,3,3,4,4,3,3,4,Strong onboarding buddy program.,Tooling is fragmented.
+R1044,Engineering,APAC,1-3y,4,2,4,5,3,5,3,4,Leadership is transparent in town halls.,Tooling is fragmented.
+R1045,Finance,LATAM,1-3y,3,5,5,5,5,3,3,5,"Good customers, meaningful work.",Not enough headcount for the roadmap.
+R1046,Operations,APAC,<1y,2,4,4,4,3,2,3,3,Interesting technical challenges.,Promotion process feels opaque.
+R1047,Operations,NA,1-3y,4,2,2,4,2,4,3,4,Great teammates and a real mission.,Tooling is fragmented.
+R1048,Finance,NA,5y+,3,3,2,2,4,4,5,5,Managers actually listen.,On-call load is heavy this quarter.
+R1049,Operations,APAC,1-3y,4,3,5,2,4,5,1,3,Strong onboarding buddy program.,Tooling is fragmented.
+R1050,People,NA,3-5y,5,3,3,5,3,3,3,4,Great teammates and a real mission.,Career paths are unclear.
+R1051,Finance,EMEA,<1y,2,4,5,2,5,3,5,4,Strong onboarding buddy program.,"Too many meetings, not enough focus time."
+R1052,Engineering,NA,1-3y,1,3,3,3,3,4,5,5,"Good customers, meaningful work.",Career paths are unclear.
+R1053,People,EMEA,5y+,3,5,4,4,5,3,5,4,Great teammates and a real mission.,Career paths are unclear.
+R1054,Operations,EMEA,3-5y,4,4,3,3,4,2,4,4,"Good customers, meaningful work.",Cross-team handoffs are slow.
+R1055,Engineering,LATAM,1-3y,3,3,4,2,4,5,5,3,Great teammates and a real mission.,Compensation lags the market.
+R1056,Sales,APAC,1-3y,1,2,4,2,5,5,4,3,Strong onboarding buddy program.,"Too many meetings, not enough focus time."
+R1057,Sales,LATAM,1-3y,2,5,2,3,5,5,3,2,"Good customers, meaningful work.",Not enough headcount for the roadmap.
+R1058,Sales,NA,3-5y,3,3,2,4,2,2,3,1,Interesting technical challenges.,Not enough headcount for the roadmap.
+R1059,Operations,LATAM,1-3y,3,3,3,3,3,4,3,3,Interesting technical challenges.,"Too many meetings, not enough focus time."
+R1060,Engineering,EMEA,5y+,4,4,5,3,5,4,4,3,Leadership is transparent in town halls.,Compensation lags the market.
+R1061,Operations,EMEA,3-5y,2,3,3,5,5,4,3,4,Flexible hours help a lot.,Promotion process feels opaque.
+R1062,Operations,LATAM,<1y,3,4,2,4,5,4,2,4,I learn something new every week.,Cross-team handoffs are slow.
+R1063,Customer Success,LATAM,<1y,5,3,4,4,3,4,5,3,Leadership is transparent in town halls.,Not enough headcount for the roadmap.
+R1064,Sales,LATAM,5y+,3,4,2,4,3,4,4,4,I learn something new every week.,Compensation lags the market.
+R1065,People,EMEA,<1y,4,4,4,3,4,5,4,5,Interesting technical challenges.,Not enough headcount for the roadmap.
+R1066,Sales,LATAM,<1y,3,2,4,4,4,4,3,4,Leadership is transparent in town halls.,On-call load is heavy this quarter.
+R1067,Customer Success,LATAM,3-5y,4,3,4,4,5,5,3,3,I learn something new every week.,Career paths are unclear.
+R1068,Sales,EMEA,5y+,3,4,4,5,3,3,2,2,Strong onboarding buddy program.,Career paths are unclear.
+R1069,Sales,APAC,1-3y,2,3,2,3,5,2,3,3,Interesting technical challenges.,"Too many meetings, not enough focus time."
+R1070,Engineering,APAC,3-5y,3,4,4,3,5,3,3,4,Leadership is transparent in town halls.,Promotion process feels opaque.
+R1071,Customer Success,EMEA,3-5y,4,4,4,4,3,2,4,4,"Good customers, meaningful work.",Tooling is fragmented.
+R1072,Sales,NA,<1y,4,2,3,5,4,2,2,2,"Good customers, meaningful work.",Cross-team handoffs are slow.
+R1073,Customer Success,NA,1-3y,2,4,4,5,4,5,4,3,Leadership is transparent in town halls.,Compensation lags the market.
+R1074,Sales,NA,5y+,5,4,5,3,2,3,4,3,Managers actually listen.,Cross-team handoffs are slow.
+R1075,Sales,LATAM,3-5y,3,2,4,3,4,2,3,3,Strong onboarding buddy program.,On-call load is heavy this quarter.
+R1076,Marketing,EMEA,<1y,3,4,4,3,3,4,3,3,Managers actually listen.,"Too many meetings, not enough focus time."
+R1077,Sales,LATAM,1-3y,2,3,4,3,3,4,4,2,Leadership is transparent in town halls.,Compensation lags the market.
+R1078,Operations,EMEA,<1y,3,3,4,5,3,3,3,3,Leadership is transparent in town halls.,Cross-team handoffs are slow.
+R1079,Product,NA,3-5y,4,3,3,2,3,4,4,4,Interesting technical challenges.,"Too many meetings, not enough focus time."
+R1080,Finance,NA,5y+,4,5,2,3,3,3,3,3,Flexible hours help a lot.,"Too many meetings, not enough focus time."
+R1081,Product,LATAM,5y+,3,3,3,3,4,3,4,5,"Good customers, meaningful work.",Promotion process feels opaque.
+R1082,Sales,NA,5y+,2,4,2,4,2,3,3,3,Interesting technical challenges.,Not enough headcount for the roadmap.
+R1083,People,APAC,3-5y,4,4,4,3,3,5,5,4,Managers actually listen.,Cross-team handoffs are slow.
+R1084,People,APAC,3-5y,5,5,5,3,5,4,3,3,"Good customers, meaningful work.",Tooling is fragmented.
+R1085,Engineering,APAC,1-3y,4,3,3,2,3,4,3,3,Interesting technical challenges.,"Too many meetings, not enough focus time."
+R1086,Customer Success,APAC,1-3y,3,3,4,3,4,5,5,3,Flexible hours help a lot.,Tooling is fragmented.
+R1087,Engineering,APAC,5y+,3,2,2,3,3,2,4,4,Great teammates and a real mission.,Compensation lags the market.
+R1088,Customer Success,EMEA,3-5y,3,4,4,4,4,3,4,4,Flexible hours help a lot.,On-call load is heavy this quarter.
+R1089,Product,EMEA,3-5y,3,4,3,3,4,4,2,2,Leadership is transparent in town halls.,Not enough headcount for the roadmap.
+R1090,People,EMEA,3-5y,5,5,3,4,4,5,2,3,Managers actually listen.,Promotion process feels opaque.
+R1091,Engineering,NA,3-5y,5,3,4,2,4,3,2,4,Great teammates and a real mission.,"Too many meetings, not enough focus time."
+R1092,People,LATAM,5y+,5,4,5,3,3,5,4,4,Flexible hours help a lot.,Career paths are unclear.
+R1093,People,APAC,3-5y,3,4,5,3,3,4,4,5,"Good customers, meaningful work.","Too many meetings, not enough focus time."
+R1094,Sales,LATAM,3-5y,5,3,3,2,2,3,5,3,Managers actually listen.,Not enough headcount for the roadmap.
+R1095,Marketing,EMEA,1-3y,3,5,3,4,3,3,3,4,Interesting technical challenges.,Promotion process feels opaque.
+R1096,Sales,LATAM,5y+,5,3,2,3,4,3,3,4,Great teammates and a real mission.,Cross-team handoffs are slow.
+R1097,Finance,APAC,<1y,2,3,5,4,3,5,5,4,"Good customers, meaningful work.",On-call load is heavy this quarter.
+R1098,Operations,EMEA,<1y,3,3,2,3,2,3,3,2,Flexible hours help a lot.,Compensation lags the market.
+R1099,People,LATAM,3-5y,4,4,3,5,4,4,3,4,Interesting technical challenges.,Career paths are unclear.
+R1100,Operations,APAC,<1y,3,5,5,2,4,4,4,4,Great teammates and a real mission.,Cross-team handoffs are slow.
+R1101,Customer Success,APAC,3-5y,4,4,4,3,5,5,3,5,Flexible hours help a lot.,Promotion process feels opaque.
+R1102,Customer Success,APAC,<1y,5,5,3,4,1,5,4,3,Strong onboarding buddy program.,Career paths are unclear.
+R1103,Sales,LATAM,3-5y,3,3,4,3,3,2,4,3,Leadership is transparent in town halls.,"Too many meetings, not enough focus time."
+R1104,Sales,NA,3-5y,2,3,3,3,3,3,2,3,I learn something new every week.,Promotion process feels opaque.
+R1105,Product,LATAM,5y+,4,4,4,4,3,4,4,4,Managers actually listen.,"Too many meetings, not enough focus time."
+R1106,Operations,LATAM,3-5y,2,4,3,3,4,2,4,4,Great teammates and a real mission.,Career paths are unclear.
+R1107,Operations,APAC,3-5y,3,3,2,3,2,4,4,4,Managers actually listen.,Career paths are unclear.
+R1108,People,APAC,3-5y,3,4,3,4,5,5,4,4,I learn something new every week.,"Too many meetings, not enough focus time."
+R1109,Finance,LATAM,3-5y,1,4,2,4,4,4,4,3,Interesting technical challenges.,"Too many meetings, not enough focus time."
+R1110,Operations,EMEA,1-3y,3,2,2,5,2,3,3,5,Strong onboarding buddy program.,Promotion process feels opaque.
+R1111,Operations,APAC,1-3y,4,3,4,3,3,2,3,5,Interesting technical challenges.,Tooling is fragmented.
+R1112,People,NA,3-5y,5,3,3,3,1,5,3,5,Great teammates and a real mission.,Not enough headcount for the roadmap.
+R1113,Operations,LATAM,1-3y,5,3,3,3,4,4,4,3,Flexible hours help a lot.,Cross-team handoffs are slow.
+R1114,Finance,LATAM,3-5y,5,4,4,5,4,3,3,5,Strong onboarding buddy program.,Tooling is fragmented.
+R1115,Engineering,APAC,1-3y,5,3,4,4,5,4,4,3,Managers actually listen.,Not enough headcount for the roadmap.
+R1116,Engineering,LATAM,<1y,3,4,5,1,4,3,5,4,Strong onboarding buddy program.,On-call load is heavy this quarter.
+R1117,Product,EMEA,1-3y,3,5,2,3,5,3,3,3,Great teammates and a real mission.,Tooling is fragmented.
+R1118,Finance,APAC,<1y,4,4,5,4,4,3,5,3,Great teammates and a real mission.,"Too many meetings, not enough focus time."
+R1119,Marketing,LATAM,5y+,5,5,4,3,3,3,5,4,Great teammates and a real mission.,Cross-team handoffs are slow.
+R1120,Customer Success,APAC,5y+,2,4,5,5,3,4,4,4,Leadership is transparent in town halls.,Promotion process feels opaque.
+R1121,Engineering,LATAM,<1y,3,4,3,3,3,4,3,3,Great teammates and a real mission.,On-call load is heavy this quarter.
+R1122,Product,EMEA,3-5y,4,4,3,4,4,4,3,3,Leadership is transparent in town halls.,Tooling is fragmented.
+R1123,Marketing,LATAM,1-3y,3,3,3,2,4,4,3,4,Managers actually listen.,Promotion process feels opaque.
+R1124,Operations,LATAM,<1y,4,4,4,5,4,3,3,4,Flexible hours help a lot.,Cross-team handoffs are slow.
+R1125,Operations,APAC,<1y,5,3,3,4,2,3,3,5,Interesting technical challenges.,"Too many meetings, not enough focus time."
+R1126,Finance,LATAM,<1y,4,5,4,3,4,4,3,2,I learn something new every week.,"Too many meetings, not enough focus time."
+R1127,Engineering,EMEA,1-3y,3,5,4,2,4,4,2,3,I learn something new every week.,Career paths are unclear.
+R1128,People,APAC,3-5y,5,5,2,4,4,3,5,5,Leadership is transparent in town halls.,Tooling is fragmented.
+R1129,Product,APAC,<1y,3,2,3,5,3,3,4,4,Interesting technical challenges.,On-call load is heavy this quarter.
+R1130,Product,NA,<1y,4,2,3,5,4,3,4,3,Great teammates and a real mission.,Promotion process feels opaque.
+R1131,Operations,LATAM,5y+,3,3,3,3,3,4,3,5,Strong onboarding buddy program.,Not enough headcount for the roadmap.
+R1132,Product,LATAM,<1y,4,4,2,5,5,4,4,4,I learn something new every week.,Not enough headcount for the roadmap.
+R1133,Engineering,LATAM,3-5y,5,4,4,3,4,5,5,4,Interesting technical challenges.,On-call load is heavy this quarter.
+R1134,Operations,EMEA,5y+,3,3,3,2,4,5,2,1,"Good customers, meaningful work.",Not enough headcount for the roadmap.
+R1135,People,NA,1-3y,3,4,4,5,4,3,5,5,I learn something new every week.,Promotion process feels opaque.
+R1136,Engineering,NA,5y+,5,4,5,3,2,3,3,4,Flexible hours help a lot.,Career paths are unclear.
+R1137,People,LATAM,5y+,4,4,4,2,5,5,4,4,Flexible hours help a lot.,Career paths are unclear.
+R1138,Finance,EMEA,1-3y,2,3,3,4,5,4,4,2,I learn something new every week.,Cross-team handoffs are slow.
+R1139,Finance,EMEA,5y+,3,4,3,4,3,4,5,5,Interesting technical challenges.,Promotion process feels opaque.
+R1140,Finance,EMEA,5y+,5,4,4,4,3,4,4,4,Great teammates and a real mission.,Not enough headcount for the roadmap.
+R1141,Product,APAC,<1y,5,3,4,2,4,4,2,2,Interesting technical challenges.,"Too many meetings, not enough focus time."
+R1142,Marketing,NA,5y+,2,5,4,4,5,5,5,3,Managers actually listen.,"Too many meetings, not enough focus time."
+R1143,Operations,LATAM,1-3y,3,4,4,3,3,4,3,2,Great teammates and a real mission.,Not enough headcount for the roadmap.
+R1144,Engineering,EMEA,1-3y,4,3,4,4,3,5,4,4,Interesting technical challenges.,Not enough headcount for the roadmap.
+R1145,Operations,NA,1-3y,3,3,3,2,2,3,3,3,"Good customers, meaningful work.","Too many meetings, not enough focus time."
+R1146,Finance,LATAM,3-5y,3,3,5,5,2,1,4,5,Leadership is transparent in town halls.,Career paths are unclear.
+R1147,People,NA,1-3y,4,5,4,4,2,3,3,3,"Good customers, meaningful work.",Promotion process feels opaque.
+R1148,Finance,NA,5y+,4,5,3,3,4,3,5,5,Flexible hours help a lot.,Not enough headcount for the roadmap.
+R1149,Marketing,APAC,3-5y,5,4,4,4,3,4,4,5,"Good customers, meaningful work.",Cross-team handoffs are slow.
+R1150,Operations,APAC,5y+,3,4,3,4,4,2,4,3,"Good customers, meaningful work.",Promotion process feels opaque.
+R1151,Product,APAC,1-3y,3,3,4,3,3,3,4,3,Flexible hours help a lot.,Career paths are unclear.
+R1152,Engineering,LATAM,<1y,4,4,4,4,3,3,3,4,Interesting technical challenges.,Promotion process feels opaque.
+R1153,Finance,EMEA,3-5y,4,3,4,3,3,5,4,4,Great teammates and a real mission.,On-call load is heavy this quarter.
+R1154,Operations,APAC,5y+,3,3,2,3,2,3,3,4,Great teammates and a real mission.,Tooling is fragmented.
+R1155,Customer Success,NA,1-3y,4,4,5,3,3,4,3,5,Managers actually listen.,Promotion process feels opaque.
+R1156,Finance,LATAM,<1y,4,3,4,3,4,4,3,5,I learn something new every week.,Cross-team handoffs are slow.
+R1157,People,LATAM,3-5y,4,4,5,4,4,5,5,5,Great teammates and a real mission.,Not enough headcount for the roadmap.
+R1158,Finance,LATAM,<1y,4,5,4,5,5,4,4,2,Managers actually listen.,Cross-team handoffs are slow.
+R1159,Marketing,APAC,1-3y,4,2,3,4,4,5,2,3,Managers actually listen.,Tooling is fragmented.
+R1160,Product,APAC,5y+,4,3,4,5,4,4,2,1,Interesting technical challenges.,"Too many meetings, not enough focus time."
+R1161,Customer Success,LATAM,3-5y,3,2,3,4,4,3,4,5,Great teammates and a real mission.,Career paths are unclear.
+R1162,Product,EMEA,<1y,4,3,3,4,4,4,3,3,Strong onboarding buddy program.,Career paths are unclear.
+R1163,Operations,EMEA,3-5y,3,4,3,2,4,4,4,2,Managers actually listen.,"Too many meetings, not enough focus time."
+R1164,Product,EMEA,<1y,3,4,3,1,3,3,3,4,Strong onboarding buddy program.,Tooling is fragmented.
+R1165,Engineering,NA,5y+,5,4,3,3,4,4,5,4,Managers actually listen.,Cross-team handoffs are slow.
+R1166,People,LATAM,<1y,5,2,4,3,4,5,3,5,"Good customers, meaningful work.",Not enough headcount for the roadmap.
+R1167,Product,NA,<1y,4,5,4,4,5,4,4,5,Managers actually listen.,Promotion process feels opaque.
+R1168,People,LATAM,1-3y,4,4,4,5,4,3,4,2,Leadership is transparent in town halls.,Tooling is fragmented.
+R1169,People,NA,<1y,5,3,5,4,5,4,3,4,Great teammates and a real mission.,Cross-team handoffs are slow.
+R1170,Finance,APAC,1-3y,5,3,1,4,4,3,5,4,Flexible hours help a lot.,Promotion process feels opaque.
+R1171,People,LATAM,3-5y,3,4,3,4,4,4,3,5,"Good customers, meaningful work.",Tooling is fragmented.
+R1172,Marketing,APAC,<1y,5,4,4,4,3,2,4,5,Great teammates and a real mission.,"Too many meetings, not enough focus time."
+R1173,Marketing,LATAM,1-3y,5,3,4,3,2,3,3,5,Great teammates and a real mission.,Tooling is fragmented.
+R1174,Customer Success,LATAM,3-5y,5,2,4,4,5,5,3,4,Interesting technical challenges.,Not enough headcount for the roadmap.
+R1175,Customer Success,LATAM,1-3y,4,5,5,2,5,4,5,5,Strong onboarding buddy program.,Cross-team handoffs are slow.
+R1176,Product,APAC,<1y,5,2,4,3,4,4,5,4,Great teammates and a real mission.,"Too many meetings, not enough focus time."
+R1177,Operations,LATAM,<1y,4,2,3,3,4,3,3,3,"Good customers, meaningful work.",Not enough headcount for the roadmap.
+R1178,Customer Success,APAC,<1y,4,3,3,3,4,4,5,5,Strong onboarding buddy program.,On-call load is heavy this quarter.
+R1179,People,NA,1-3y,4,3,4,4,5,3,4,4,Strong onboarding buddy program.,Tooling is fragmented.
+R1180,Sales,EMEA,5y+,3,3,3,3,5,5,4,3,Flexible hours help a lot.,Career paths are unclear.
+R1181,Marketing,LATAM,<1y,5,3,4,2,4,4,4,3,Flexible hours help a lot.,Cross-team handoffs are slow.
+R1182,Product,APAC,5y+,4,3,2,3,4,3,3,3,Great teammates and a real mission.,"Too many meetings, not enough focus time."
+R1183,Engineering,NA,5y+,3,4,4,3,4,5,5,5,Managers actually listen.,Compensation lags the market.
+R1184,Customer Success,EMEA,<1y,4,4,4,5,4,4,4,3,Strong onboarding buddy program.,Compensation lags the market.
+R1185,Product,EMEA,1-3y,3,4,3,3,4,4,4,5,"Good customers, meaningful work.",Tooling is fragmented.
+R1186,Product,EMEA,5y+,4,3,4,4,3,4,3,4,I learn something new every week.,Compensation lags the market.
+R1187,Customer Success,APAC,3-5y,2,4,5,4,4,5,4,4,Great teammates and a real mission.,"Too many meetings, not enough focus time."
+R1188,Marketing,APAC,5y+,4,3,5,3,3,3,5,4,Great teammates and a real mission.,Compensation lags the market.
+R1189,People,NA,3-5y,4,3,4,4,3,5,3,3,I learn something new every week.,Compensation lags the market.
+R1190,Finance,EMEA,3-5y,5,3,3,5,3,2,3,3,I learn something new every week.,"Too many meetings, not enough focus time."
+R1191,Marketing,APAC,1-3y,3,2,4,2,3,3,5,4,Great teammates and a real mission.,Not enough headcount for the roadmap.
+R1192,Product,LATAM,1-3y,4,4,3,5,3,3,4,1,Strong onboarding buddy program.,Tooling is fragmented.
+R1193,Operations,NA,1-3y,1,3,2,2,2,4,3,5,Interesting technical challenges.,Not enough headcount for the roadmap.
+R1194,Finance,NA,1-3y,3,3,3,4,4,3,4,3,Leadership is transparent in town halls.,On-call load is heavy this quarter.
+R1195,Sales,APAC,5y+,3,3,5,3,2,3,3,3,I learn something new every week.,Not enough headcount for the roadmap.
+R1196,Finance,APAC,5y+,4,4,5,4,3,5,3,3,Strong onboarding buddy program.,Career paths are unclear.
+R1197,Customer Success,APAC,1-3y,3,4,3,3,4,3,4,5,Strong onboarding buddy program.,On-call load is heavy this quarter.
+R1198,Engineering,NA,<1y,5,4,5,4,5,4,1,4,I learn something new every week.,"Too many meetings, not enough focus time."
+R1199,Customer Success,EMEA,<1y,5,5,5,3,4,3,4,5,Flexible hours help a lot.,Career paths are unclear.
+R1200,Engineering,NA,3-5y,5,4,2,4,2,2,3,3,Leadership is transparent in town halls.,Cross-team handoffs are slow.
+R1201,Product,EMEA,5y+,5,2,2,3,2,2,3,5,I learn something new every week.,Career paths are unclear.
+R1202,People,LATAM,3-5y,5,5,5,4,3,3,3,4,Interesting technical challenges.,"Too many meetings, not enough focus time."
+R1203,Sales,LATAM,5y+,3,4,5,4,2,4,2,5,"Good customers, meaningful work.",Career paths are unclear.
+R1204,Product,EMEA,5y+,3,4,3,5,3,4,3,4,"Good customers, meaningful work.",Cross-team handoffs are slow.
+R1205,Product,NA,3-5y,4,3,3,4,4,4,4,5,Great teammates and a real mission.,Promotion process feels opaque.
+R1206,Finance,EMEA,<1y,3,3,3,3,4,5,5,5,Strong onboarding buddy program.,Promotion process feels opaque.
+R1207,Sales,LATAM,3-5y,4,3,4,2,4,4,4,5,Great teammates and a real mission.,Tooling is fragmented.
+R1208,People,NA,3-5y,5,3,5,5,5,5,2,3,"Good customers, meaningful work.",Tooling is fragmented.
+R1209,Sales,LATAM,5y+,4,3,4,3,1,3,4,4,Flexible hours help a lot.,"Too many meetings, not enough focus time."
+R1210,Sales,NA,1-3y,3,3,4,4,2,2,5,3,Strong onboarding buddy program.,"Too many meetings, not enough focus time."
+R1211,Sales,EMEA,5y+,3,3,4,3,4,3,4,2,Leadership is transparent in town halls.,Tooling is fragmented.
+R1212,Marketing,NA,1-3y,3,5,5,4,2,2,5,3,Flexible hours help a lot.,Tooling is fragmented.
+R1213,People,NA,3-5y,4,4,5,4,5,5,3,5,Flexible hours help a lot.,Promotion process feels opaque.
+R1214,Product,EMEA,3-5y,4,2,3,3,4,3,3,5,Interesting technical challenges.,On-call load is heavy this quarter.
+R1215,Product,NA,<1y,3,5,4,4,5,3,4,3,Great teammates and a real mission.,Career paths are unclear.
+R1216,Marketing,LATAM,<1y,4,3,5,2,3,5,4,2,I learn something new every week.,"Too many meetings, not enough focus time."
+R1217,Customer Success,NA,3-5y,5,5,3,4,4,4,3,3,Flexible hours help a lot.,On-call load is heavy this quarter.
+R1218,Finance,LATAM,3-5y,4,4,3,4,3,3,4,4,Managers actually listen.,Cross-team handoffs are slow.
+R1219,Marketing,EMEA,<1y,4,5,4,5,5,3,4,2,Leadership is transparent in town halls.,Career paths are unclear.
+R1220,Engineering,NA,5y+,3,4,4,2,5,4,2,3,"Good customers, meaningful work.","Too many meetings, not enough focus time."
+R1221,Customer Success,NA,1-3y,5,3,4,4,4,5,4,5,Flexible hours help a lot.,Tooling is fragmented.
+R1222,Finance,LATAM,1-3y,4,4,3,3,3,5,3,4,Leadership is transparent in town halls.,Promotion process feels opaque.
+R1223,Finance,EMEA,3-5y,2,4,3,2,3,5,3,4,I learn something new every week.,On-call load is heavy this quarter.
+R1224,Marketing,NA,<1y,4,4,3,4,4,5,4,3,Managers actually listen.,Cross-team handoffs are slow.
+R1225,Sales,NA,5y+,3,4,2,2,4,4,2,4,Great teammates and a real mission.,Not enough headcount for the roadmap.
+R1226,Operations,EMEA,3-5y,4,3,3,2,5,3,3,4,Flexible hours help a lot.,"Too many meetings, not enough focus time."
+R1227,Finance,EMEA,1-3y,3,4,3,4,3,4,4,3,"Good customers, meaningful work.",Not enough headcount for the roadmap.
+R1228,Product,EMEA,<1y,4,2,3,3,3,3,3,4,Interesting technical challenges.,Not enough headcount for the roadmap.
+R1229,Marketing,LATAM,3-5y,3,4,3,4,2,5,3,2,Managers actually listen.,Compensation lags the market.
+R1230,Customer Success,LATAM,5y+,4,4,4,4,4,4,4,5,Flexible hours help a lot.,Not enough headcount for the roadmap.
+R1231,People,APAC,5y+,5,4,4,3,5,5,4,5,Interesting technical challenges.,Career paths are unclear.
+R1232,Marketing,LATAM,<1y,5,5,2,5,5,4,5,2,Flexible hours help a lot.,"Too many meetings, not enough focus time."
+R1233,Marketing,LATAM,<1y,4,5,3,3,4,4,3,3,Great teammates and a real mission.,Compensation lags the market.
+R1234,Product,EMEA,5y+,1,4,2,5,3,4,2,3,Strong onboarding buddy program.,Not enough headcount for the roadmap.
+R1235,Engineering,APAC,<1y,4,4,4,3,4,3,4,3,Interesting technical challenges.,On-call load is heavy this quarter.
+R1236,Engineering,APAC,5y+,4,4,3,2,4,3,4,4,Leadership is transparent in town halls.,Compensation lags the market.
+R1237,Finance,LATAM,3-5y,4,5,3,5,4,3,5,3,"Good customers, meaningful work.","Too many meetings, not enough focus time."
+R1238,Engineering,LATAM,5y+,4,4,3,5,2,4,4,3,Great teammates and a real mission.,Promotion process feels opaque.
+R1239,Product,LATAM,5y+,3,3,2,4,2,4,3,3,Leadership is transparent in town halls.,Not enough headcount for the roadmap.
+R1240,Product,APAC,<1y,3,3,1,4,3,5,4,5,Strong onboarding buddy program.,Career paths are unclear.
+R1241,Finance,LATAM,5y+,2,4,4,5,3,4,2,5,Managers actually listen.,On-call load is heavy this quarter.
+R1242,People,EMEA,5y+,5,4,3,3,5,5,5,5,"Good customers, meaningful work.","Too many meetings, not enough focus time."
+R1243,Engineering,LATAM,<1y,4,3,4,5,5,2,3,5,Great teammates and a real mission.,"Too many meetings, not enough focus time."
+R1244,Product,EMEA,<1y,3,5,3,4,2,4,5,3,Great teammates and a real mission.,Tooling is fragmented.
+R1245,Customer Success,NA,<1y,4,5,4,3,3,3,3,5,I learn something new every week.,On-call load is heavy this quarter.
+R1246,People,EMEA,3-5y,3,2,4,5,4,4,3,5,"Good customers, meaningful work.",Promotion process feels opaque.
+R1247,Marketing,LATAM,3-5y,4,2,1,2,5,4,4,3,Managers actually listen.,Tooling is fragmented.
+R1248,Product,NA,5y+,4,3,1,5,2,4,4,5,Great teammates and a real mission.,Tooling is fragmented.
+R1249,Product,APAC,3-5y,4,4,3,2,4,4,4,4,I learn something new every week.,Promotion process feels opaque.
+R1250,Operations,NA,5y+,1,2,3,3,5,3,5,3,"Good customers, meaningful work.",On-call load is heavy this quarter.
+R1251,Marketing,EMEA,<1y,4,4,3,3,2,3,5,3,I learn something new every week.,Compensation lags the market.
+R1252,Engineering,EMEA,5y+,4,4,3,4,4,3,4,3,I learn something new every week.,Not enough headcount for the roadmap.
+R1253,Marketing,NA,<1y,4,2,3,3,3,4,4,3,Leadership is transparent in town halls.,Promotion process feels opaque.
+R1254,Marketing,LATAM,<1y,3,3,3,1,3,4,3,4,"Good customers, meaningful work.",Compensation lags the market.
+R1255,Sales,LATAM,3-5y,5,3,2,4,5,2,4,2,I learn something new every week.,"Too many meetings, not enough focus time."
+R1256,Sales,LATAM,<1y,4,5,4,3,2,5,3,4,"Good customers, meaningful work.",Cross-team handoffs are slow.
+R1257,Engineering,EMEA,<1y,2,4,4,3,2,4,4,3,Interesting technical challenges.,Tooling is fragmented.
+R1258,Marketing,EMEA,1-3y,4,5,3,4,5,4,2,4,Managers actually listen.,Not enough headcount for the roadmap.
+R1259,Product,EMEA,<1y,4,3,2,1,2,3,3,3,Leadership is transparent in town halls.,Career paths are unclear.
+R1260,People,EMEA,3-5y,5,5,4,3,3,5,5,4,Strong onboarding buddy program.,Promotion process feels opaque.
+R1261,Customer Success,NA,<1y,2,5,4,5,4,3,3,3,Managers actually listen.,Promotion process feels opaque.
+R1262,People,LATAM,3-5y,4,5,3,4,4,4,4,2,Strong onboarding buddy program.,Not enough headcount for the roadmap.
+R1263,People,NA,3-5y,5,4,4,3,3,4,4,3,Great teammates and a real mission.,Not enough headcount for the roadmap.
+R1264,People,NA,1-3y,2,5,4,5,5,4,3,5,Strong onboarding buddy program.,Promotion process feels opaque.
+R1265,Sales,LATAM,<1y,3,4,3,2,3,4,3,3,Flexible hours help a lot.,Cross-team handoffs are slow.
+R1266,Sales,EMEA,5y+,4,3,4,3,1,4,5,3,Managers actually listen.,Not enough headcount for the roadmap.
+R1267,People,APAC,3-5y,5,5,5,4,3,5,4,4,Managers actually listen.,Career paths are unclear.
+R1268,Engineering,APAC,1-3y,4,4,3,4,5,1,5,5,Interesting technical challenges.,Cross-team handoffs are slow.
+R1269,Product,NA,1-3y,3,3,4,2,3,3,4,2,Interesting technical challenges.,Tooling is fragmented.
+R1270,Product,NA,1-3y,3,5,5,4,2,3,2,4,Great teammates and a real mission.,Compensation lags the market.
+R1271,Operations,APAC,<1y,4,3,5,5,4,4,3,3,Interesting technical challenges.,On-call load is heavy this quarter.
+R1272,Product,EMEA,<1y,3,5,3,5,3,3,5,4,"Good customers, meaningful work.",Career paths are unclear.
+R1273,Sales,NA,<1y,2,4,2,3,4,5,3,4,Great teammates and a real mission.,Tooling is fragmented.
+R1274,Sales,APAC,<1y,5,3,2,2,3,4,2,3,I learn something new every week.,On-call load is heavy this quarter.
+R1275,Engineering,LATAM,1-3y,2,5,3,4,5,4,4,4,I learn something new every week.,Promotion process feels opaque.
+R1276,People,LATAM,<1y,4,5,3,2,4,3,5,3,Flexible hours help a lot.,"Too many meetings, not enough focus time."
+R1277,Product,APAC,3-5y,4,3,3,3,4,4,4,4,Interesting technical challenges.,Cross-team handoffs are slow.
+R1278,Operations,EMEA,5y+,3,2,2,4,3,4,3,3,I learn something new every week.,Tooling is fragmented.
+R1279,People,LATAM,1-3y,4,5,4,5,4,5,4,4,"Good customers, meaningful work.",Not enough headcount for the roadmap.
+R1280,Engineering,APAC,3-5y,4,2,5,3,3,5,5,3,"Good customers, meaningful work.",On-call load is heavy this quarter.
+R1281,Engineering,NA,1-3y,4,3,5,4,4,3,3,3,Flexible hours help a lot.,Promotion process feels opaque.
+R1282,Finance,APAC,1-3y,4,4,3,4,2,5,3,5,Leadership is transparent in town halls.,Career paths are unclear.
+R1283,Operations,NA,<1y,3,4,3,3,2,3,2,3,I learn something new every week.,Promotion process feels opaque.
+R1284,Sales,NA,3-5y,4,3,5,4,2,3,4,4,Great teammates and a real mission.,Compensation lags the market.
+R1285,People,EMEA,3-5y,4,4,3,5,3,4,4,5,I learn something new every week.,Not enough headcount for the roadmap.
+R1286,Product,APAC,1-3y,3,2,1,3,3,4,5,4,Leadership is transparent in town halls.,Not enough headcount for the roadmap.
+R1287,Finance,LATAM,3-5y,3,4,3,4,4,4,4,4,Strong onboarding buddy program.,Not enough headcount for the roadmap.
+R1288,Operations,NA,3-5y,3,3,3,4,1,4,4,4,Great teammates and a real mission.,Promotion process feels opaque.
+R1289,Finance,APAC,<1y,3,2,4,4,5,4,5,4,Great teammates and a real mission.,Promotion process feels opaque.
+R1290,Finance,NA,5y+,4,4,4,4,3,4,2,4,Strong onboarding buddy program.,Cross-team handoffs are slow.
+R1291,Engineering,NA,<1y,4,3,3,5,4,4,2,3,I learn something new every week.,Tooling is fragmented.
+R1292,People,EMEA,<1y,3,3,5,4,4,4,4,5,Great teammates and a real mission.,"Too many meetings, not enough focus time."
+R1293,Marketing,APAC,5y+,5,2,2,4,3,4,4,5,Leadership is transparent in town halls.,Not enough headcount for the roadmap.
+R1294,People,NA,1-3y,3,4,4,3,4,5,5,3,Strong onboarding buddy program.,Cross-team handoffs are slow.
+R1295,People,APAC,1-3y,3,4,4,4,4,5,3,5,I learn something new every week.,Tooling is fragmented.
+R1296,Product,LATAM,5y+,3,4,3,4,5,3,3,3,"Good customers, meaningful work.","Too many meetings, not enough focus time."
+R1297,Engineering,APAC,<1y,3,3,3,4,5,2,5,3,Leadership is transparent in town halls.,Not enough headcount for the roadmap.
+R1298,People,LATAM,1-3y,4,3,5,4,5,5,5,5,Interesting technical challenges.,Compensation lags the market.
+R1299,Engineering,EMEA,3-5y,3,4,3,5,4,4,4,3,I learn something new every week.,Tooling is fragmented.
+R1300,Product,EMEA,<1y,4,5,3,2,5,3,4,4,Managers actually listen.,Cross-team handoffs are slow.
+R1301,Operations,LATAM,1-3y,3,3,4,4,2,3,3,4,"Good customers, meaningful work.",Promotion process feels opaque.
+R1302,People,APAC,3-5y,3,5,5,5,3,3,5,4,I learn something new every week.,"Too many meetings, not enough focus time."
+R1303,Marketing,APAC,5y+,3,3,3,5,3,5,3,3,Interesting technical challenges.,Not enough headcount for the roadmap.
+R1304,Sales,APAC,5y+,3,4,3,3,1,3,3,3,Interesting technical challenges.,Promotion process feels opaque.
+R1305,Finance,NA,3-5y,4,4,4,5,4,3,3,4,I learn something new every week.,Career paths are unclear.
+R1306,Customer Success,APAC,1-3y,4,5,5,4,3,4,5,4,Interesting technical challenges.,On-call load is heavy this quarter.
+R1307,Engineering,NA,<1y,4,2,5,2,3,3,4,3,"Good customers, meaningful work.",On-call load is heavy this quarter.
+R1308,Operations,NA,5y+,5,4,3,5,4,4,2,5,Managers actually listen.,Tooling is fragmented.
+R1309,Finance,APAC,<1y,4,4,3,3,3,5,4,3,Great teammates and a real mission.,"Too many meetings, not enough focus time."
+R1310,People,APAC,<1y,5,5,5,4,4,4,3,5,Managers actually listen.,"Too many meetings, not enough focus time."
+R1311,Marketing,APAC,<1y,5,5,5,2,1,4,3,4,"Good customers, meaningful work.",Cross-team handoffs are slow.
+R1312,Engineering,EMEA,<1y,5,4,3,3,4,3,2,3,Leadership is transparent in town halls.,Compensation lags the market.
+R1313,People,LATAM,1-3y,3,3,5,4,4,5,4,3,Leadership is transparent in town halls.,Tooling is fragmented.
+R1314,Engineering,EMEA,<1y,5,3,3,5,5,3,4,3,Strong onboarding buddy program.,"Too many meetings, not enough focus time."
+R1315,Engineering,LATAM,5y+,3,4,2,3,4,5,4,5,I learn something new every week.,Career paths are unclear.
+R1316,Operations,EMEA,<1y,5,1,4,4,4,3,4,3,Leadership is transparent in town halls.,"Too many meetings, not enough focus time."
+R1317,Customer Success,EMEA,1-3y,5,4,5,3,3,5,5,4,Great teammates and a real mission.,Promotion process feels opaque.
+R1318,Operations,APAC,1-3y,4,3,3,3,4,3,4,3,Leadership is transparent in town halls.,Promotion process feels opaque.
+R1319,Finance,LATAM,5y+,5,5,4,4,5,5,5,5,Interesting technical challenges.,"Too many meetings, not enough focus time."
+R1320,Engineering,LATAM,3-5y,5,4,3,3,4,2,3,2,Interesting technical challenges.,Tooling is fragmented.
+R1321,Product,LATAM,3-5y,4,5,4,3,4,4,5,3,Interesting technical challenges.,Not enough headcount for the roadmap.
+R1322,People,EMEA,5y+,2,5,4,2,5,5,3,4,Managers actually listen.,On-call load is heavy this quarter.
+R1323,Product,LATAM,5y+,3,3,3,3,3,4,3,3,Flexible hours help a lot.,On-call load is heavy this quarter.
+R1324,Engineering,LATAM,<1y,3,2,4,3,5,3,4,4,Great teammates and a real mission.,Career paths are unclear.
+R1325,People,LATAM,1-3y,3,5,4,5,3,3,4,5,Flexible hours help a lot.,Tooling is fragmented.
+R1326,Marketing,APAC,5y+,3,4,4,4,5,3,4,5,I learn something new every week.,Tooling is fragmented.
+R1327,Engineering,LATAM,<1y,4,5,4,3,5,4,4,3,"Good customers, meaningful work.",Cross-team handoffs are slow.
+R1328,Sales,APAC,1-3y,4,4,1,3,3,3,3,3,Interesting technical challenges.,Career paths are unclear.
+R1329,Sales,APAC,5y+,3,2,4,3,3,4,5,4,Strong onboarding buddy program.,Cross-team handoffs are slow.
+R1330,Marketing,APAC,1-3y,4,2,4,3,2,4,5,4,Great teammates and a real mission.,Career paths are unclear.
+R1331,Customer Success,EMEA,5y+,4,2,5,5,4,5,3,3,I learn something new every week.,On-call load is heavy this quarter.
+R1332,People,APAC,3-5y,4,5,4,5,3,4,4,4,Great teammates and a real mission.,Promotion process feels opaque.
+R1333,Finance,EMEA,5y+,4,3,4,5,2,3,3,2,Managers actually listen.,Career paths are unclear.
+R1334,People,APAC,1-3y,3,4,5,4,5,4,5,5,Managers actually listen.,Promotion process feels opaque.
+R1335,Customer Success,EMEA,5y+,4,3,4,5,5,5,3,4,Managers actually listen.,"Too many meetings, not enough focus time."
+R1336,Customer Success,EMEA,3-5y,4,5,5,3,3,3,4,1,Leadership is transparent in town halls.,Cross-team handoffs are slow.
+R1337,Finance,EMEA,<1y,4,3,3,4,4,5,4,4,Managers actually listen.,On-call load is heavy this quarter.
+R1338,People,APAC,3-5y,4,3,3,4,2,5,4,4,"Good customers, meaningful work.",On-call load is heavy this quarter.
+R1339,Product,NA,3-5y,5,3,5,3,4,3,3,3,Great teammates and a real mission.,Cross-team handoffs are slow.
+R1340,Engineering,EMEA,5y+,5,4,3,4,4,4,4,5,Flexible hours help a lot.,Not enough headcount for the roadmap.
+R1341,People,EMEA,3-5y,4,4,5,5,3,3,5,4,Leadership is transparent in town halls.,Cross-team handoffs are slow.
+R1342,Engineering,EMEA,5y+,3,4,4,3,4,4,5,5,Leadership is transparent in town halls.,Tooling is fragmented.
+R1343,People,APAC,1-3y,5,4,4,5,4,3,4,2,Flexible hours help a lot.,Compensation lags the market.
+R1344,Operations,APAC,1-3y,4,3,4,3,2,4,4,4,Leadership is transparent in town halls.,On-call load is heavy this quarter.
+R1345,Product,NA,3-5y,4,3,4,2,5,2,5,5,Interesting technical challenges.,Not enough headcount for the roadmap.
+R1346,Marketing,LATAM,3-5y,2,5,5,3,4,5,2,5,Managers actually listen.,Promotion process feels opaque.
+R1347,Operations,EMEA,<1y,5,2,4,4,2,2,4,3,I learn something new every week.,Promotion process feels opaque.
+R1348,Engineering,NA,5y+,3,4,4,4,4,5,4,3,Flexible hours help a lot.,Compensation lags the market.
+R1349,Finance,APAC,5y+,3,4,3,3,5,4,5,4,"Good customers, meaningful work.",Compensation lags the market.
+R1350,Marketing,LATAM,1-3y,4,2,3,2,5,2,5,3,Interesting technical challenges.,Tooling is fragmented.
+R1351,Operations,EMEA,5y+,4,4,4,1,4,4,2,4,Leadership is transparent in town halls.,"Too many meetings, not enough focus time."
+R1352,People,EMEA,5y+,4,5,4,5,3,5,5,4,Flexible hours help a lot.,Career paths are unclear.
+R1353,Finance,NA,1-3y,3,5,3,1,5,5,4,3,I learn something new every week.,Tooling is fragmented.
+R1354,Engineering,LATAM,5y+,3,3,4,4,2,3,4,5,Flexible hours help a lot.,Tooling is fragmented.
+R1355,Engineering,APAC,<1y,3,3,4,5,4,4,5,3,Interesting technical challenges.,On-call load is heavy this quarter.
+R1356,Operations,EMEA,1-3y,3,4,3,4,3,4,4,2,Leadership is transparent in town halls.,Career paths are unclear.
+R1357,Product,LATAM,<1y,4,4,5,2,4,4,3,4,I learn something new every week.,Career paths are unclear.
+R1358,Finance,APAC,3-5y,4,4,2,4,5,4,3,4,Great teammates and a real mission.,Not enough headcount for the roadmap.
+R1359,Finance,NA,1-3y,4,5,5,5,3,3,3,5,Interesting technical challenges.,Not enough headcount for the roadmap.
+R1360,Operations,EMEA,<1y,4,4,2,2,3,3,4,3,Flexible hours help a lot.,Career paths are unclear.
+R1361,Engineering,APAC,<1y,4,4,5,3,4,4,3,3,Strong onboarding buddy program.,Not enough headcount for the roadmap.
+R1362,Sales,EMEA,1-3y,4,3,5,4,4,4,4,3,I learn something new every week.,Cross-team handoffs are slow.
+R1363,Operations,APAC,5y+,4,4,5,3,2,2,3,4,I learn something new every week.,"Too many meetings, not enough focus time."
+R1364,People,APAC,3-5y,3,5,4,4,4,5,4,4,Interesting technical challenges.,Not enough headcount for the roadmap.
+R1365,Customer Success,APAC,<1y,4,3,3,4,3,3,5,2,Great teammates and a real mission.,"Too many meetings, not enough focus time."
+R1366,Customer Success,NA,<1y,4,5,4,5,5,4,5,2,Leadership is transparent in town halls.,Career paths are unclear.
+R1367,Marketing,LATAM,1-3y,5,3,4,4,4,3,3,5,Leadership is transparent in town halls.,Compensation lags the market.
+R1368,Operations,APAC,1-3y,2,3,4,4,2,3,4,2,Flexible hours help a lot.,Cross-team handoffs are slow.
+R1369,Finance,LATAM,<1y,5,4,3,5,5,4,5,3,"Good customers, meaningful work.",Not enough headcount for the roadmap.
+R1370,Operations,APAC,3-5y,2,4,2,3,3,3,5,3,Strong onboarding buddy program.,Compensation lags the market.
+R1371,Customer Success,EMEA,3-5y,5,5,5,5,4,4,2,4,I learn something new every week.,Compensation lags the market.
+R1372,Finance,EMEA,3-5y,3,5,4,3,3,2,3,4,I learn something new every week.,Not enough headcount for the roadmap.
+R1373,Operations,EMEA,1-3y,3,5,4,5,3,4,4,4,"Good customers, meaningful work.",On-call load is heavy this quarter.
+R1374,Finance,NA,5y+,5,4,5,3,2,4,2,4,I learn something new every week.,On-call load is heavy this quarter.
+R1375,Engineering,LATAM,5y+,3,2,2,4,3,4,3,5,I learn something new every week.,Career paths are unclear.
+R1376,Customer Success,NA,5y+,3,5,2,2,5,4,3,3,Managers actually listen.,On-call load is heavy this quarter.
+R1377,Operations,NA,5y+,5,2,4,3,3,4,4,3,"Good customers, meaningful work.",Tooling is fragmented.
+R1378,Engineering,LATAM,3-5y,3,3,3,2,4,3,3,3,Interesting technical challenges.,Tooling is fragmented.
+R1379,Sales,APAC,3-5y,2,4,2,2,2,4,2,3,Leadership is transparent in town halls.,Promotion process feels opaque.
+R1380,Operations,APAC,1-3y,3,3,3,5,5,4,3,5,Flexible hours help a lot.,Career paths are unclear.
+R1381,Operations,LATAM,1-3y,2,4,4,3,4,2,5,4,Leadership is transparent in town halls.,Cross-team handoffs are slow.
+R1382,Operations,EMEA,<1y,3,4,2,3,2,2,2,3,Leadership is transparent in town halls.,Cross-team handoffs are slow.
+R1383,Engineering,LATAM,<1y,3,3,4,4,4,5,3,5,I learn something new every week.,On-call load is heavy this quarter.
+R1384,Operations,LATAM,<1y,4,3,3,4,5,4,3,2,I learn something new every week.,Career paths are unclear.
+R1385,Marketing,NA,5y+,4,4,3,3,4,3,3,2,Interesting technical challenges.,Compensation lags the market.
+R1386,Operations,LATAM,5y+,3,3,3,3,5,5,5,3,Great teammates and a real mission.,"Too many meetings, not enough focus time."
+R1387,Finance,APAC,1-3y,5,4,5,3,4,4,3,4,"Good customers, meaningful work.","Too many meetings, not enough focus time."
+R1388,Sales,NA,<1y,2,3,5,3,4,4,4,2,Leadership is transparent in town halls.,Not enough headcount for the roadmap.
+R1389,Finance,LATAM,1-3y,2,4,5,4,4,4,5,2,Managers actually listen.,Tooling is fragmented.
+R1390,People,NA,1-3y,4,3,3,4,5,4,3,4,Great teammates and a real mission.,Cross-team handoffs are slow.
+R1391,People,EMEA,1-3y,4,4,5,4,3,5,3,4,Great teammates and a real mission.,On-call load is heavy this quarter.
+R1392,Customer Success,EMEA,<1y,3,5,3,4,3,4,4,4,Interesting technical challenges.,Not enough headcount for the roadmap.
+R1393,Sales,NA,1-3y,4,4,1,3,4,3,3,3,Interesting technical challenges.,Not enough headcount for the roadmap.
+R1394,Marketing,NA,1-3y,4,2,4,2,4,5,3,3,Managers actually listen.,Promotion process feels opaque.
+R1395,Marketing,EMEA,1-3y,2,3,3,1,1,4,2,4,Interesting technical challenges.,Career paths are unclear.
+R1396,Customer Success,NA,1-3y,5,3,4,5,3,4,3,3,Leadership is transparent in town halls.,Promotion process feels opaque.
+R1397,Marketing,EMEA,3-5y,4,5,4,3,4,5,3,4,"Good customers, meaningful work.",Promotion process feels opaque.
+R1398,Sales,NA,3-5y,2,4,2,4,2,2,3,3,Strong onboarding buddy program.,Tooling is fragmented.
+R1399,People,LATAM,3-5y,4,4,4,5,2,4,3,5,Interesting technical challenges.,Career paths are unclear.
+R1400,Product,NA,5y+,2,3,4,3,4,3,4,5,Great teammates and a real mission.,Compensation lags the market.
+R1401,Marketing,LATAM,<1y,4,5,3,4,3,4,5,3,Managers actually listen.,Career paths are unclear.
+R1402,Sales,APAC,5y+,3,2,3,3,3,4,4,3,Interesting technical challenges.,On-call load is heavy this quarter.
+R1403,Customer Success,APAC,1-3y,5,5,4,5,3,4,4,4,Leadership is transparent in town halls.,Not enough headcount for the roadmap.
+R1404,Customer Success,LATAM,1-3y,3,5,3,4,5,5,4,5,Managers actually listen.,Not enough headcount for the roadmap.
+R1405,People,NA,1-3y,4,5,3,3,5,4,5,5,I learn something new every week.,Not enough headcount for the roadmap.
+R1406,Operations,LATAM,3-5y,3,4,2,2,4,4,4,3,Interesting technical challenges.,Promotion process feels opaque.
+R1407,Sales,EMEA,3-5y,2,4,2,1,5,4,3,4,Leadership is transparent in town halls.,Compensation lags the market.
+R1408,Finance,EMEA,3-5y,4,3,4,3,4,5,5,4,Managers actually listen.,"Too many meetings, not enough focus time."
+R1409,Customer Success,NA,3-5y,4,5,4,5,4,4,4,3,Interesting technical challenges.,Not enough headcount for the roadmap.
+R1410,Finance,APAC,<1y,4,4,4,5,4,5,4,3,Leadership is transparent in town halls.,Compensation lags the market.
+R1411,Finance,LATAM,<1y,5,3,3,5,2,2,3,4,I learn something new every week.,Not enough headcount for the roadmap.
+R1412,Engineering,NA,1-3y,5,2,4,3,2,3,3,5,Flexible hours help a lot.,Not enough headcount for the roadmap.
+R1413,Engineering,LATAM,3-5y,5,3,4,4,4,3,4,4,Flexible hours help a lot.,"Too many meetings, not enough focus time."
+R1414,Product,LATAM,3-5y,3,4,5,2,3,2,4,3,I learn something new every week.,Career paths are unclear.
+R1415,Engineering,APAC,5y+,2,4,2,3,3,5,3,3,Interesting technical challenges.,Tooling is fragmented.
+R1416,Customer Success,NA,<1y,5,5,5,4,4,2,4,5,Strong onboarding buddy program.,Tooling is fragmented.
+R1417,Operations,NA,3-5y,3,5,2,4,5,4,3,3,Flexible hours help a lot.,Promotion process feels opaque.
+R1418,Customer Success,LATAM,1-3y,3,5,4,4,5,4,3,5,Flexible hours help a lot.,On-call load is heavy this quarter.
+R1419,Sales,APAC,3-5y,2,2,2,3,3,3,2,2,I learn something new every week.,Compensation lags the market.
+R1420,Product,APAC,1-3y,3,5,3,3,5,4,2,3,Flexible hours help a lot.,Compensation lags the market.
+R1421,Marketing,LATAM,1-3y,5,1,5,3,3,3,4,5,I learn something new every week.,Compensation lags the market.
+R1422,Engineering,EMEA,1-3y,4,4,4,3,4,3,3,4,Flexible hours help a lot.,"Too many meetings, not enough focus time."
+R1423,Marketing,EMEA,5y+,5,4,4,2,3,5,5,4,I learn something new every week.,Compensation lags the market.
+R1424,Sales,LATAM,3-5y,5,3,3,3,2,4,3,3,Interesting technical challenges.,Not enough headcount for the roadmap.
+R1425,Customer Success,APAC,<1y,5,4,4,5,3,4,5,4,Flexible hours help a lot.,Tooling is fragmented.
+R1426,Product,LATAM,3-5y,2,3,1,2,2,3,3,4,Strong onboarding buddy program.,"Too many meetings, not enough focus time."
+R1427,Sales,EMEA,5y+,3,4,3,3,4,2,5,2,Managers actually listen.,Tooling is fragmented.
+R1428,Sales,LATAM,1-3y,3,4,5,2,1,3,5,3,Flexible hours help a lot.,Career paths are unclear.
+R1429,People,EMEA,<1y,5,4,3,5,5,4,3,3,Strong onboarding buddy program.,Compensation lags the market.
+R1430,People,EMEA,3-5y,4,5,5,3,3,4,4,4,Interesting technical challenges.,Career paths are unclear.
+R1431,Customer Success,NA,1-3y,3,4,2,4,3,2,4,5,Flexible hours help a lot.,Career paths are unclear.
+R1432,Engineering,APAC,1-3y,4,3,3,4,3,3,4,5,Leadership is transparent in town halls.,Cross-team handoffs are slow.
+R1433,Engineering,NA,5y+,3,3,3,5,3,4,3,3,Flexible hours help a lot.,Tooling is fragmented.
+R1434,Sales,EMEA,1-3y,4,3,3,4,2,2,4,2,Strong onboarding buddy program.,Career paths are unclear.
+R1435,People,NA,3-5y,5,3,5,5,4,4,4,4,"Good customers, meaningful work.",Cross-team handoffs are slow.
+R1436,Operations,LATAM,3-5y,3,3,4,4,3,3,3,2,Strong onboarding buddy program.,Promotion process feels opaque.
+R1437,Engineering,NA,<1y,5,4,4,4,3,3,4,3,Great teammates and a real mission.,Career paths are unclear.
+R1438,Marketing,NA,5y+,4,3,4,4,4,3,5,3,I learn something new every week.,Compensation lags the market.
+R1439,Customer Success,EMEA,5y+,5,4,5,3,3,4,3,4,Managers actually listen.,Career paths are unclear.
+R1440,Sales,LATAM,3-5y,4,3,2,1,2,3,2,4,Leadership is transparent in town halls.,Cross-team handoffs are slow.
+R1441,Operations,EMEA,1-3y,3,4,4,4,3,3,3,3,Managers actually listen.,"Too many meetings, not enough focus time."
+R1442,Engineering,EMEA,3-5y,4,2,4,3,4,2,4,5,Leadership is transparent in town halls.,On-call load is heavy this quarter.
+R1443,People,EMEA,1-3y,4,4,4,4,5,3,4,4,I learn something new every week.,Cross-team handoffs are slow.
+R1444,Engineering,APAC,5y+,3,3,2,4,3,4,2,2,Managers actually listen.,Career paths are unclear.
+R1445,Operations,LATAM,3-5y,2,3,4,3,4,2,2,3,Flexible hours help a lot.,Compensation lags the market.
+R1446,Finance,EMEA,3-5y,5,3,4,3,4,5,5,3,"Good customers, meaningful work.",Tooling is fragmented.
+R1447,People,NA,<1y,3,4,5,4,4,2,4,4,Strong onboarding buddy program.,Cross-team handoffs are slow.
+R1448,Product,LATAM,<1y,5,3,4,3,3,2,3,3,I learn something new every week.,Career paths are unclear.
+R1449,People,EMEA,<1y,5,4,3,5,4,5,3,4,Managers actually listen.,On-call load is heavy this quarter.
+R1450,Finance,EMEA,1-3y,3,4,4,5,3,5,5,5,Managers actually listen.,Compensation lags the market.
+R1451,Sales,LATAM,1-3y,4,5,5,2,4,2,3,4,Flexible hours help a lot.,Promotion process feels opaque.
+R1452,Operations,APAC,1-3y,5,3,3,4,4,4,4,3,I learn something new every week.,Compensation lags the market.
+R1453,Marketing,NA,5y+,4,3,4,4,3,3,3,3,Managers actually listen.,Not enough headcount for the roadmap.
+R1454,Sales,NA,5y+,3,3,4,3,2,2,3,3,Strong onboarding buddy program.,Tooling is fragmented.
+R1455,Finance,APAC,1-3y,4,5,5,3,4,4,2,2,Strong onboarding buddy program.,Cross-team handoffs are slow.
+R1456,Engineering,EMEA,<1y,4,5,3,3,3,3,4,4,Strong onboarding buddy program.,Cross-team handoffs are slow.
+R1457,People,NA,<1y,4,4,3,4,3,3,3,3,Flexible hours help a lot.,"Too many meetings, not enough focus time."
+R1458,Finance,APAC,<1y,4,4,3,3,4,3,4,4,Great teammates and a real mission.,Not enough headcount for the roadmap.
+R1459,Product,EMEA,<1y,4,4,3,3,3,3,3,3,I learn something new every week.,Promotion process feels opaque.
+R1460,Finance,EMEA,<1y,4,3,4,3,5,4,3,3,Leadership is transparent in town halls.,Not enough headcount for the roadmap.
+R1461,Marketing,NA,1-3y,3,4,4,2,4,3,4,4,Leadership is transparent in town halls.,Not enough headcount for the roadmap.
+R1462,Operations,APAC,<1y,2,3,3,3,4,4,3,3,Interesting technical challenges.,Compensation lags the market.
+R1463,Customer Success,APAC,3-5y,4,4,5,4,4,4,4,3,"Good customers, meaningful work.",Promotion process feels opaque.
+R1464,Sales,LATAM,<1y,2,4,3,3,5,2,5,3,Great teammates and a real mission.,Compensation lags the market.
+R1465,Operations,LATAM,<1y,4,3,5,3,4,4,4,3,Interesting technical challenges.,Compensation lags the market.
+R1466,Product,LATAM,<1y,4,5,3,3,4,3,4,3,Strong onboarding buddy program.,Cross-team handoffs are slow.
+R1467,People,APAC,3-5y,4,5,3,4,5,3,2,4,"Good customers, meaningful work.",Compensation lags the market.
+R1468,Finance,APAC,3-5y,4,3,4,3,4,2,4,5,Strong onboarding buddy program.,On-call load is heavy this quarter.
+R1469,Sales,LATAM,<1y,4,2,3,5,3,3,4,4,Flexible hours help a lot.,"Too many meetings, not enough focus time."
+R1470,Finance,NA,1-3y,4,3,5,4,4,3,2,4,Great teammates and a real mission.,Promotion process feels opaque.
+R1471,Customer Success,APAC,1-3y,3,3,5,4,3,3,4,3,Leadership is transparent in town halls.,Career paths are unclear.
+R1472,Sales,APAC,3-5y,4,4,3,4,4,3,4,3,Strong onboarding buddy program.,On-call load is heavy this quarter.
+R1473,Customer Success,APAC,3-5y,5,3,4,5,4,3,5,3,I learn something new every week.,Cross-team handoffs are slow.
+R1474,Customer Success,APAC,5y+,4,4,3,4,3,4,5,4,Strong onboarding buddy program.,On-call load is heavy this quarter.
+R1475,Marketing,LATAM,5y+,2,3,3,4,4,3,4,3,Flexible hours help a lot.,Not enough headcount for the roadmap.
+R1476,Engineering,EMEA,5y+,3,4,3,3,4,4,3,3,Leadership is transparent in town halls.,Compensation lags the market.
+R1477,Sales,APAC,<1y,3,4,4,3,2,2,2,3,Flexible hours help a lot.,Tooling is fragmented.
+R1478,Operations,APAC,1-3y,3,2,3,3,4,4,4,4,I learn something new every week.,Promotion process feels opaque.
+R1479,People,LATAM,1-3y,4,3,3,5,4,5,5,2,Great teammates and a real mission.,Career paths are unclear.
+R1480,Marketing,APAC,3-5y,3,4,4,4,4,3,5,5,Interesting technical challenges.,Compensation lags the market.
+R1481,Operations,NA,<1y,2,4,4,2,5,4,4,5,Great teammates and a real mission.,Tooling is fragmented.
+R1482,Operations,NA,3-5y,2,4,3,1,3,5,5,3,Leadership is transparent in town halls.,"Too many meetings, not enough focus time."
+R1483,Customer Success,LATAM,1-3y,3,4,2,2,4,5,4,3,Interesting technical challenges.,Cross-team handoffs are slow.
+R1484,Product,LATAM,3-5y,4,5,4,4,2,4,5,4,"Good customers, meaningful work.",Not enough headcount for the roadmap.
+R1485,Finance,NA,3-5y,4,5,5,3,3,2,4,5,Managers actually listen.,Not enough headcount for the roadmap.
+R1486,Operations,APAC,3-5y,4,4,3,5,4,1,5,3,Strong onboarding buddy program.,On-call load is heavy this quarter.
+R1487,Customer Success,NA,<1y,5,5,4,3,4,4,4,4,"Good customers, meaningful work.",Cross-team handoffs are slow.
+R1488,Marketing,APAC,5y+,4,2,4,5,5,4,3,4,"Good customers, meaningful work.",On-call load is heavy this quarter.
+R1489,Customer Success,NA,<1y,4,5,5,3,5,3,4,5,Strong onboarding buddy program.,Not enough headcount for the roadmap.
+R1490,Engineering,NA,5y+,5,4,3,5,3,5,4,4,I learn something new every week.,"Too many meetings, not enough focus time."
+R1491,Finance,APAC,<1y,4,2,5,4,3,4,3,4,Strong onboarding buddy program.,Career paths are unclear.
+R1492,Customer Success,LATAM,3-5y,4,5,4,4,4,4,5,5,Leadership is transparent in town halls.,Career paths are unclear.
+R1493,Engineering,NA,<1y,5,4,4,4,4,5,3,4,"Good customers, meaningful work.",Promotion process feels opaque.
+R1494,Product,NA,3-5y,5,4,4,4,4,4,3,4,Leadership is transparent in town halls.,Compensation lags the market.
+R1495,Finance,EMEA,5y+,5,3,5,4,4,4,3,4,Leadership is transparent in town halls.,Tooling is fragmented.
+R1496,Customer Success,LATAM,5y+,2,4,3,4,5,5,3,4,"Good customers, meaningful work.",Cross-team handoffs are slow.
+R1497,Product,NA,<1y,3,4,3,4,4,4,4,4,Flexible hours help a lot.,Cross-team handoffs are slow.
+R1498,Operations,APAC,5y+,4,3,5,4,3,4,3,5,Leadership is transparent in town halls.,Promotion process feels opaque.
+R1499,People,NA,5y+,4,5,4,4,5,5,3,4,Interesting technical challenges.,Tooling is fragmented.
+R1500,Operations,EMEA,3-5y,3,3,3,4,3,1,4,3,Strong onboarding buddy program.,Not enough headcount for the roadmap.
