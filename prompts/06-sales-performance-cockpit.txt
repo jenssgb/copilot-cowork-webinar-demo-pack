@@ -1,0 +1,12 @@
+Open regional_sales_raw.xlsx. First clean the data: unify the region names
+(e.g. "Asia-Pac" = "APAC") and handle blank cells. Then build a sales
+performance dashboard:
+1. TARGET ATTAINMENT: per region as a RAG traffic-light (Green >=100% of target,
+   Amber 85-99%, Red <85%), plus overall attainment.
+2. TREND: revenue vs. target across the months as a line chart.
+3. PRODUCT LINES: top and bottom product lines per region.
+4. EXECUTIVE SUMMARY: the 3 key findings and recommended actions.
+
+Data file: regional_sales_raw.xlsx (192 rows, sheets: Sales Data / Quarterly
+Targets / Rep Roster). Note: region labels are intentionally inconsistent and a
+few cells are blank — Cowork should clean these first.

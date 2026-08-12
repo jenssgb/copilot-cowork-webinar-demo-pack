@@ -1,0 +1,91 @@
+RespondentID,Department,Tenure,Q1_I_feel_valued_at_work,Q2_My_manager_supports_my,Q3_Workload_is_sustainabl,Q4_I_have_the_tools_I_nee,Q5_I_understand_company_s,Q6_I_would_recommend_us_a,What_is_working,What_to_improve
+R001,Marketing,3-5y,3,4,4,5,4,4,Great teammates and mission.,On-call load is heavy this quarter.
+R002,Sales,3-5y,3,4,4,4,1,3,I learn something new every week.,Compensation lags the market.
+R003,Customer Success,<1y,4,3,2,4,2,4,Flexible hours help a lot.,Cross-team handoffs are slow.
+R004,Engineering,1-3y,4,3,4,3,4,4,Leadership is transparent in town halls.,Cross-team handoffs are slow.
+R005,Engineering,5y+,5,5,5,3,4,3,Leadership is transparent in town halls.,Career paths are unclear.
+R006,Operations,<1y,4,4,4,1,3,5,I learn something new every week.,Career paths are unclear.
+R007,Operations,5y+,2,2,4,4,4,3,Leadership is transparent in town halls.,Cross-team handoffs are slow.
+R008,Sales,1-3y,4,3,4,2,4,4,Flexible hours help a lot.,On-call load is heavy this quarter.
+R009,Operations,1-3y,2,3,3,2,3,4,Flexible hours help a lot.,Career paths are unclear.
+R010,Operations,1-3y,4,2,3,3,4,4,Great teammates and mission.,Career paths are unclear.
+R011,Marketing,5y+,4,3,4,4,4,5,Great teammates and mission.,Cross-team handoffs are slow.
+R012,Finance,3-5y,3,5,3,3,4,4,I learn something new every week.,"Too many meetings, not enough focus time."
+R013,Engineering,1-3y,4,3,4,5,4,3,I learn something new every week.,Cross-team handoffs are slow.
+R014,Operations,1-3y,5,3,3,3,5,5,I learn something new every week.,Compensation lags the market.
+R015,Sales,1-3y,3,4,4,2,2,4,Great teammates and mission.,Tooling is fragmented.
+R016,Customer Success,<1y,4,3,5,3,4,3,Leadership is transparent in town halls.,Tooling is fragmented.
+R017,Customer Success,<1y,2,5,2,5,2,5,Great teammates and mission.,On-call load is heavy this quarter.
+R018,Engineering,<1y,5,3,3,3,4,2,Great teammates and mission.,Career paths are unclear.
+R019,Customer Success,1-3y,4,4,4,4,3,5,I learn something new every week.,Compensation lags the market.
+R020,Finance,1-3y,4,5,5,4,4,3,Leadership is transparent in town halls.,Career paths are unclear.
+R021,Engineering,1-3y,4,4,2,3,3,3,I learn something new every week.,Career paths are unclear.
+R022,Marketing,3-5y,5,4,5,4,3,5,Leadership is transparent in town halls.,"Too many meetings, not enough focus time."
+R023,Engineering,5y+,3,3,2,4,4,3,Great teammates and mission.,"Too many meetings, not enough focus time."
+R024,Customer Success,<1y,5,5,4,4,3,4,Leadership is transparent in town halls.,Career paths are unclear.
+R025,Finance,3-5y,4,5,4,4,3,5,Great teammates and mission.,Compensation lags the market.
+R026,Finance,<1y,4,5,4,4,4,4,Flexible hours help a lot.,Cross-team handoffs are slow.
+R027,Finance,5y+,3,4,5,5,3,4,Flexible hours help a lot.,Tooling is fragmented.
+R028,Operations,3-5y,3,3,3,4,3,4,Leadership is transparent in town halls.,Tooling is fragmented.
+R029,Sales,<1y,3,3,3,3,3,4,I learn something new every week.,Compensation lags the market.
+R030,Marketing,3-5y,4,5,3,4,2,3,Flexible hours help a lot.,Career paths are unclear.
+R031,Engineering,1-3y,3,4,3,4,4,2,I learn something new every week.,Career paths are unclear.
+R032,Marketing,3-5y,5,3,3,3,3,4,Flexible hours help a lot.,Tooling is fragmented.
+R033,Customer Success,<1y,4,4,4,4,3,3,Flexible hours help a lot.,Career paths are unclear.
+R034,Marketing,<1y,5,5,3,3,3,5,"Good customers, meaningful work.",Cross-team handoffs are slow.
+R035,Finance,3-5y,4,5,3,4,4,5,"Good customers, meaningful work.",Cross-team handoffs are slow.
+R036,Engineering,3-5y,3,4,5,2,3,5,Leadership is transparent in town halls.,"Too many meetings, not enough focus time."
+R037,Operations,3-5y,5,4,3,4,2,3,Flexible hours help a lot.,Compensation lags the market.
+R038,Marketing,3-5y,5,4,3,4,4,4,Leadership is transparent in town halls.,On-call load is heavy this quarter.
+R039,Sales,<1y,3,4,2,2,3,3,Leadership is transparent in town halls.,Cross-team handoffs are slow.
+R040,Sales,5y+,3,3,3,3,3,4,Leadership is transparent in town halls.,Tooling is fragmented.
+R041,Marketing,3-5y,5,3,1,3,3,4,Great teammates and mission.,On-call load is heavy this quarter.
+R042,Engineering,1-3y,3,4,3,4,4,2,I learn something new every week.,"Too many meetings, not enough focus time."
+R043,Customer Success,3-5y,4,3,3,2,4,4,"Good customers, meaningful work.",Cross-team handoffs are slow.
+R044,Sales,5y+,3,3,2,2,3,3,Leadership is transparent in town halls.,Career paths are unclear.
+R045,Finance,<1y,5,4,4,3,5,5,"Good customers, meaningful work.",Cross-team handoffs are slow.
+R046,Finance,<1y,4,3,4,4,5,3,Great teammates and mission.,Tooling is fragmented.
+R047,Engineering,5y+,4,3,4,4,4,4,I learn something new every week.,Tooling is fragmented.
+R048,Engineering,3-5y,3,3,2,4,3,3,Leadership is transparent in town halls.,Compensation lags the market.
+R049,Sales,5y+,3,3,2,4,2,3,Leadership is transparent in town halls.,Cross-team handoffs are slow.
+R050,Operations,<1y,3,3,3,4,4,4,Leadership is transparent in town halls.,Compensation lags the market.
+R051,Operations,5y+,5,3,3,3,3,4,Flexible hours help a lot.,Cross-team handoffs are slow.
+R052,Finance,5y+,5,3,5,3,3,3,Leadership is transparent in town halls.,"Too many meetings, not enough focus time."
+R053,Engineering,1-3y,3,4,4,3,5,3,"Good customers, meaningful work.",On-call load is heavy this quarter.
+R054,Engineering,<1y,4,4,3,4,3,5,Great teammates and mission.,Tooling is fragmented.
+R055,Operations,1-3y,3,4,2,3,3,4,I learn something new every week.,Tooling is fragmented.
+R056,Sales,3-5y,3,5,3,4,4,4,Leadership is transparent in town halls.,Tooling is fragmented.
+R057,Finance,<1y,4,5,1,4,4,3,I learn something new every week.,Cross-team handoffs are slow.
+R058,Marketing,3-5y,3,4,4,2,2,4,Great teammates and mission.,Tooling is fragmented.
+R059,Marketing,3-5y,5,2,4,4,3,4,Flexible hours help a lot.,Tooling is fragmented.
+R060,Finance,<1y,4,5,5,3,4,5,Great teammates and mission.,On-call load is heavy this quarter.
+R061,Sales,1-3y,5,3,3,3,4,3,I learn something new every week.,On-call load is heavy this quarter.
+R062,Operations,1-3y,4,3,3,3,4,4,I learn something new every week.,Cross-team handoffs are slow.
+R063,Operations,1-3y,4,2,4,5,2,3,Flexible hours help a lot.,Compensation lags the market.
+R064,Operations,<1y,3,3,4,2,3,2,Flexible hours help a lot.,Tooling is fragmented.
+R065,Customer Success,5y+,4,3,4,5,2,2,I learn something new every week.,On-call load is heavy this quarter.
+R066,Finance,5y+,5,4,3,5,4,4,I learn something new every week.,Cross-team handoffs are slow.
+R067,Engineering,1-3y,3,5,4,3,2,4,Flexible hours help a lot.,"Too many meetings, not enough focus time."
+R068,Finance,5y+,3,4,3,2,5,3,"Good customers, meaningful work.",On-call load is heavy this quarter.
+R069,Sales,3-5y,4,4,2,5,4,5,"Good customers, meaningful work.",Compensation lags the market.
+R070,Engineering,5y+,3,3,2,4,3,3,Leadership is transparent in town halls.,On-call load is heavy this quarter.
+R071,Operations,3-5y,3,4,1,5,2,5,Great teammates and mission.,Compensation lags the market.
+R072,Marketing,5y+,5,3,3,4,2,3,Great teammates and mission.,Compensation lags the market.
+R073,Engineering,1-3y,5,4,2,5,4,4,I learn something new every week.,Tooling is fragmented.
+R074,Marketing,<1y,3,4,4,4,3,4,I learn something new every week.,Tooling is fragmented.
+R075,Finance,1-3y,4,5,3,4,4,3,Great teammates and mission.,Career paths are unclear.
+R076,Operations,3-5y,3,4,4,3,4,2,"Good customers, meaningful work.",On-call load is heavy this quarter.
+R077,Marketing,5y+,4,3,4,4,2,3,Great teammates and mission.,Compensation lags the market.
+R078,Marketing,1-3y,3,3,4,4,4,4,Great teammates and mission.,"Too many meetings, not enough focus time."
+R079,Marketing,1-3y,4,3,4,4,5,4,"Good customers, meaningful work.",Compensation lags the market.
+R080,Operations,5y+,3,3,4,4,3,4,I learn something new every week.,"Too many meetings, not enough focus time."
+R081,Marketing,5y+,3,3,3,3,3,3,I learn something new every week.,Compensation lags the market.
+R082,Engineering,1-3y,4,5,4,3,3,3,I learn something new every week.,Career paths are unclear.
+R083,Marketing,5y+,4,4,3,3,4,4,Great teammates and mission.,Tooling is fragmented.
+R084,Sales,<1y,3,3,5,5,1,3,I learn something new every week.,Career paths are unclear.
+R085,Operations,1-3y,4,5,2,3,5,2,"Good customers, meaningful work.",Compensation lags the market.
+R086,Engineering,5y+,4,3,4,4,3,4,Leadership is transparent in town halls.,Career paths are unclear.
+R087,Marketing,1-3y,5,5,4,4,4,4,Leadership is transparent in town halls.,Tooling is fragmented.
+R088,Customer Success,1-3y,3,3,4,4,4,4,I learn something new every week.,Cross-team handoffs are slow.
+R089,Sales,5y+,5,1,4,4,4,3,"Good customers, meaningful work.",Compensation lags the market.
+R090,Sales,1-3y,4,2,3,2,3,3,"Good customers, meaningful work.","Too many meetings, not enough focus time."

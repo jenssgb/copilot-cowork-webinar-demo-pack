@@ -10,6 +10,14 @@ FILES=(
   c21_qbr_prep_cross_app.xlsx
   c24_product_launch_tracker.xlsx
   c30_executive_week_ahead.xlsx
+  regional_sales_raw.xlsx
+  q3_financials.xlsx
+  employee_engagement_survey.csv
+  strategy_offsite_transcript.docx
+  contract_northwind.pdf
+  contract_contoso.pdf
+  contract_fabrikam.pdf
+  budget_approval_email_thread.txt
   README.md
 )
 
@@ -21,6 +29,6 @@ for f in "${FILES[@]}"; do
 done
 
 echo
-echo "✅ Done. Next: upload the four .xlsx files to OneDrive/SharePoint"
+echo "✅ Done. Next: upload the demo files to OneDrive/SharePoint"
 echo "   (suggested folder: Microsoft/Copilot-Demos/) so Cowork can reach them."
 echo "   Prompts + run book are in $DEST/README.md"

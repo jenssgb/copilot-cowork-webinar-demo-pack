@@ -1,0 +1,12 @@
+Use strategy_offsite_transcript.docx. Extract the decisions made, the
+trade-offs and the action items with owners. Turn it into a 10-slide
+PowerPoint board deck:
+1. Title slide
+2. Executive summary
+3-7. One slide per key decision (with the trade-off behind it)
+8. Risks and dependencies
+9. Owners and timeline
+10. Next steps
+
+Input file: strategy_offsite_transcript.docx (raw ~90-minute transcript,
+5 speakers: CEO, CFO, VP Sales, VP Product, VP CS).

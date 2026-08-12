@@ -1,0 +1,11 @@
+Compare the three attached contract PDFs (Northwind, Contoso, Fabrikam). Create
+a comparison table across: term length, annual fee, payment terms,
+price-increase cap, SLA/uptime, support, liability cap, data protection and
+termination. Then write a 1-page Word report with a clear recommendation,
+the rationale, and the biggest risks per vendor.
+
+Input files:
+  contract_northwind.pdf
+  contract_contoso.pdf
+  contract_fabrikam.pdf
+(Synthetic sample contracts — not real agreements.)

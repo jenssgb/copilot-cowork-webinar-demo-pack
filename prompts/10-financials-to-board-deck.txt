@@ -1,0 +1,19 @@
+Use q3_financials.xlsx. Build a 12-slide board deck:
+1. Title
+2. Executive summary
+3. Revenue trend Q1-Q3
+4. EBITDA and net income trend
+5. Gross margin bridge
+6-7. Segment performance with QoQ growth
+8. KPI traffic-light (ARR, NRR, churn, runway)
+9. Cash and runway
+10. Variances to target
+11. Risks
+12. Recommendations / next steps
+
+Also write a 1-page Word commentary in CFO style that explains the numbers,
+flags variances to target, and gives 3 recommendations. Keep the numbers
+consistent across the deck and the commentary.
+
+Input file: q3_financials.xlsx (USD thousands; sheets: P&L Summary /
+Segment Revenue / KPIs & Cash).

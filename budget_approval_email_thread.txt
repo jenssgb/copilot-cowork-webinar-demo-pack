@@ -1,0 +1,71 @@
+From: Priya Nair (VP Sales)
+To: Dana Brooks (CEO); Marco Ferro (CFO); Sam Okafor (VP Product)
+Date: Mon, 4 Aug 2025 09:12
+Subject: Budget request — EMEA expansion, decision needed by Fri
+
+Hi all,
+
+I'm requesting an incremental USD 480k for H2 to accelerate EMEA. Breakdown:
+- 2 additional AEs (fully loaded): 260k
+- 1 sales engineer: 140k
+- Field marketing / events: 80k
+
+The EMEA pipeline is 3.1x coverage but we're capacity-constrained. If we don't add heads now, we miss the Q4 enterprise window. I need a decision by Friday to hit start dates.
+
+Priya
+
+-----------------------------------------------------------------------
+
+From: Marco Ferro (CFO)
+To: Priya Nair; Dana Brooks; Sam Okafor
+Date: Mon, 4 Aug 2025 14:40
+Subject: RE: Budget request — EMEA expansion, decision needed by Fri
+
+Priya,
+
+I'm supportive of EMEA but 480k is above what the current plan absorbs without touching the Security Suite gate. Two concerns:
+1. Ramp time — the last two EMEA hires took ~5 months to productivity. Half of H2 is gone before they contribute.
+2. We committed to a 300k incremental spend gate for Security Suite at the offsite. This request competes directly.
+
+Could we phase it? Approve the sales engineer now (140k), hold the 2 AEs until we see the design-partner gate cleared. That caps immediate exposure at 140k.
+
+Marco
+
+-----------------------------------------------------------------------
+
+From: Sam Okafor (VP Product)
+To: Marco Ferro; Priya Nair; Dana Brooks
+Date: Tue, 5 Aug 2025 08:05
+Subject: RE: Budget request — EMEA expansion, decision needed by Fri
+
+One dependency to flag: the enterprise deals Priya is targeting in EMEA need SSO + audit logging (the Security Suite work). If we fund EMEA AEs but slip the February date, those reps won't have the product to sell. I'd tie any AE approval to the February gate, not just to budget.
+
+Sam
+
+-----------------------------------------------------------------------
+
+From: Priya Nair (VP Sales)
+To: Sam Okafor; Marco Ferro; Dana Brooks
+Date: Tue, 5 Aug 2025 10:22
+Subject: RE: Budget request — EMEA expansion, decision needed by Fri
+
+Fair points. Counter-proposal:
+- Approve the sales engineer now (140k) — needed regardless.
+- Approve 1 AE now instead of 2 (130k), start in September.
+- Hold the 2nd AE until the design-partner gate is cleared.
+That's 270k now, 210k contingent. It keeps momentum without blowing the gate.
+
+I still think waiting costs us at least one Q4 enterprise deal (~200k ARR), but I can live with the phased plan.
+
+Priya
+
+-----------------------------------------------------------------------
+
+From: Dana Brooks (CEO)
+To: Priya Nair; Marco Ferro; Sam Okafor
+Date: Wed, 6 Aug 2025 17:48
+Subject: RE: Budget request — EMEA expansion, decision needed by Fri
+
+Thanks all — good debate. I want a crisp recommendation to decide on Friday. Someone please pull this into a one-page brief: the ask, the options (full / phased / hold), the trade-offs, the dependency on the February gate, and a clear recommendation with the numbers. Keep it board-ready.
+
+Dana

@@ -1,0 +1,11 @@
+Read budget_approval_email_thread.txt. Turn it into a 1-page, board-ready
+decision brief (Word) with:
+1. The request (what is being asked, and by when)
+2. The options discussed: full / phased / hold
+3. The key trade-offs and numbers for each option
+4. The dependency on the February product gate
+5. A clear recommendation with rationale
+6. Open questions to resolve before the decision
+
+Input file: budget_approval_email_thread.txt (6-message thread, 5 participants:
+CEO, CFO, VP Sales, VP Product).

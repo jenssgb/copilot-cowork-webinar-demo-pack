@@ -1,0 +1,14 @@
+Analyze employee_engagement_survey.csv. Compute average scores per question and
+per department, identify the 3 strongest and 3 weakest drivers, summarize the
+sentiment of the free-text answers, and create an 8-slide executive-summary
+deck with:
+1. Overall engagement score and response rate
+2. Scores by question (ranked)
+3. Scores by department (heatmap or ranked)
+4-5. Strongest and weakest drivers
+6. Free-text sentiment (themes: what's working / what to improve)
+7. Per-department highlights and risks
+8. Concrete recommended actions
+
+Input file: employee_engagement_survey.csv (90 responses, 6 Likert questions
+1-5, plus two free-text columns).
