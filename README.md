@@ -101,13 +101,12 @@ inputs and do not require an uploaded source file.
 
 ### 13 · Teams Executive Update
 
-**DE:** Vier Statuspunkte werden zu einem professionellen Teams-Post. Vor dem
-Webinar `[SICHERER DEMO-KANAL]` durch einen internen Testkanal ersetzen und die
-Post-Vorschau zeigen; erst nach Freigabe posten.
+**DE:** Vier Statuspunkte werden zu einem professionellen Teams-Post für den
+eigenen Teams-Chat (Chat mit mir selbst). Die Post-Vorschau zeigen und erst nach
+Freigabe posten.
 
-**EN:** Four status bullets become a professional Teams post. Replace
-`[SAFE DEMO CHANNEL]` with an internal test channel before the webinar, show
-the post preview, and post only after approval.
+**EN:** Four status bullets become a professional Teams post for your own Teams
+chat (chat with myself). Show the post preview and post only after approval.
 
 ### 14 · Outlook Customer Follow-up
 
@@ -130,22 +129,22 @@ archive, mark as read, or otherwise change messages; do not send the draft.
 
 ### 16 · Teams Incident Response — optional
 
-**DE:** Diese Demo ist ausdrücklich optional. Nur eine neue Nachricht im
-gewählten sicheren Kanal, die sowohl die exakte Markierung `[COWORK-DEMO]` als
+**DE:** Diese Demo ist ausdrücklich optional. Nur eine neue Teams-Kanalnachricht,
+die sowohl die exakte Markierung `[COWORK-DEMO]` als
 auch eine echte @Erwähnung des Demo-Benutzers enthält, startet eine neue
 Conversation. Der Run erstellt `Incident-Response-Brief.docx` sowie Outlook-
 und Teams-Entwürfe; Senden und Posten erfordern jeweils eine ausdrückliche
-Freigabe. Kanal einsetzen, den deterministischen Testfall aus dem Prompt
+Freigabe. Den deterministischen Testfall aus dem Prompt in einem internen Kanal
 ausführen und einen abgeschlossenen Run geöffnet halten. Wenn der Trigger nicht
 rechtzeitig feuert, den manuellen Fallback-Prompt in einer neuen Conversation
 verwenden.
 
-**EN:** This demo is explicitly optional. Only a new message in the chosen safe
-channel that both contains the exact marker `[COWORK-DEMO]` and genuinely
+**EN:** This demo is explicitly optional. Only a new Teams channel message that
+both contains the exact marker `[COWORK-DEMO]` and genuinely
 @mentions the demo user starts a new conversation. The run creates
 `Incident-Response-Brief.docx` plus Outlook and Teams drafts; sending and
-posting each require explicit approval. Set the channel, run the deterministic
-test case from the prompt, and keep a completed run open. If the trigger does
+posting each require explicit approval. Run the deterministic test case from
+the prompt in an internal channel and keep a completed run open. If the trigger does
 not fire in time, use the manual fallback prompt in a new conversation.
 
 ---
@@ -177,8 +176,10 @@ the run as Deep Research rather than guaranteed MCP tool use.
       dateibasierten Demo-Inputs nach OneDrive/SharePoint hochladen.
 - [ ] Pre-run the longer artifact demos and keep screenshots/results ready. /
       Längere Artefakt-Demos vorab ausführen und Screenshots/Ergebnisse bereithalten.
-- [ ] Choose and test a safe internal Teams channel for demos 13 and 16. / Einen
-      sicheren internen Teams-Kanal für Demos 13 und 16 auswählen und testen.
+- [ ] Verify your own Teams chat for demo 13; test demo 16 in an internal channel
+      using the marker and a genuine @mention. / Für Demo 13 den eigenen
+      Teams-Chat prüfen; Demo 16 in einem internen Kanal mit Marker und echter
+      @Erwähnung testen.
 - [ ] Confirm synthetic unread messages are available; demo 15 processes up to
       15. / Synthetische ungelesene Mails prüfen; Demo 15 verarbeitet höchstens 15.
 - [ ] Keep all communication actions in draft-and-approve mode. / Alle

@@ -4,6 +4,6 @@ Create a concise, professional Teams executive update for Project Aurora using t
 - Priya Nair owns EMEA enablement.
 - A decision is needed on extending the beta by two weeks or keeping the current date.
 
-Format the update for [SAFE DEMO CHANNEL] with a clear headline, brief status, owners and deadlines, and the decision needed. Use only these synthetic demo facts and do not invent confidential details.
+Format the update as a message for my own Teams chat (chat with myself) with a clear headline, brief status, owners and deadlines, and the decision needed. Use only these synthetic demo facts and do not invent confidential details.
 
-Show me the exact Teams message and the selected safe internal demo channel for approval. Do not post anything until I explicitly approve it.
+Show me the exact Teams message with my own Teams chat as the destination for approval. Do not post anything until I explicitly approve it.

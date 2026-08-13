@@ -1,20 +1,19 @@
 OPTIONALER EREIGNISGESTEUERTER PROMPT
 
 DETERMINISTISCHES SETUP
-1. Ersetze [SICHERER DEMO-KANAL] durch einen ausgewählten sicheren internen Teams-Kanal.
-2. Richte den folgenden Prompt ein.
-3. Poste im gewählten Kanal eine neue Nachricht, wähle mich über die Teams-Personenauswahl als echte @Erwähnung aus und verwende diesen Text:
+1. Richte den folgenden Prompt ein.
+2. Poste in einem internen Teams-Kanal eine neue Nachricht, wähle mich über die Teams-Personenauswahl als echte @Erwähnung aus und verwende diesen Text:
    [COWORK-DEMO] SEV-2: Checkout-Antwortzeiten liegen seit 11:40 Uhr über 4 Sekunden. Keine bestätigten Datenverluste. Nächstes Update um 12:15 Uhr.
-4. Prüfe, dass ein neuer Run mit Word-, Outlook- und Teams-Entwurf entsteht. Nichts freigeben oder veröffentlichen.
+3. Prüfe, dass ein neuer Run mit Word-, Outlook- und Teams-Entwurf entsteht. Nichts freigeben oder veröffentlichen.
 
-Löse diesen Workflow im ausgewählten sicheren Teams-Demo-Kanal [SICHERER DEMO-KANAL] nur aus, wenn eine neue Nachricht die exakte Markierung [COWORK-DEMO] enthält und mich per @Erwähnung nennt. Ignoriere Nachrichten, die nicht beide Bedingungen erfüllen.
+Löse diesen Workflow nur bei einer neuen Teams-Kanalnachricht aus, die die exakte Markierung [COWORK-DEMO] enthält und mich per @Erwähnung nennt. Ignoriere private Chats und alle Nachrichten, die nicht beide Bedingungen erfüllen.
 
 Starte für jeden passenden Auslöser eine neue Unterhaltung und:
 1. Fasse den gemeldeten Vorfall, die Auswirkungen, die Dringlichkeit, bekannte Fakten und offene Fragen zusammen.
 2. Sammle relevanten Microsoft-365-Kontext aus der zugehörigen Teams-Unterhaltung, Dateien, E-Mails, dem Kalender und anderem verfügbaren Arbeitskontext. Erfinde keine fehlenden Fakten.
 3. Erstelle „Incident-Response-Brief.docx“ mit Management-Zusammenfassung, Zeitachse, Auswirkungen, Verantwortlichen, Sofortmaßnahmen, Abhängigkeiten, Risiken und dem Zeitpunkt des nächsten Updates.
 4. Entwirf eine Outlook-E-Mail an die Stakeholder.
-5. Entwirf ein Teams-Statusupdate für den ausgewählten sicheren Demo-Kanal.
+5. Entwirf ein Teams-Statusupdate als Antwort in derselben Teams-Unterhaltung, aus der der Trigger kam.
 
 Zeige mir die Dokumentzusammenfassung, den E-Mail-Entwurf, die Empfänger, den Teams-Entwurf und den Zielkanal zur Genehmigung. Sende die E-Mail nicht und veröffentliche das Teams-Update nicht, bis ich jede Aktion ausdrücklich genehmigt habe.
 
@@ -23,8 +22,8 @@ MANUELLER FALLBACK-PROMPT
 ============================================================
 
 Behandle den folgenden Text als neue Vorfallsmeldung für eine sichere interne Demo:
-[HIER EINE NACHRICHT MIT [COWORK-DEMO] UND EINER @ERWÄHNUNG VON MIR EINFÜGEN]
+[COWORK-DEMO] SEV-2: Checkout-Antwortzeiten liegen seit 11:40 Uhr über 4 Sekunden. Keine bestätigten Datenverluste. Nächstes Update um 12:15 Uhr.
 
-Starte für diesen Durchlauf eine neue Unterhaltung. Fasse den Vorfall zusammen, sammle relevanten Microsoft-365-Kontext und erstelle „Incident-Response-Brief.docx“ mit Management-Zusammenfassung, Zeitachse, Auswirkungen, Verantwortlichen, Sofortmaßnahmen, Abhängigkeiten, Risiken und dem Zeitpunkt des nächsten Updates. Entwirf eine Outlook-E-Mail an die Stakeholder und ein Teams-Statusupdate für [SICHERER DEMO-KANAL]. Zeige alle Entwürfe, Empfänger und den Zielkanal zur Genehmigung. Sende oder veröffentliche nichts, bis ich es ausdrücklich genehmigt habe.
+Starte für diesen Durchlauf eine neue Unterhaltung. Fasse den Vorfall zusammen, sammle relevanten Microsoft-365-Kontext und erstelle „Incident-Response-Brief.docx“ mit Management-Zusammenfassung, Zeitachse, Auswirkungen, Verantwortlichen, Sofortmaßnahmen, Abhängigkeiten, Risiken und dem Zeitpunkt des nächsten Updates. Entwirf eine Outlook-E-Mail an die Stakeholder und ein Teams-Statusupdate für meinen eigenen Teams-Chat (Chat mit mir selbst). Zeige alle Entwürfe, Empfänger und den Zielchat zur Genehmigung. Sende oder veröffentliche nichts, bis ich es ausdrücklich genehmigt habe.
 
 LIVE-FALLBACK: Halte zusätzlich einen erfolgreich abgeschlossenen Testlauf geöffnet. Wenn der Event-Trigger live nicht rechtzeitig feuert, zeige diesen abgeschlossenen Run oder starte den manuellen Fallback oben in einer neuen Unterhaltung.
