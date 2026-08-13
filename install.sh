@@ -4,7 +4,7 @@
 set -euo pipefail
 
 DEST="${1:-cowork-webinar-demo-pack}"
-BASE="https://agent-ui.jens-lab.com/projects/copilot-demos/files"
+BASE="https://raw.githubusercontent.com/jenssgb/copilot-cowork-webinar-demo-pack/main"
 FILES=(
   product_margin_raw.xlsx
   c21_qbr_prep_cross_app.xlsx
