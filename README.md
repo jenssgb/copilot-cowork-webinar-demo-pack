@@ -120,21 +120,33 @@ the demo mailbox itself as the safe recipient.
 ### 15 · Inbox Triage to Excel
 
 **DE:** Cowork prüft höchstens 15 ungelesene synthetische Mails, erstellt
-`Inbox-Action-Register.xlsx` und entwirft eine Antwort. Nichts löschen,
-verschieben oder senden.
+`Inbox-Action-Register.xlsx` und entwirft eine Antwort. Nachrichten nicht
+löschen, verschieben, archivieren, als gelesen markieren oder anderweitig
+verändern; den Entwurf nicht senden.
 
 **EN:** Cowork reviews no more than 15 unread synthetic messages, creates
-`Inbox-Action-Register.xlsx`, and drafts one reply. Do not delete, move, or send.
+`Inbox-Action-Register.xlsx`, and drafts one reply. Do not delete, move,
+archive, mark as read, or otherwise change messages; do not send the draft.
 
 ### 16 · Teams Incident Response — optional
 
-**DE:** Eine eng begrenzte `[COWORK-DEMO]`-@Mention startet einen Event-Run, der
-ein Incident-Briefing sowie Mail- und Teams-Entwürfe vorbereitet. Vorab testen
-und einen abgeschlossenen Run als Fallback geöffnet halten.
+**DE:** Diese Demo ist ausdrücklich optional. Nur eine neue Nachricht im
+gewählten sicheren Kanal, die sowohl die exakte Markierung `[COWORK-DEMO]` als
+auch eine echte @Erwähnung des Demo-Benutzers enthält, startet eine neue
+Conversation. Der Run erstellt `Incident-Response-Brief.docx` sowie Outlook-
+und Teams-Entwürfe; Senden und Posten erfordern jeweils eine ausdrückliche
+Freigabe. Kanal einsetzen, den deterministischen Testfall aus dem Prompt
+ausführen und einen abgeschlossenen Run geöffnet halten. Wenn der Trigger nicht
+rechtzeitig feuert, den manuellen Fallback-Prompt in einer neuen Conversation
+verwenden.
 
-**EN:** A narrowly scoped `[COWORK-DEMO]` @mention starts an event run that
-prepares an incident brief plus email and Teams drafts. Test it beforehand and
-keep a completed run open as the fallback.
+**EN:** This demo is explicitly optional. Only a new message in the chosen safe
+channel that both contains the exact marker `[COWORK-DEMO]` and genuinely
+@mentions the demo user starts a new conversation. The run creates
+`Incident-Response-Brief.docx` plus Outlook and Teams drafts; sending and
+posting each require explicit approval. Set the channel, run the deterministic
+test case from the prompt, and keep a completed run open. If the trigger does
+not fire in time, use the manual fallback prompt in a new conversation.
 
 ---
 
@@ -156,15 +168,26 @@ the run as Deep Research rather than guaranteed MCP tool use.
 
 ## Pre-flight / Vor dem Webinar
 
-- [ ] Select **EN** in the hub and open every tab once.
+- [ ] Select **EN** in the hub and open every tab once. / Im Hub **EN**
+      auswählen und jeden Tab einmal öffnen.
 - [ ] Seed the English tenant session with
-      `python cwdemo.py session --session 2`.
-- [ ] Upload the file-based demo inputs to OneDrive/SharePoint.
-- [ ] Pre-run the longer artifact demos and keep screenshots/results ready.
-- [ ] Choose and test a safe internal Teams channel for demos 13 and 16.
-- [ ] Confirm synthetic unread messages are available; demo 15 processes up to 15.
-- [ ] Keep all communication actions in draft-and-approve mode.
-- [ ] Treat demo 16 as optional; keep its manual prompt and completed run ready.
+      `python cwdemo.py session --session 2`. / Die englischen Tenant-Daten mit
+      `python cwdemo.py session --session 2` bereitstellen.
+- [ ] Upload the file-based demo inputs to OneDrive/SharePoint. / Die
+      dateibasierten Demo-Inputs nach OneDrive/SharePoint hochladen.
+- [ ] Pre-run the longer artifact demos and keep screenshots/results ready. /
+      Längere Artefakt-Demos vorab ausführen und Screenshots/Ergebnisse bereithalten.
+- [ ] Choose and test a safe internal Teams channel for demos 13 and 16. / Einen
+      sicheren internen Teams-Kanal für Demos 13 und 16 auswählen und testen.
+- [ ] Confirm synthetic unread messages are available; demo 15 processes up to
+      15. / Synthetische ungelesene Mails prüfen; Demo 15 verarbeitet höchstens 15.
+- [ ] Keep all communication actions in draft-and-approve mode. / Alle
+      Kommunikationsaktionen im Modus „Entwurf und Freigabe“ belassen.
+- [ ] Pre-run demos 13–15 and keep verified post/email previews,
+      `Inbox-Action-Register.xlsx`, and screenshots open as fallbacks. / Demos
+      13–15 vorab ausführen und geprüfte Vorschauen, Register und Screenshots öffnen.
+- [ ] Treat demo 16 as optional; keep its manual prompt and completed run ready. /
+      Demo 16 optional halten; manuellen Prompt und abgeschlossenen Run bereithalten.
 
 ---
 

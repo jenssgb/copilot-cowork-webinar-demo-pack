@@ -1,5 +1,12 @@
 OPTIONAL EVENT-DRIVEN PROMPT
 
+DETERMINISTIC SETUP
+1. Replace [SAFE DEMO CHANNEL] with one chosen safe internal Teams channel.
+2. Configure the prompt below.
+3. In the chosen channel, post a new message, select me through the Teams people picker as a genuine @mention, and use this text:
+   [COWORK-DEMO] SEV-2: Checkout response times have exceeded 4 seconds since 11:40. No confirmed data loss. Next update at 12:15.
+4. Verify that a new run creates Word, Outlook, and Teams drafts. Do not approve or publish anything.
+
 In the chosen safe Teams demo channel [SAFE DEMO CHANNEL], trigger this workflow only when a new message contains the exact marker [COWORK-DEMO] and @mentions me. Ignore messages that do not satisfy both conditions.
 
 For every qualifying trigger, start a new conversation and:
@@ -19,3 +26,5 @@ Treat the following as a new incident report for a safe internal demo:
 [PASTE A MESSAGE CONTAINING [COWORK-DEMO] AND A MENTION OF ME HERE]
 
 Start a new conversation for this run. Summarize the incident, gather relevant Microsoft 365 context, and create "Incident-Response-Brief.docx" with an executive summary, timeline, impact, owners, immediate actions, dependencies, risks, and next update time. Draft a stakeholder Outlook email and a Teams status update for [SAFE DEMO CHANNEL]. Show all drafts, recipients, and the destination channel for approval. Do not send or post anything until I explicitly approve it.
+
+LIVE FALLBACK: Also keep a successfully completed test run open. If the event trigger does not fire in time during the live session, show that completed run or start the manual fallback above in a new conversation.
