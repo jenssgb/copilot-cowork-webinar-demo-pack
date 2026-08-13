@@ -162,7 +162,7 @@ the run as Deep Research rather than guaranteed MCP tool use.
 - [ ] Upload the file-based demo inputs to OneDrive/SharePoint.
 - [ ] Pre-run the longer artifact demos and keep screenshots/results ready.
 - [ ] Choose and test a safe internal Teams channel for demos 13 and 16.
-- [ ] Confirm at least 15 synthetic unread messages for demo 15.
+- [ ] Confirm synthetic unread messages are available; demo 15 processes up to 15.
 - [ ] Keep all communication actions in draft-and-approve mode.
 - [ ] Treat demo 16 as optional; keep its manual prompt and completed run ready.
 
