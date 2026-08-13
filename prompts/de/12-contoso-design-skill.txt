@@ -1,0 +1,43 @@
+Erstelle einen wiederverwendbaren Cowork-Skill namens „Contoso Design System“,
+der Anfragen in konsistent gestaltete Contoso-Artefakte umsetzt, insbesondere
+HTML-E-Mails, PowerPoint-Präsentationen und Word-/PDF-Dokumente.
+
+1. FUNDIERTE RECHERCHE
+   Recherchiere Contoso als fiktives Microsoft-Beispielunternehmen. Priorisiere
+   Microsoft Learn, Microsoft-eigene GitHub-Repositorys und andere
+   Microsoft-Quellen. Trenne verifizierte Fakten, Designentscheidungen aus
+   einzelnen Contoso-Beispielen und eigene Annahmen klar voneinander. Behaupte
+   nicht, es gebe eine einheitliche offizielle Contoso-Corporate-Identity,
+   sofern die Quellen dies nicht belegen.
+
+2. DESIGNSYSTEM
+   Leite ein schlüssiges Demo-Designsystem ab: Farbpalette mit HEX-Werten und
+   Nutzungsregeln, Typografie, Abstände, Layout, Tabellen, Schaltflächen,
+   Hervorhebungen, Bildsprache, Barrierefreiheit sowie Logo-/Wortmarkenregeln.
+   Nutze nur eindeutig wiederverwendbare Microsoft-Assets; erstelle andernfalls
+   eine einfache textbasierte Contoso-Wortmarke, statt ein Drittanbieterlogo zu kopieren.
+
+3. SKILL-VERWALTUNG
+   Erstelle unter Customize -> Skills einen Skill namens „Contoso Design System“.
+   Er soll bei Anfragen nach Contoso-gebrandeten E-Mails, Präsentationen,
+   Word-/PDF-Dokumenten und ähnlichen Kommunikationsartefakten aktiviert werden.
+   Erstelle eine präzise SKILL.md sowie die Begleitdateien brand-guidelines.md,
+   email-template.html und presentation-guidelines.md.
+
+4. QUALITÄTSREGELN
+   HTML-E-Mails müssen Outlook-kompatibel, responsiv und barrierefrei sein und
+   Inline-CSS verwenden. PowerPoint-Präsentationen benötigen konsistente
+   Masterlayouts, eine klare Hierarchie, ausreichenden Kontrast und höchstens
+   eine Kernaussage je Folie. Erfinde oder verändere niemals Inhalte zugunsten
+   des Brandings.
+
+5. LIVE-ABNAHMETEST
+   Zeige mir zuerst die Recherche und die vorgeschlagenen Designentscheidungen.
+   Teste den Skill anschließend, indem du einen Contoso-HTML-E-Mail-Entwurf und
+   eine Contoso-Präsentation mit 5 Folien und dem Titel „Q4 Customer Innovation
+   Update“ erstellst. Speichere die E-Mail nur als Entwurf; nicht senden.
+
+6. ABSCHLUSS
+   Liste die Quellen, Annahmen, erstellten Skill-Dateien und den kurzen Prompt
+   auf, den ich beim nächsten Mal verwenden kann. Warte auf meine Genehmigung,
+   bevor du den Skill speicherst oder eine externe Aktion ausführst.

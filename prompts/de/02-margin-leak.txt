@@ -1,0 +1,6 @@
+Öffne product_margin_raw.xlsx. Erstelle eine Arbeitsmappe zur Produktmargenanalyse:
+1. MARGEN-DASHBOARD: Gesamtmarge in %, Gesamtumsatz, Gesamtgewinn, Anzahl der Produkte mit negativer Marge, durchschnittliche Marge nach Kategorie, eine RAG-Ampel (Grün >=25 %, Gelb 10–24 %, Rot <10 %) und ein Ringdiagramm des Umsatzes nach Kategorie.
+2. BLATT „MARGENKILLER“: alle Produkte mit einer Marge <10 %, sortiert nach Gesamtauswirkung auf den Gewinn (schlechteste zuerst), mit einer Spalte „Empfohlene Maßnahme“.
+3. PIVOT „KANALPROFITABILITÄT“: durchschnittliche Marge in % und Gesamtgewinn je Vertriebskanal, mit einem Balkendiagramm.
+4. MANAGEMENT-ZUSAMMENFASSUNG: unternehmensweite Marge in % sowie die 3 wichtigsten Empfehlungen.
+(Berechne die Stückmarge aus Listenpreis, COGS, Kanalgebühr, Werbung pro Einheit und Rabatt in %.)

@@ -1,0 +1,14 @@
+Draft a professional follow-up email to admin@M365CPI98544940.onmicrosoft.com from these meeting notes:
+- The pilot starts on 1 September.
+- Contoso provides the user list by Wednesday.
+- We send the security documentation and training plan by Friday.
+- Open decision: enable SSO for EMEA first or globally.
+
+Structure the email with:
+1. A concise meeting recap
+2. Decisions made
+3. Action items with owner and deadline
+4. A clear question about the open decision
+5. A professional closing and next step
+
+Use only this synthetic demo content. Show me the complete Outlook draft and recipient for approval. Do not send the email until I explicitly approve it.

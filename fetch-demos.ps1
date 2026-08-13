@@ -24,6 +24,12 @@ $Map = [ordered]@{
   '09_Contracts'                = 'contract_northwind.pdf,contract_contoso.pdf,contract_fabrikam.pdf'
   '10_Financials'               = 'q3_financials.xlsx'
   '11_Email-to-Decision'        = 'budget_approval_email_thread.txt'
+  '12_Contoso-Design-Skill_LIVE-no-file' = ''
+  '13_Teams-Executive-Update_LIVE' = ''
+  '14_Outlook-Follow-up_LIVE' = ''
+  '15_Inbox-to-Excel_LIVE' = ''
+  '16_Teams-Incident-Response_OPTIONAL' = ''
+  'Automation_Event-Driven-Learn-Reply' = 'event-driven-learn-trigger-email.txt'
 }
 
 Write-Host "→ Target: $Root"
@@ -50,6 +56,26 @@ foreach ($demo in $Map.Keys) {
   foreach ($f in $Map[$demo].Split(',')) { Copy-Item $cache[$f] (Join-Path $dir $f) -Force }
 }
 
+$PromptNames = 1..16 | ForEach-Object {
+  switch ($_){
+    1 {'01-executive-week-ahead.txt'} 2 {'02-margin-leak.txt'} 3 {'03-weekly-1on1-prep.txt'}
+    4 {'04-qbr-prep-cross-app.txt'} 5 {'05-product-launch-command-center.txt'}
+    6 {'06-sales-performance-cockpit.txt'} 7 {'07-offsite-transcript-to-deck.txt'}
+    8 {'08-engagement-survey-to-deck.txt'} 9 {'09-contracts-compare-to-word.txt'}
+    10 {'10-financials-to-board-deck.txt'} 11 {'11-email-thread-to-decision.txt'}
+    12 {'12-contoso-design-skill.txt'} 13 {'13-teams-executive-update.txt'}
+    14 {'14-outlook-customer-follow-up.txt'} 15 {'15-inbox-triage-to-excel.txt'}
+    16 {'16-teams-incident-response.txt'}
+  }
+}
+foreach ($lang in @('de','en')) {
+  $promptDir = Join-Path $Root ("_Prompts_" + $lang.ToUpperInvariant())
+  New-Item -ItemType Directory -Force -Path $promptDir | Out-Null
+  foreach ($name in $PromptNames) {
+    Invoke-WebRequest "$Base/prompts/$lang/$name" -OutFile (Join-Path $promptDir $name)
+  }
+}
+
 $unique | ForEach-Object { Remove-Item $cache[$_] -ErrorAction SilentlyContinue }
-Write-Host "✅ Done — $($Map.Count) demo folders in $Root"
+Write-Host "✅ Done — $($Map.Count) demo folders + DE/EN prompts in $Root"
 Start-Process explorer.exe $Root

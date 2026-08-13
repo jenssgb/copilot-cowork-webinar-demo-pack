@@ -1,0 +1,41 @@
+Build a reusable Cowork skill named "Contoso Design System" that turns a
+request into consistently designed Contoso artefacts, especially HTML emails,
+PowerPoint presentations, and Word/PDF documents.
+
+1. DEEP RESEARCH
+   Research Contoso as Microsoft's fictional sample company. Prioritize
+   Microsoft Learn, Microsoft-owned GitHub repositories, and other Microsoft
+   sources. Clearly separate verified facts, design choices from individual
+   Contoso samples, and your assumptions. Do not claim there is one official
+   Contoso corporate identity unless the sources establish that.
+
+2. DESIGN SYSTEM
+   Derive a coherent demo design system: color palette with HEX values and
+   usage rules, typography, spacing, layout, tables, buttons, callouts, imagery,
+   accessibility, and logo/wordmark rules. Use only clearly reusable Microsoft
+   assets; otherwise create a simple text-based Contoso wordmark instead of
+   copying a third-party logo.
+
+3. SKILL MANAGEMENT
+   Under Customize -> Skills, create a skill named "Contoso Design System".
+   It should activate for requests for Contoso-branded emails, presentations,
+   Word/PDF documents, and similar communication artefacts. Create a precise
+   SKILL.md plus brand-guidelines.md, email-template.html, and
+   presentation-guidelines.md companion files.
+
+4. QUALITY RULES
+   HTML emails must be Outlook-compatible, responsive, accessible, and use
+   inline CSS. PowerPoints need consistent master layouts, clear hierarchy,
+   sufficient contrast, and no more than one core message per slide. Never
+   invent or alter content for the sake of branding.
+
+5. LIVE ACCEPTANCE TEST
+   First show me the research and proposed design decisions. Then test the skill
+   by creating a Contoso HTML email draft and a 5-slide Contoso presentation
+   titled "Q4 Customer Innovation Update". Save the email as a draft only; do
+   not send it.
+
+6. WRAP-UP
+   List the sources, assumptions, created skill files, and the short prompt I
+   can use next time. Wait for my approval before saving the skill or taking
+   any external action.

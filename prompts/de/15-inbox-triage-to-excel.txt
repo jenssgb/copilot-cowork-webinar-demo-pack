@@ -1,0 +1,10 @@
+Prüfe höchstens 15 ungelesene Nachrichten in meinem Posteingang und führe eine klar begrenzte Triage durch.
+
+1. Klassifiziere jede geprüfte Nachricht als DRINGEND, DELEGIERBAR oder KEINE AKTION.
+2. Lösche, verschiebe, archiviere oder verändere keine Nachricht und markiere keine Nachricht als gelesen.
+3. Erstelle eine Excel-Arbeitsmappe namens „Inbox-Action-Register.xlsx“ mit diesen Spalten:
+   Absender | Betreff | Kategorie | Verantwortlich | Frist | Empfohlene Maßnahme | Status
+4. Stütze jeden Eintrag ausschließlich auf Informationen aus der geprüften Nachricht. Kennzeichne unbekannte Verantwortliche oder Fristen eindeutig als „Nicht angegeben“.
+5. Ermittle die einzelne Nachricht mit der höchsten Priorität und entwirf dafür eine prägnante Antwort.
+
+Speichere die Arbeitsmappe und zeige mir anschließend den Antwortentwurf und den Empfänger zur Prüfung. Sende die Antwort nicht.

@@ -1,0 +1,6 @@
+Bereite anhand von c30_executive_week_ahead.xlsx meine kommende Woche vor.
+1. Wähle im Blatt „Calendar Next Week“ anhand der Priorität die 5 wichtigsten externen Termine aus.
+2. Recherchiere für jeden Termin das Unternehmen und die Rolle der teilnehmenden Person (nutze die Spalte „Context“ und die unternehmensweite Suche) und erstelle ein einseitiges Briefing in Word: Wer nimmt teil, warum ist der Termin wichtig, 3 Gesprächspunkte und 1 Risiko.
+3. Liste aus dem Blatt „Pending Emails“ alle E-Mails auf, die eine Entscheidung von mir erfordern, jeweils mit einem empfohlenen nächsten Schritt.
+4. Entwirf kurze vorbereitende E-Mails für die 3 wichtigsten Termine. Speichere sie zur Genehmigung als Entwürfe — nicht senden.
+Speichere alle Briefings auf OneDrive als „Week-Ahead Briefings.docx“.

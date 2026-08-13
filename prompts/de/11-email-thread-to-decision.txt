@@ -1,0 +1,11 @@
+Lies budget_approval_email_thread.txt. Erstelle daraus eine einseitige,
+vorstandsgeeignete Entscheidungsvorlage in Word mit:
+1. Der Anfrage (was bis wann entschieden werden soll)
+2. Den diskutierten Optionen: vollständig / stufenweise / zurückstellen
+3. Den wichtigsten Abwägungen und Zahlen für jede Option
+4. Der Abhängigkeit vom Produkt-Gate im Februar
+5. Einer klaren Empfehlung mit Begründung
+6. Offenen Fragen, die vor der Entscheidung geklärt werden müssen
+
+Eingabedatei: budget_approval_email_thread.txt (Thread mit 6 Nachrichten und
+5 Beteiligten: CEO, CFO, VP Sales, VP Product).

@@ -1,0 +1,9 @@
+Erstelle anhand dieser vorgegebenen Fakten ein prägnantes, professionelles Teams-Update für die Geschäftsleitung zu Project Aurora:
+- Der Launch liegt im Plan.
+- Die Sicherheitsprüfung ist bis Freitag fällig.
+- Priya Nair ist für das EMEA-Enablement verantwortlich.
+- Entscheidung nötig: Betaphase um zwei Wochen verlängern oder am aktuellen Termin festhalten.
+
+Formatiere das Update für [SICHERER DEMO-KANAL] mit einer klaren Überschrift, einem kurzen Status, Verantwortlichen und Fristen sowie der erforderlichen Entscheidung. Verwende ausschließlich diese synthetischen Demo-Fakten und erfinde keine vertraulichen Details.
+
+Zeige mir die exakte Teams-Nachricht und den ausgewählten sicheren internen Demo-Kanal zur Genehmigung. Veröffentliche nichts, bis ich es ausdrücklich genehmigt habe.

@@ -1,0 +1,6 @@
+Erstelle anhand von c21_qbr_prep_cross_app.xlsx ein vollständiges Q3-QBR-Vorbereitungspaket für Apex Financial Services (Health Score 61, NPS 6,1, 14 offene Supporttickets, Expansionschance von 80.000 USD — ein ROTES Kundenkonto).
+1. EXCEL — Fasse die wichtigsten Kennzahlen, Risiken und das Expansionspotenzial von Apex zusammen.
+2. POWERPOINT — Erstelle eine QBR-Präsentation mit 12 Folien und RAG-Indikatoren.
+3. WORD — Erstelle eine formelle 60-minütige QBR-Agenda mit Zeitaufteilung.
+4. OUTLOOK — Entwirf die Pre-Read-E-Mail an den Champion (CC: Executive Sponsor). Speichere sie zur Genehmigung als Entwurf.
+5. KALENDER — Finde nächste Woche ein 60-minütiges Zeitfenster und erstelle die QBR-Einladung. Zeige sie mir vor dem Erstellen zur Genehmigung.

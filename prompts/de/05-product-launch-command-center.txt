@@ -1,0 +1,7 @@
+Setze anhand von c24_product_launch_tracker.xlsx unseren Q3-Produktlaunch für Aurora AI Analytics auf:
+1. Erstelle die GTM-Checkliste in Excel mit Verantwortlichen und Fristen.
+2. Verfasse das zweiseitige Launch-Briefing in Word.
+3. Erstelle eine Launch-Präsentation mit 10 Folien in PowerPoint.
+4. Entwirf die Kick-off-E-Mail an alle 12 Stakeholder. Speichere sie zur Genehmigung als Entwurf — nicht senden.
+5. Plane das Launch-War-Room-Meeting für nächsten Montag. Zeige es mir vor dem Erstellen zur Genehmigung.
+6. Bereite einen Teams-Kanal namens „Project Aurora Launch“ mit angeheftetem Briefing vor. Zeige ihn mir vor dem Erstellen zur Genehmigung.

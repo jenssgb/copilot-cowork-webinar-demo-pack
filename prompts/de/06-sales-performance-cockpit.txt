@@ -1,0 +1,12 @@
+Öffne regional_sales_raw.xlsx. Bereinige zuerst die Daten: Vereinheitliche die
+Regionsnamen (z. B. „Asia-Pac“ = „APAC“) und behandle leere Zellen. Erstelle
+anschließend ein Vertriebsleistungs-Dashboard:
+1. ZIELERREICHUNG: je Region als RAG-Ampel (Grün >=100 % des Ziels,
+   Gelb 85–99 %, Rot <85 %) sowie die Gesamtzielerreichung.
+2. TREND: Umsatz im Vergleich zum Ziel über die Monate als Liniendiagramm.
+3. PRODUKTLINIEN: stärkste und schwächste Produktlinien je Region.
+4. MANAGEMENT-ZUSAMMENFASSUNG: die 3 wichtigsten Erkenntnisse und empfohlenen Maßnahmen.
+
+Datendatei: regional_sales_raw.xlsx (192 Zeilen, Blätter: Sales Data /
+Quarterly Targets / Rep Roster). Hinweis: Die Regionsbezeichnungen sind
+absichtlich uneinheitlich und einige Zellen sind leer — Cowork soll diese zuerst bereinigen.

@@ -1,0 +1,19 @@
+Nutze q3_financials.xlsx. Erstelle eine Vorstandspräsentation mit 12 Folien:
+1. Titel
+2. Management-Zusammenfassung
+3. Umsatztrend Q1–Q3
+4. Trend von EBITDA und Nettoergebnis
+5. Brücke der Bruttomarge
+6–7. Segmententwicklung mit QoQ-Wachstum
+8. KPI-Ampel (ARR, NRR, Churn, Runway)
+9. Liquidität und Runway
+10. Abweichungen vom Ziel
+11. Risiken
+12. Empfehlungen / nächste Schritte
+
+Verfasse außerdem einen einseitigen Word-Kommentar im Stil eines CFO, der die
+Zahlen erläutert, Abweichungen vom Ziel hervorhebt und 3 Empfehlungen gibt.
+Halte die Zahlen in der Präsentation und im Kommentar konsistent.
+
+Eingabedatei: q3_financials.xlsx (Tausend USD; Blätter: P&L Summary /
+Segment Revenue / KPIs & Cash).

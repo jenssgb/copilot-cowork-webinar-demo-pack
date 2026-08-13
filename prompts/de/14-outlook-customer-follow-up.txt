@@ -1,0 +1,14 @@
+Entwirf eine professionelle Follow-up-Mail an admin@M365CPI98544940.onmicrosoft.com aus diesen Gesprächsnotizen:
+- Der Pilot startet am 1. September.
+- Contoso liefert die Benutzerliste bis Mittwoch.
+- Wir schicken Security-Dokumentation und Trainingsplan bis Freitag.
+- Offene Entscheidung: SSO zuerst für EMEA oder global aktivieren.
+
+Strukturiere die Mail mit:
+1. Einer kurzen Gesprächszusammenfassung
+2. Den getroffenen Entscheidungen
+3. Action Items mit Owner und Termin
+4. Einer klaren Frage zur offenen Entscheidung
+5. Einem professionellen Abschluss und nächsten Schritt
+
+Nutze nur diese synthetischen Demoinhalte. Zeige mir den vollständigen Outlook-Entwurf und den Empfänger zur Freigabe. Sende die Mail erst nach meiner ausdrücklichen Bestätigung.

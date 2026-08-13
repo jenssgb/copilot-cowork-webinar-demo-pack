@@ -1,0 +1,10 @@
+Inspect at most 15 unread messages in my inbox and perform a bounded triage.
+
+1. Classify each inspected message as URGENT, DELEGABLE, or NO ACTION.
+2. Do not delete, move, archive, mark as read, or otherwise change any message.
+3. Create an Excel workbook named "Inbox-Action-Register.xlsx" with these columns:
+   Sender | Subject | Category | Owner | Deadline | Recommended Action | Status
+4. Base each entry only on information in the inspected message. Clearly mark unknown owners or deadlines as "Not specified".
+5. Identify the single highest-priority message and draft one concise reply for it.
+
+Save the workbook, then show me the draft reply and its recipient for review. Do not send the reply.

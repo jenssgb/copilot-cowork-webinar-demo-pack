@@ -2,6 +2,6 @@ Using c24_product_launch_tracker.xlsx, stand up our Q3 product launch for Aurora
 1. Build the GTM checklist in Excel with owners and deadlines.
 2. Write the 2-page launch brief in Word.
 3. Generate a 10-slide launch deck in PowerPoint.
-4. Send the stakeholder kickoff email to all 12 stakeholders. Keep it as a draft for my approval.
+4. Draft the stakeholder kickoff email to all 12 stakeholders. Keep it as a draft for my approval — do not send.
 5. Schedule the launch war-room meeting for next Monday. Show it to me for approval before creating it.
-6. Open a Teams channel "Project Aurora Launch" with the brief pinned.
+6. Prepare a Teams channel named "Project Aurora Launch" with the brief pinned. Show it to me for approval before creating the channel.

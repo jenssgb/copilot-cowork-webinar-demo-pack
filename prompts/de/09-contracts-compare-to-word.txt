@@ -1,0 +1,11 @@
+Vergleiche die drei angehängten Vertrags-PDFs (Northwind, Contoso, Fabrikam).
+Erstelle eine Vergleichstabelle zu: Laufzeit, Jahresgebühr, Zahlungsbedingungen,
+Obergrenze für Preiserhöhungen, SLA/Verfügbarkeit, Support, Haftungsobergrenze,
+Datenschutz und Kündigung. Verfasse anschließend einen einseitigen Word-Bericht
+mit einer klaren Empfehlung, der Begründung und den größten Risiken je Anbieter.
+
+Eingabedateien:
+  contract_northwind.pdf
+  contract_contoso.pdf
+  contract_fabrikam.pdf
+(Synthetische Musterverträge — keine echten Vereinbarungen.)

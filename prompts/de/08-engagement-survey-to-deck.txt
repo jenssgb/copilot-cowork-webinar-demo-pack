@@ -1,0 +1,14 @@
+Analysiere employee_engagement_survey.csv. Berechne die Durchschnittswerte je
+Frage und je Abteilung, identifiziere die 3 stärksten und 3 schwächsten
+Einflussfaktoren, fasse die Stimmung der Freitextantworten zusammen und erstelle
+eine Management-Präsentation mit 8 Folien:
+1. Gesamtwert für Mitarbeiterengagement und Rücklaufquote
+2. Werte nach Frage (sortiert)
+3. Werte nach Abteilung (Heatmap oder Rangfolge)
+4–5. Stärkste und schwächste Einflussfaktoren
+6. Stimmung der Freitextantworten (Themen: Was funktioniert / was ist zu verbessern?)
+7. Highlights und Risiken je Abteilung
+8. Konkrete Handlungsempfehlungen
+
+Eingabedatei: employee_engagement_survey.csv (90 Antworten, 6 Likert-Fragen
+von 1 bis 5 sowie zwei Freitextspalten).

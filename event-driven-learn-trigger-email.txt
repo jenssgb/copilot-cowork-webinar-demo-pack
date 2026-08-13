@@ -1,0 +1,48 @@
+EVENT-DRIVEN MICROSOFT LEARN DEMO
+=================================
+
+Send this message from a separate mailbox to the Cowork demo mailbox after
+the event-driven task has been activated.
+
+TO
+admin@M365CPI98544940.onmicrosoft.com
+
+SUBJECT (DE)
+[COWORK-DEMO] Technische Frage: App Service mit Key Vault verbinden
+
+SUBJECT (EN)
+[COWORK-DEMO] Technical question: connect App Service to Key Vault
+
+BODY (DE)
+Hallo,
+
+wir möchten eine Azure App Service Web-App ohne Client Secret auf Geheimnisse
+in Azure Key Vault zugreifen lassen.
+
+Welche Schritte sind dafür mit einer systemseitig zugewiesenen Managed Identity
+erforderlich? Bitte beschreibe auch die notwendigen Key-Vault-Berechtigungen,
+die Konfiguration in App Service und wie wir den Zugriff testen können.
+
+Bitte stütze die Antwort auf aktuelle offizielle Microsoft-Learn-Dokumentation
+und füge die verwendeten Links hinzu.
+
+Viele Grüße
+Alex Wilber
+Contoso IT
+
+BODY (EN)
+Hello,
+
+we want an Azure App Service web app to access secrets in Azure Key Vault
+without using a client secret.
+
+Which steps are required when using a system-assigned managed identity? Please
+also cover the required Key Vault permissions, the App Service configuration,
+and how we can test the access.
+
+Please ground the answer in current official Microsoft Learn documentation and
+include links to the sources you used.
+
+Best regards,
+Alex Wilber
+Contoso IT

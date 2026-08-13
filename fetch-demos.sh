@@ -23,6 +23,12 @@ MAP="$(cat <<'EOF'
 09_Contracts|contract_northwind.pdf,contract_contoso.pdf,contract_fabrikam.pdf
 10_Financials|q3_financials.xlsx
 11_Email-to-Decision|budget_approval_email_thread.txt
+12_Contoso-Design-Skill_LIVE-no-file|
+13_Teams-Executive-Update_LIVE|
+14_Outlook-Follow-up_LIVE|
+15_Inbox-to-Excel_LIVE|
+16_Teams-Incident-Response_OPTIONAL|
+Automation_Event-Driven-Learn-Reply|event-driven-learn-trigger-email.txt
 EOF
 )"
 
@@ -44,5 +50,23 @@ while IFS='|' read -r demo files; do
   IFS=','; for f in $files; do cp "$ROOT/_src/$f" "$dir/"; done; unset IFS
 done <<< "$MAP"
 
+PROMPTS=(
+  01-executive-week-ahead.txt 02-margin-leak.txt 03-weekly-1on1-prep.txt
+  04-qbr-prep-cross-app.txt 05-product-launch-command-center.txt
+  06-sales-performance-cockpit.txt 07-offsite-transcript-to-deck.txt
+  08-engagement-survey-to-deck.txt 09-contracts-compare-to-word.txt
+  10-financials-to-board-deck.txt 11-email-thread-to-decision.txt
+  12-contoso-design-skill.txt 13-teams-executive-update.txt
+  14-outlook-customer-follow-up.txt 15-inbox-triage-to-excel.txt
+  16-teams-incident-response.txt
+)
+for lang in de en; do
+  prompt_dir="$ROOT/_Prompts_$(printf '%s' "$lang" | tr '[:lower:]' '[:upper:]')"
+  mkdir -p "$prompt_dir"
+  for name in "${PROMPTS[@]}"; do
+    curl -fsSL "$BASE/prompts/$lang/$name" -o "$prompt_dir/$name"
+  done
+done
+
 rm -rf "$ROOT/_src"
-echo "✅ Done → $ROOT"
+echo "✅ Done — demo folders + DE/EN prompts → $ROOT"

@@ -1,0 +1,12 @@
+Nutze strategy_offsite_transcript.docx. Extrahiere die getroffenen
+Entscheidungen, die Abwägungen und die Aktionspunkte mit Verantwortlichen.
+Erstelle daraus eine PowerPoint-Vorstandspräsentation mit 10 Folien:
+1. Titelfolie
+2. Management-Zusammenfassung
+3–7. Eine Folie je wichtiger Entscheidung (mit der zugrunde liegenden Abwägung)
+8. Risiken und Abhängigkeiten
+9. Verantwortliche und Zeitplan
+10. Nächste Schritte
+
+Eingabedatei: strategy_offsite_transcript.docx (rohes Transkript einer
+ca. 90-minütigen Sitzung, 5 Personen: CEO, CFO, VP Sales, VP Product, VP CS).
