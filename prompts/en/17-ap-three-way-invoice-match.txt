@@ -1,0 +1,27 @@
+Use only the supplied synthetic files:
+- ap_policy.docx
+- ap_po_lines.xlsx
+- ap_goods_receipts.csv
+- ap_vendor_master.xlsx
+- all nine ap_invoice_*.pdf files
+
+Treat ap_policy.docx as authoritative. Perform a line-level three-way match between invoices, purchase orders, and accepted goods receipts.
+
+MANDATORY RULES
+1. Match only on Vendor ID, PO number, PO line, and SKU. Never fill in or infer a missing key.
+2. Apply price, quantity, tax, freight, currency, vendor-status, and duplicate rules exactly as defined in ap_policy.docx.
+3. Use only the status and exception codes defined by the policy.
+4. Cite the source filename and record keys for every result.
+5. Do not modify source files and do not approve or post any payment.
+
+CREATE
+1. AP_Match_Control.xlsx with Control, Invoice_Lines, PO_Lines, Receipts, Match_Result, and Exceptions worksheets.
+   - Use formulas for totals, rates, and reconciliations.
+   - Prove: total invoice value = cleared value + blocked value.
+   - Show count and value by exception code plus unresolved human decisions.
+2. AP_Review_Memo.docx with match rate, blocked value, material exceptions, assumptions, control failures, and recommended decisions. Label every recommendation "Pending human review."
+3. Vendor_Query_Drafts.docx with one factual clarification draft per affected vendor. Do not send any message.
+4. AP_Run_Log.md listing inputs, rules applied, record counts, control totals, unresolved ambiguities, and validation results.
+5. An Outlook draft to admin@M365CPI98544940.onmicrosoft.com with a concise AP review summary and the newly created control artifacts attached. Do not send it.
+
+Stop and report the issue if policy rules conflict, a key is ambiguous, or any reconciliation fails. Show me the control summary first, then the exceptions, followed by every artifact and the Outlook draft for review.

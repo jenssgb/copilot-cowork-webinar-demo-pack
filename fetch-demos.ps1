@@ -29,6 +29,7 @@ $Map = [ordered]@{
   '14_Outlook-Follow-up_LIVE' = ''
   '15_Inbox-to-Excel_LIVE' = ''
   '16_Teams-Incident-Response_OPTIONAL' = ''
+  '17_AP-Three-Way-Match' = 'ap_policy.docx,ap_po_lines.xlsx,ap_goods_receipts.csv,ap_vendor_master.xlsx,ap_invoice_AC-1042.pdf,ap_invoice_NL-8821.pdf,ap_invoice_FF-2207.pdf,ap_invoice_CC-7710.pdf,ap_invoice_TS-5520-A.pdf,ap_invoice_TS-5520-B.pdf,ap_invoice_LT-3901.pdf,ap_invoice_AC-1043.pdf,ap_invoice_NL-8822.pdf'
   'Automation_Event-Driven-Learn-Reply' = 'event-driven-learn-trigger-email.txt'
 }
 
@@ -56,7 +57,7 @@ foreach ($demo in $Map.Keys) {
   foreach ($f in $Map[$demo].Split(',')) { Copy-Item $cache[$f] (Join-Path $dir $f) -Force }
 }
 
-$PromptNames = 1..16 | ForEach-Object {
+$PromptNames = 1..17 | ForEach-Object {
   switch ($_){
     1 {'01-executive-week-ahead.txt'} 2 {'02-margin-leak.txt'} 3 {'03-weekly-1on1-prep.txt'}
     4 {'04-qbr-prep-cross-app.txt'} 5 {'05-product-launch-command-center.txt'}
@@ -65,7 +66,7 @@ $PromptNames = 1..16 | ForEach-Object {
     10 {'10-financials-to-board-deck.txt'} 11 {'11-email-thread-to-decision.txt'}
     12 {'12-contoso-design-skill.txt'} 13 {'13-teams-executive-update.txt'}
     14 {'14-outlook-customer-follow-up.txt'} 15 {'15-inbox-triage-to-excel.txt'}
-    16 {'16-teams-incident-response.txt'}
+    16 {'16-teams-incident-response.txt'} 17 {'17-ap-three-way-invoice-match.txt'}
   }
 }
 foreach ($lang in @('de','en')) {

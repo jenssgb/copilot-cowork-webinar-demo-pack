@@ -1,0 +1,30 @@
+﻿Receipt ID,PO Number,PO Line,SKU,Receipt Date,Delivered Qty,Accepted Qty,Rejected Qty,Receiver,Location,Delivery Note,Disposition,Receiving Notes
+GR-260701,PO-260101,1,AC-RB440,2026-07-24,6,6,0,Amina Yusuf,Denver Central Receiving,DN-AC-7721,Accepted,First partial shipment
+GR-260702,PO-260101,1,AC-RB440,2026-07-28,4,4,0,Amina Yusuf,Denver Central Receiving,DN-AC-7750,Accepted,Balance received
+GR-260703,PO-260101,2,AC-SK210,2026-07-28,20,20,0,Amina Yusuf,Denver Central Receiving,DN-AC-7750,Accepted,
+GR-260704,PO-260102,1,NL-DOCK8,2026-07-27,15,15,0,Leo Martin,Amsterdam Office Store,NL-DN-4418,Accepted,Partial delivery
+GR-260705,PO-260102,1,NL-DOCK8,2026-07-30,10,10,0,Leo Martin,Amsterdam Office Store,NL-DN-4452,Accepted,Balance delivery
+GR-260706,PO-260102,2,NL-ERGO2,2026-07-30,10,10,0,Leo Martin,Amsterdam Office Store,NL-DN-4452,Accepted,
+GR-260707,PO-260103,1,FF-PR900,2026-07-31,8,8,0,Marta Klein,Munich Production Dock,FF-LS-9205,Accepted,
+GR-260708,PO-260103,2,FF-DIE45,2026-07-31,20,20,0,Marta Klein,Munich Production Dock,FF-LS-9205,Accepted,
+GR-260709,PO-260104,1,CC-BOX12,2026-08-01,45,40,5,Theo Brooks,Portland Warehouse,CC-DN-1882,Partially Accepted,Five cartons crushed and rejected
+GR-260710,PO-260104,1,CC-BOX12,2026-08-03,30,30,0,Theo Brooks,Portland Warehouse,CC-DN-1901,Accepted,Accepted total is 70; replacement for rejected stock not yet received
+GR-260711,PO-260104,2,CC-FOAM18,2026-08-03,50,50,0,Theo Brooks,Portland Warehouse,CC-DN-1901,Accepted,
+GR-260712,PO-260105,1,TS-CASE210,2026-08-02,10,10,0,Freya Evans,Bristol Logistics Hub,TS-POD-5512,Accepted,Partial delivery
+GR-260713,PO-260105,1,TS-CASE210,2026-08-04,5,5,0,Freya Evans,Bristol Logistics Hub,TS-POD-5538,Accepted,Balance delivery
+GR-260714,PO-260105,2,TS-STRAP48,2026-08-04,30,30,0,Freya Evans,Bristol Logistics Hub,TS-POD-5538,Accepted,
+GR-260715,PO-260106,1,AC-CPL300,2026-08-05,12,12,0,Amina Yusuf,Denver Central Receiving,DN-AC-7819,Accepted,
+GR-260716,PO-260106,2,AC-SNS800,2026-08-05,4,4,0,Amina Yusuf,Denver Central Receiving,DN-AC-7819,Accepted,
+GR-260717,PO-260107,1,NL-KEY75,2026-08-06,25,25,0,Leo Martin,Amsterdam Office Store,NL-DN-4510,Accepted,15 units remain open
+GR-260718,PO-260107,2,NL-HUB140,2026-08-06,12,12,0,Leo Martin,Amsterdam Office Store,NL-DN-4510,Accepted,Eight units scheduled for 18 Aug 2026
+GR-260719,PO-260108,1,MS-HELMET,2026-08-08,30,30,0,Elsa Novak,Stockholm Safety Store,MS-FS-6610,Accepted,Partial delivery
+GR-260720,PO-260108,1,MS-HELMET,2026-08-12,30,30,0,Elsa Novak,Stockholm Safety Store,MS-FS-6648,Accepted,Balance delivery
+GR-260721,PO-260108,2,MS-GLOVE,2026-08-12,120,118,2,Elsa Novak,Stockholm Safety Store,MS-FS-6648,Partially Accepted,Two pairs failed inspection
+GR-260722,PO-260108,3,MS-VEST,2026-08-12,80,80,0,Elsa Novak,Stockholm Safety Store,MS-FS-6648,Accepted,
+GR-260723,PO-260109,1,BP-HVAC-Q,2026-08-10,1,1,0,Chloe Nguyen,Sydney Operations Center,BP-SR-3381,Accepted,Service entry approved
+GR-260724,PO-260109,2,BP-FLTR20,2026-08-10,12,12,0,Chloe Nguyen,Sydney Operations Center,BP-DN-3382,Accepted,Eight filters remain open
+GR-260725,PO-260110,1,QS-SW24,2026-08-11,4,4,0,Ethan Wells,Seattle IT Staging,QS-DN-7401,Accepted,Partial delivery
+GR-260726,PO-260110,1,QS-SW24,2026-08-13,2,2,0,Ethan Wells,Seattle IT Staging,QS-DN-7422,Accepted,Balance delivery
+GR-260727,PO-260110,2,QS-AP6,2026-08-13,12,12,0,Ethan Wells,Seattle IT Staging,QS-DN-7422,Accepted,
+GR-260728,PO-260110,3,QS-RACK,2026-08-13,2,2,0,Ethan Wells,Seattle IT Staging,QS-DN-7422,Accepted,
+GR-260729,PO-260110,4,QS-CONFIG,2026-08-13,2,2,0,Ethan Wells,Seattle IT Staging,QS-SR-7423,Accepted,Two service days remain open

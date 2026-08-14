@@ -1,0 +1,27 @@
+Nutze ausschließlich die bereitgestellten synthetischen Dateien:
+- ap_policy.docx
+- ap_po_lines.xlsx
+- ap_goods_receipts.csv
+- ap_vendor_master.xlsx
+- alle neun ap_invoice_*.pdf-Dateien
+
+Behandle ap_policy.docx als verbindliche Richtlinie. Führe einen zeilenweisen Drei-Wege-Abgleich zwischen Rechnungen, Bestellungen und akzeptierten Wareneingängen durch.
+
+VERBINDLICHE REGELN
+1. Gleiche ausschließlich über Vendor ID, PO-Nummer, PO-Zeile und SKU ab. Ergänze oder errate keinen fehlenden Schlüssel.
+2. Wende Preis-, Mengen-, Steuer-, Fracht-, Währungs-, Lieferantenstatus- und Duplikatregeln exakt gemäß ap_policy.docx an.
+3. Verwende ausschließlich die in der Policy definierten Status- und Exception-Codes.
+4. Zitiere für jedes Ergebnis die Quelldatei und die jeweiligen Belegschlüssel.
+5. Verändere keine Quelldatei und genehmige oder buche keine Zahlung.
+
+ERSTELLE
+1. AP_Match_Control.xlsx mit den Tabellenblättern Control, Invoice_Lines, PO_Lines, Receipts, Match_Result und Exceptions.
+   - Nutze Formeln für Summen, Quoten und Abstimmungen.
+   - Weise nach: Rechnungswert gesamt = freigegebener Wert + blockierter Wert.
+   - Zeige Anzahl und Wert je Exception-Code sowie offene menschliche Entscheidungen.
+2. AP_Review_Memo.docx mit Match-Quote, blockiertem Wert, wesentlichen Ausnahmen, Annahmen, Kontrollfehlern und empfohlenen Entscheidungen. Kennzeichne jede Empfehlung als „Pending human review“.
+3. Vendor_Query_Drafts.docx mit einem sachlichen Klärungsentwurf je betroffenem Lieferanten. Keine Nachricht senden.
+4. AP_Run_Log.md mit Inputs, angewendeten Regeln, Record Counts, Kontrollsummen, ungelösten Mehrdeutigkeiten und Validierungsergebnissen.
+5. Einen Outlook-Entwurf an admin@M365CPI98544940.onmicrosoft.com mit einer kurzen AP-Review-Zusammenfassung und den neu erstellten Kontrollartefakten als Anlagen. Nicht senden.
+
+Stoppe und melde den Fehler, wenn sich Policy-Regeln widersprechen, ein Schlüssel nicht eindeutig ist oder eine Abstimmung nicht aufgeht. Zeige mir zuerst die Kontrollzusammenfassung, dann die Exceptions und anschließend alle Artefakte sowie den Outlook-Entwurf zur Prüfung.

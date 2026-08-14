@@ -28,6 +28,7 @@ MAP="$(cat <<'EOF'
 14_Outlook-Follow-up_LIVE|
 15_Inbox-to-Excel_LIVE|
 16_Teams-Incident-Response_OPTIONAL|
+17_AP-Three-Way-Match|ap_policy.docx,ap_po_lines.xlsx,ap_goods_receipts.csv,ap_vendor_master.xlsx,ap_invoice_AC-1042.pdf,ap_invoice_NL-8821.pdf,ap_invoice_FF-2207.pdf,ap_invoice_CC-7710.pdf,ap_invoice_TS-5520-A.pdf,ap_invoice_TS-5520-B.pdf,ap_invoice_LT-3901.pdf,ap_invoice_AC-1043.pdf,ap_invoice_NL-8822.pdf
 Automation_Event-Driven-Learn-Reply|event-driven-learn-trigger-email.txt
 EOF
 )"
@@ -58,7 +59,7 @@ PROMPTS=(
   10-financials-to-board-deck.txt 11-email-thread-to-decision.txt
   12-contoso-design-skill.txt 13-teams-executive-update.txt
   14-outlook-customer-follow-up.txt 15-inbox-triage-to-excel.txt
-  16-teams-incident-response.txt
+  16-teams-incident-response.txt 17-ap-three-way-invoice-match.txt
 )
 for lang in de en; do
   prompt_dir="$ROOT/_Prompts_$(printf '%s' "$lang" | tr '[:lower:]' '[:upper:]')"

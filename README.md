@@ -68,10 +68,10 @@ Upload file-based inputs to OneDrive or SharePoint afterward, for example to
 | Deutsch | [`prompts/de/`](prompts/de/) |
 | English | [`prompts/en/`](prompts/en/) |
 
-Beide Ordner enthalten dieselben 16 nummerierten Dateien. Hub und Prompt-Dateien
+Beide Ordner enthalten dieselben 17 nummerierten Dateien. Hub und Prompt-Dateien
 verwenden denselben Demo-Umfang und dieselben Sicherheitsgrenzen.
 
-Both folders contain the same 16 numbered files. The hub and prompt files use
+Both folders contain the same 17 numbered files. The hub and prompt files use
 the same demo scope and safety boundaries.
 
 ---
@@ -91,6 +91,11 @@ the same demo scope and safety boundaries.
 | `q3_financials.xlsx` | P&L, segments, KPIs, and ledger detail | 10 · Financials to Board |
 | `budget_approval_email_thread.txt` | English decision email thread | 11 · Email to Decision |
 | `event-driven-learn-trigger-email.txt` | DE/EN trigger subjects and message bodies | Event-driven Learn reply |
+| `ap_policy.docx` | Authoritative matching policy, tolerances, exception codes, controls, and SLAs | 17 · AP Three-Way Match |
+| `ap_po_lines.xlsx` | Detailed synthetic purchase-order lines | 17 · AP Three-Way Match |
+| `ap_goods_receipts.csv` | Accepted/rejected and partial goods receipts | 17 · AP Three-Way Match |
+| `ap_vendor_master.xlsx` | Vendor status, currency, tax, owner, and risk data | 17 · AP Three-Way Match |
+| `ap_invoice_*.pdf` | Nine selectable-text invoices with planted match and exception scenarios | 17 · AP Three-Way Match |
 
 Demos 03, 12, 13, 14, 15, and 16 use live Microsoft 365 context or prompt-only
 inputs and do not require an uploaded source file.
@@ -147,6 +152,24 @@ posting each require explicit approval. Run the deterministic test case from
 the prompt in an internal channel and keep a completed run open. If the trigger does
 not fire in time, use the manual fallback prompt in a new conversation.
 
+### 17 · AP Three-Way Invoice Match
+
+**DE:** Diese deterministische Operations-Demo gleicht neun synthetische
+Rechnungen zeilenweise mit Bestellungen und akzeptierten Wareneingängen ab.
+`ap_policy.docx` ist verbindlich. Cowork erstellt ein kontrolliertes
+Excel-Workbook, Review-Memo, Vendor-Klärungsentwürfe, Run Log und einen
+Outlook-Entwurf. Es darf keine Zahlung genehmigen oder buchen. Für den
+Live-Termin die Artefakte einmal vorab erzeugen und mit
+`runbook/AP_Match_Expected_Results.xlsx` im privaten Presenter-Repo vergleichen.
+
+**EN:** This deterministic operations demo matches nine synthetic invoices at
+line level against purchase orders and accepted goods receipts.
+`ap_policy.docx` is authoritative. Cowork creates a controlled Excel workbook,
+review memo, vendor clarification drafts, run log, and an Outlook draft. It
+must not approve or post any payment. Before the live session, generate the
+artifacts once and compare them with `runbook/AP_Match_Expected_Results.xlsx`
+in the private presenter repository.
+
 ---
 
 ## Event-driven Microsoft Learn reply
@@ -189,6 +212,9 @@ the run as Deep Research rather than guaranteed MCP tool use.
       13–15 vorab ausführen und geprüfte Vorschauen, Register und Screenshots öffnen.
 - [ ] Treat demo 16 as optional; keep its manual prompt and completed run ready. /
       Demo 16 optional halten; manuellen Prompt und abgeschlossenen Run bereithalten.
+- [ ] Attach all 13 demo-17 inputs together and keep the validated expected-results
+      workbook plus prepared outputs ready. / Alle 13 Inputs für Demo 17 gemeinsam
+      anhängen und Erwartungsdatei sowie vorbereitete Ergebnisse bereithalten.
 
 ---
 
