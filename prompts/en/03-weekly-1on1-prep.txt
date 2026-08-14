@@ -15,4 +15,6 @@ Create an exact 1-page Word briefing with these sections:
 
 Ground every point in the available context, clearly flag missing information, and keep the briefing concise. Save it to OneDrive as "1on1-prep.docx".
 
+Pay particular attention to Project Aurora, the latest messages from Preston Morales and Leila Goncalves, and the Project Aurora Launch Readiness and Project Aurora Decision Review calendar entries.
+
 No upload file is needed for this demo; use Work IQ and my live Microsoft 365 work context.

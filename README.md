@@ -68,10 +68,10 @@ Upload file-based inputs to OneDrive or SharePoint afterward, for example to
 | Deutsch | [`prompts/de/`](prompts/de/) |
 | English | [`prompts/en/`](prompts/en/) |
 
-Beide Ordner enthalten dieselben 17 nummerierten Dateien. Hub und Prompt-Dateien
+Beide Ordner enthalten dieselben 18 nummerierten Dateien. Hub und Prompt-Dateien
 verwenden denselben Demo-Umfang und dieselben Sicherheitsgrenzen.
 
-Both folders contain the same 17 numbered files. The hub and prompt files use
+Both folders contain the same 18 numbered files. The hub and prompt files use
 the same demo scope and safety boundaries.
 
 ---
@@ -91,13 +91,14 @@ the same demo scope and safety boundaries.
 | `q3_financials.xlsx` | P&L, segments, KPIs, and ledger detail | 10 · Financials to Board |
 | `budget_approval_email_thread.txt` | English decision email thread | 11 · Email to Decision |
 | `event-driven-learn-trigger-email.txt` | DE/EN trigger subjects and message bodies | Event-driven Learn reply |
+| `aurora-persona-trigger-emails.txt` | Exact DE/EN messages for Leila and Preston desktops | 18 · Aurora Multi-User Handoff |
 | `ap_policy.docx` | Authoritative matching policy, tolerances, exception codes, controls, and SLAs | 17 · AP Three-Way Match |
 | `ap_po_lines.xlsx` | Detailed synthetic purchase-order lines | 17 · AP Three-Way Match |
 | `ap_goods_receipts.csv` | Accepted/rejected and partial goods receipts | 17 · AP Three-Way Match |
 | `ap_vendor_master.xlsx` | Vendor status, currency, tax, owner, and risk data | 17 · AP Three-Way Match |
 | `ap_invoice_*.pdf` | Nine selectable-text invoices with planted match and exception scenarios | 17 · AP Three-Way Match |
 
-Demos 03, 12, 13, 14, 15, and 16 use live Microsoft 365 context or prompt-only
+Demos 03, 12, 13, 14, 15, 16, and 18 use live Microsoft 365 context or prompt-only
 inputs and do not require an uploaded source file.
 
 ---

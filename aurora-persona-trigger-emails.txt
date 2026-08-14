@@ -1,0 +1,81 @@
+PROJECT AURORA MULTI-USER DEMO
+================================
+
+Use these exact messages if you want to send fresh live inputs from the
+Leila and Preston desktops. The tenant seeder also creates equivalent received
+messages directly in the Admin inbox.
+
+ENGLISH
+-------
+
+FROM: Preston Morales <PrestonM@M365CPI98544940.onmicrosoft.com>
+TO: admin@M365CPI98544940.onmicrosoft.com
+SUBJECT: Project Aurora: beta extension decision needed by Friday
+
+Hi,
+
+We need a decision on the Aurora beta by Friday at 16:00. Adoption is at 78%,
+but three critical customer issues remain open. My recommendation is to extend
+the beta by two weeks while keeping the 1 September pilot date.
+
+I own the commercial rollout and EMEA enablement. Leila owns the remaining
+security actions. Please confirm the direction before the launch-readiness
+meeting.
+
+Thanks,
+Preston
+
+FROM: Leila Goncalves <LeilaG@M365CPI98544940.onmicrosoft.com>
+TO: admin@M365CPI98544940.onmicrosoft.com
+SUBJECT: Project Aurora security review: two actions before go-live
+
+Hi,
+
+The Aurora security review is substantially complete. Two actions remain
+before go-live: approve the EMEA-first SSO rollout and attach the updated
+data-processing addendum to the launch record. Both can be completed by Friday
+if we receive the rollout decision today.
+
+I own both security actions and will provide the final sign-off once they are
+closed.
+
+Regards,
+Leila
+
+DEUTSCH
+-------
+
+VON: Preston Morales <PrestonM@M365CPI98544940.onmicrosoft.com>
+AN: admin@M365CPI98544940.onmicrosoft.com
+BETREFF: Project Aurora: Entscheidung zur Beta-Verlaengerung bis Freitag
+
+Hallo,
+
+wir brauchen bis Freitag um 16:00 Uhr eine Entscheidung zur Aurora-Beta. Die
+Adoption liegt bei 78 %, aber drei kritische Kundenprobleme sind noch offen.
+Meine Empfehlung ist, die Beta um zwei Wochen zu verlaengern und den Pilotstart
+am 1. September beizubehalten.
+
+Ich verantworte den Commercial Rollout und das EMEA Enablement. Leila
+verantwortet die verbleibenden Security-Aktionen. Bitte bestaetige die Richtung
+vor dem Launch-Readiness-Termin.
+
+Danke,
+Preston
+
+VON: Leila Goncalves <LeilaG@M365CPI98544940.onmicrosoft.com>
+AN: admin@M365CPI98544940.onmicrosoft.com
+BETREFF: Project Aurora Security Review: zwei Aktionen vor Go-live
+
+Hallo,
+
+der Aurora Security Review ist weitgehend abgeschlossen. Zwei Aktionen sind vor
+dem Go-live noch offen: Freigabe des EMEA-first SSO-Rollouts und Ablage des
+aktualisierten Data Processing Addendum im Launch Record. Beides kann bis
+Freitag abgeschlossen werden, wenn wir heute die Rollout-Entscheidung erhalten.
+
+Ich verantworte beide Security-Aktionen und erteile den finalen Sign-off, sobald
+sie abgeschlossen sind.
+
+Viele Gruesse
+Leila

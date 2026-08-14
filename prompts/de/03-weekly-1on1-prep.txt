@@ -15,4 +15,6 @@ Erstelle ein exakt einseitiges Word-Briefing mit diesen Abschnitten:
 
 Stütze jeden Punkt auf den verfügbaren Kontext, kennzeichne fehlende Informationen deutlich und halte das Briefing prägnant. Speichere es auf OneDrive als „1on1-prep.docx“.
 
+Achte besonders auf Project Aurora, die neuesten Nachrichten von Preston Morales und Leila Goncalves sowie die Kalendereinträge Project Aurora Launch Readiness und Project Aurora Decision Review.
+
 Für diese Demo ist keine Upload-Datei erforderlich; nutze Work IQ und meinen aktuellen Microsoft-365-Arbeitskontext.

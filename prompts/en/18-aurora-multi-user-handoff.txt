@@ -1,0 +1,11 @@
+Use my live Microsoft 365 work context to prepare the Project Aurora launch decision.
+
+1. Find the latest relevant messages from Preston Morales and Leila Goncalves.
+2. Review the Project Aurora Launch Readiness and Project Aurora Decision Review calendar entries.
+3. Reconcile the facts across email and calendar. Do not invent missing information.
+4. Create "Aurora-Decision-Brief.docx" with current status, the decision required, evidence, risks, recommendation, owners, and deadlines.
+5. Create "Aurora-Action-Tracker.xlsx" with Action | Owner | Deadline | Source | Status.
+6. Draft one Outlook reply to Preston Morales and Leila Goncalves that confirms the proposed direction and lists the next actions.
+7. Draft a concise executive update for my own Teams chat.
+
+Show the source summary, both files, recipients, and the Teams destination for review. Do not send, post, or schedule anything without my explicit approval.
